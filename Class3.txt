@@ -1,0 +1,124 @@
+4th  - April - 2025
+Class 3
+
+BATCHIM RULES (7 Final Sounds)
+1. ㄱ,ㅋ,ㄲ → [k]: 
+수박 (su-bak) = watermelon
+밖 (bak) = outside
+부엌 (bu-eok) = kitchen
+
+2. ㄴ → [n]: 
+안 (an) = inside
+눈 (nun) = eye/snow
+라면 (ra-myeon) = ramen
+
+3. ㄷ,ㅅ,ㅆ,ㅈ,ㅊ,ㅌ,ㅎ → [t]: 
+옷 (ot) = clothes
+꽃 (kkot) = flower
+밭 (bat) = field
+
+4. ㄹ → [l]: 
+달 (dal) = moon
+물 (mul) = water
+실 (sil) = thread
+
+5. ㅁ → [m]: 
+밤 (bam) = night/chestnut
+마음 (ma-eum) = heart
+힘 (him) = strength
+
+6. ㅂ,ㅍ → [p]: 
+집 (jip) = house
+입 (ip) = mouth
+앞 (ap) = front
+
+7. ㅇ → [ng]: 
+공 (gong) = ball
+상 (sang) = prize
+빵 (ppang) = bread
+
+KOREAN CONSONANT ASSIMILATION RULES:
+- when one consonant influences or changes the pronunciation of another consonant when they appear next to each other
+1. ㅂ + ㄴ → [m-n]
+입니다 = [임니다] (im-ni-da)
+(NOT ip-ni-da)
+
+2.
+같이 → [가치] (kachi) = together
+(NOT kati)
+
+THE ㅎ (h) NEUTRALIZATION RULE
+- Final Position: When ㅎ is the final sound of a word or before a pause, it becomes silent/deleted:
+좋 (joh) → [조] (jo) = good
+놓 (noh) → [노] (no) = put
+- Before Consonants: When ㅎ precedes another consonant, it is also typically silent:
+않고 (anh-go) → [안꼬] (an-kko) = not doing
+좋다 (joh-da) → [조따] (jo-tta) = to be good
+
+DOUBLE BATCHIM RULES:
+1. Final Position Rule: When a double batchim appears at the end of a word or before a consonant, typically only one consonant is pronounced (usually the first, with some exceptions).
+
+ㄶ (ㄴㅎ): 많다 (man-ta) - "many" - only ㄴ is pronounced
+ㅄ (ㅂㅅ): 값 (gap) - "price" - only ㅂ is pronounced
+ㄺ (ㄹㄱ): 읽다 (il-ta) - "to read" - only ㄱ is pronounced (exception to first consonant rule)
+ㄾ (ㄹㅌ): 핥다 (hal-ta) - "to lick" - only ㄹ is pronounced
+ㄻ (ㄹㅁ): 삶 (sam) - "life" - only ㅁ is pronounced (exception to first consonant rule)
+ㄿ (ㄹㅍ): 읊다 (eup-ta) - "to recite" - only ㅍ is pronounced (exception to first consonant rule)
+
+2. When a double batchim is followed by a vowel, the second consonant moves to the next syllable.
+
+ㄶ (ㄴㅎ): 많아요 (ma-na-yo) - "there are many" - ㅎ moves to next syllable
+ㅄ (ㅂㅅ): 값이 (gap-si) - "price is" - ㅅ moves to next syllable
+ㄺ (ㄹㄱ): 읽어요 (il-geo-yo) - "read (polite)" - ㄱ moves to next syllable
+ㄾ (ㄹㅌ): 핥아요 (hal-ta-yo) - "lick (polite)" - ㅌ moves to next syllable
+ㄻ (ㄹㅁ): 삶이 (sal-mi) - "life is" - ㅁ moves to next syllable
+ㄿ (ㄹㅍ): 읊어요 (eul-peo-yo) - "recite (polite)" - ㅍ moves to next syllable
+
+KOREAN GREETINGS QUICK REFERENCE
+안녕하세요 (Annyeonghaseyo) - Hello / Hi (formal greeting)
+만나서 반갑습니다 (Mannaso bangapsimnida) - Nice to meet you (formal)
+안녕히 가세요 (Annyeonghi gaseyo) - Goodbye (to someone leaving) / "Go well"
+안녕히 계세요 (Annyeonghi gyeseyo) - Goodbye (when you're leaving) / "Stay well"
+감사합니다 (Kamsahamnida) - Thank you (formal)
+아니에요 (Anieyo) - No problem / You're welcome / It's nothing
+죄송합니다 (Jwaesonghamnida) - I'm sorry (formal)
+괜찮아요 (Gwaenchanayo) - It's okay / No problem / I'm fine
+
+SUMMARY OF KOREAN FOOD VOCABULARY FROM KCCLA LANGUAGE SERIES
+Meal Times
+아침 (achim) - breakfast
+점심 (jeomshim) - lunch
+저녁 (jeonyeok) - dinner
+Basic Food Terms
+밥 (bap) - cooked rice/grains; can also mean "meal" or "food" generally
+반찬 (banchan) - side dishes that accompany rice
+Popular Rice Dishes
+김밥 (kimbap) - seaweed rice rolls
+비빔밥 (bibimbap) - mixed rice dish
+볶음밥 (bokkeumbap) - fried rice
+Fermented Foods (발효 음식 - bario umshik)
+메주 (meju) - fermented soybean blocks (base for many condiments)
+된장 (doenjang) - soybean paste
+고추장 (gochujang) - red chili paste
+쌈장 (ssamjang) - thick soybean paste combining doenjang and gochujang
+청장 (cheongjang) - fast fermented bean paste
+Delivery Food (배달 음식 - baedal eumshik)
+치킨 (chikin) - chicken
+후라이드 치킨 (huraideo chikin) - fried chicken
+양념 치킨 (yangnyeom chikin) - fried chicken coated in spicy sauce
+보쌈 (bossam) - boiled pork eaten with sauce and wrapped in greens
+족발 (jokbal) - seasoned pig's feet
+짜장면 (jjajangmyeon) - black bean sauce noodles
+라면 (ramyeon) - noodles
+Snacks (간식 - gansik)
+초코파이 (choko pai) - chocolate pie/cake with marshmallow filling
+계란빵 (gyeranppang) - bread with egg on top
+붕어빵 (bungeoppang) - fish-shaped pastry with sweet red bean filling
+Meal-Related Expressions
+많이 드세요 (mani deuseyo) - "Please eat a lot" (similar to "Bon appétit")
+잘 먹겠습니다 (jal meokgetseumnida) - "I will eat well" (said before eating)
+잘 먹었습니다 (jal meogeotseumnida) - "I ate well" (said after finishing a meal)
+밥 먹었어? (bam meogeosseo?) - "Did you eat?" (casual way to ask "How are you?")
+식사 하셨어요? (shiksa hashyeosseoyo?) - "Did you eat?" (honorific form)
+Cultural Proverb
+그림의 떡 (geulim-ui tteok) - "Rice cake in a picture" (similar to "pie in the sky")

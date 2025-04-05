@@ -1,0 +1,30 @@
+21st - March - 2025
+Class 1
+
+Total 40 characters
+(Consonants + Vowels)
+Basic Vowels - 10
+Basic Consonants- 14
+Complex Consonants- 5
+Complex Vowels - 11
+
+King Sejong created Hangul Alphabet - 1443
+Before that Chinese chars were being used
+
+BASIC CONSONANTS:
+  ㅏ (a), ㅑ (ya), ㅓ (eo), ㅕ (yeo), ㅗ (o), ㅛ (yo), ㅜ (u), ㅠ (yu), ㅡ (eu), ㅣ (i)
+
+BASIC VOWELS:
+ㄱ (k/g), ㄴ (n), ㄷ (d), ㄹ (r/l), ㅁ (m), ㅂ (b), ㅅ (s), ㅇ (a/ng), ㅈ (j), ㅊ (ch), ㅋ (kh), ㅌ (th), ㅍ (ph), ㅎ (h)
+
+Combinations of Consonants and Vowels:
+
+가 (ka), 갸 (kya), 거 (keo), 겨 (kyeo), 고 (ko), 교 (kyo), 구 (ku), 규 (kyu), 그 (keu), 기 (ki)
+.. Similarly for all 14 basic Consonants
+
+Note: Different pronunciations for S and Sh for Consonant ㅅ (So and Sho)
+- 시 (si) sounds like "shi", not "si" as in "see."
+
+-DOUBT: is it pronounced "sh" for 서 "seo" and 셔 "syeo" as well?
+
+Hallyu - The Korean Wave
