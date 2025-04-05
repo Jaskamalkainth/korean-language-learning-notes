@@ -85,23 +85,28 @@ KOREAN GREETINGS QUICK REFERENCE
 괜찮아요 (Gwaenchanayo) - It's okay / No problem / I'm fine
 
 SUMMARY OF KOREAN FOOD VOCABULARY FROM KCCLA LANGUAGE SERIES
+(https://krisp.ai/youtube-video-summarizer/)
 Meal Times
 아침 (achim) - breakfast
 점심 (jeomshim) - lunch
 저녁 (jeonyeok) - dinner
+
 Basic Food Terms
 밥 (bap) - cooked rice/grains; can also mean "meal" or "food" generally
 반찬 (banchan) - side dishes that accompany rice
+
 Popular Rice Dishes
 김밥 (kimbap) - seaweed rice rolls
 비빔밥 (bibimbap) - mixed rice dish
 볶음밥 (bokkeumbap) - fried rice
+
 Fermented Foods (발효 음식 - bario umshik)
 메주 (meju) - fermented soybean blocks (base for many condiments)
 된장 (doenjang) - soybean paste
 고추장 (gochujang) - red chili paste
 쌈장 (ssamjang) - thick soybean paste combining doenjang and gochujang
 청장 (cheongjang) - fast fermented bean paste
+
 Delivery Food (배달 음식 - baedal eumshik)
 치킨 (chikin) - chicken
 후라이드 치킨 (huraideo chikin) - fried chicken
@@ -110,15 +115,18 @@ Delivery Food (배달 음식 - baedal eumshik)
 족발 (jokbal) - seasoned pig's feet
 짜장면 (jjajangmyeon) - black bean sauce noodles
 라면 (ramyeon) - noodles
+
 Snacks (간식 - gansik)
 초코파이 (choko pai) - chocolate pie/cake with marshmallow filling
 계란빵 (gyeranppang) - bread with egg on top
 붕어빵 (bungeoppang) - fish-shaped pastry with sweet red bean filling
+
 Meal-Related Expressions
 많이 드세요 (mani deuseyo) - "Please eat a lot" (similar to "Bon appétit")
 잘 먹겠습니다 (jal meokgetseumnida) - "I will eat well" (said before eating)
 잘 먹었습니다 (jal meogeotseumnida) - "I ate well" (said after finishing a meal)
 밥 먹었어? (bam meogeosseo?) - "Did you eat?" (casual way to ask "How are you?")
 식사 하셨어요? (shiksa hashyeosseoyo?) - "Did you eat?" (honorific form)
+
 Cultural Proverb
 그림의 떡 (geulim-ui tteok) - "Rice cake in a picture" (similar to "pie in the sky")
