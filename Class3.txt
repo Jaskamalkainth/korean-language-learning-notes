@@ -55,7 +55,9 @@ THE ㅎ (h) NEUTRALIZATION RULE
 않고 (anh-go) → [안꼬] (an-kko) = not doing
 좋다 (joh-da) → [조따] (jo-tta) = to be good
 
-DOUBLE BATCHIM RULES:
+DOUBLE BATCHIM (11) RULES:
+The 11 double batchim combinations are: ㄳ(ㄱㅅ), ㄵ(ㄴㅈ), ㄶ(ㄴㅎ), ㄺ(ㄹㄱ), ㄻ(ㄹㅁ), ㄼ(ㄹㅂ), ㄽ(ㄹㅅ), ㄾ(ㄹㅌ), ㄿ(ㄹㅍ), ㅄ(ㅂㅅ), ㅆ(ㅅㅅ), with only one consonant typically pronounced in final position.
+
 1. Final Position Rule: When a double batchim appears at the end of a word or before a consonant, typically only one consonant is pronounced (usually the first, with some exceptions).
 
 ㄶ (ㄴㅎ): 많다 (man-ta) - "many" - only ㄴ is pronounced
