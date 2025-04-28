@@ -66,9 +66,17 @@ Extra:
 ----------##----------
 ## Korean "Happy Birthday" song
 생일 축하합니다 [Saengil chukahamnida] — Happy birthday to you
-생일 축하합니다 [Saengil chukahamnida] — Happy birthday to you
 사랑하는 (name) 씨 [Saranghaneun (name) ssi] — Dear (name)
-생일 축하합니다 [Saengil chukahamnida] — Happy birthday to you
+
+Vocab:
+생일 (saengil) = birthday
+축하하다 (chukahada) = to congratulate
+사랑하다 (saranghada) = to love
+사랑하는 (saranghaneun) = beloved/dear
+
+- Common birthday greetings:
+  - 생일 축하해요 (Saengil chukahaeyo) - informal "Happy Birthday"
+  - 생일 축하합니다 (Saengil chukahamnida) - formal "Happy Birthday"
 
 ## "Three Bears Song" (곰 세 마리)
 곰 세 마리가 한 집에 있어 [Gom se mari-ga han jib-e isseo] — Three bears are in one house
