@@ -1,0 +1,134 @@
+9th - May - 2025
+Class 7
+
+CHAPTER - 4
+
+물건 사기 1 (Shopping 1) [mulgeon sagi]
+
+Dialogue 1:
+A: 민수 씨, 어디 가요? [minsu ssi, eodi gayo?] → Where are you going, Minsoo?
+B: 시장에 가요. [sijange gayo] → I'm going to the market.
+A: 무엇을 사요? [mueoseul sayo?] → What will you buy?
+B: 사과를 사요. [sagwareul sayo] → I will buy some apples.
+
+Dialogue 2:
+점원: 무엇을 드릴까요? [mueoseul deurilkkayo?] → May I help you?
+손님: 사과는 얼마예요? [sagwaneun eolmayeyo?] → How much are the apples?
+점원: 1,000원이에요. [cheon won-ieyo] → They are 1,000 won.
+손님: 사과를 주세요. [sagwareul juseyo] → I'll take the apples, please.
+
+Vocabulary (어휘):
+Verbs (동사):
+사다 [sada] — to buy
+읽다 [ikda] — to read
+주다 [juda] — to give
+싸다 [ssada] — to be cheap
+비싸다 [bissada] — to be expensive
+
+Shopping Items (쇼핑할 물건):
+사과 [sagwa] — apple
+오렌지 [orenji] — orange
+우유 [uyu] — milk
+주스 [juseu] — juice
+빵 [ppang] — bread
+물 [mul] — water
+펜 [pen] — pen
+책 [chaek] — book
+
+Common Phrases:
+무엇을 드릴까요? [mueoseul deurilkkayo?] — May I help you?
+얼마예요? [eolmayeyo?] — How much is it?
+한국어 [hangugeo] — Korean language
+
+Sino-Korean Numbers (한자어 수 - hanja-eo su):
+일 [il] — 1
+이 [i] — 2
+삼 [sam] — 3
+사 [sa] — 4
+오 [o] — 5
+육 [yuk] — 6
+칠 [chil] — 7
+팔 [pal] — 8
+구 [gu] — 9
+십 [sip] — 10
+백 [baek] — 100
+천 [cheon] — 1,000
+만 [man] — 10,000 (ten thousand)
+억 [eok] — 100,000,000 (10^8) (hundred million)
+조 [jo] — 1,000,000,000,000 (10^12) (trillion)
+
+## Korean Currency (한국 화폐 - Hanguk Hwapye)
+
+화폐 [hwapye] — currency
+원 [won] — Korean currency unit
+### Currency Notes (지폐 - Jipye)
+천 원 [cheon won] — 1,000 won note
+오천 원 [ocheon won] — 5,000 won note
+만 원 [man won] — 10,000 won note
+오만 원 [oman won] — 50,000 won note
+### Coins (동전 - Dongjeon)
+
+Grammar Points (문법 - munbeop):
+
+1. 을/를 (Object Marker)
+Used after a noun to show it is the object of the sentence.
+Examples:
+사과를 사요 [sagwareul sayo] — Buy an apple
+책을 읽어요 [chaegeul ilgeoyo] — Read a book
+
+2. -(으)세요 (Honorific request)
+Attached to verbs to politely ask or request:
+Examples:
+사과를 주세요 [sagwareul juseyo] — Please give me apples
+책을 읽으세요 [chaegeul ilgeuseyo] — Please read a book
+한국어를 공부하세요 [hangugeoreul gongbuhaseyo] — Please study Korean
+
+Practical Exercises (실습):
+
+1. Role-play Shopping Situations
+Example:
+A: 펜은 얼마예요? [peneun eolmayeyo?] — How much is the pen?
+B: 700원이에요. [chilbaek won-ieyo] — It's 700 won.
+A: 펜을 주세요. [peneul juseyo] — Please give me the pen.
+
+2. Receipt Reading & Price Questions
+Practice reading a receipt and answering:
+물은 얼마예요? [mureun eolmayeyo?] — 500원 [obaek won]
+빵은 얼마예요? [ppangeun eolmayeyo?] — 1,300원 [cheon sambaek won]
+
+3. Buying Dialogue Completion
+Example:
+A: 무엇을 사요? [mueoseul sayo?] — What will you buy?
+B: 우유를 사요. [uyureul sayo] — I will buy milk.
+A: 무엇을 먹어요? [mueoseul meogeoyo?] — What will you eat?
+B: 빵을 먹어요. [ppangeul meogeoyo] — I will eat bread.
+
+4. Memo Practice
+Write or read a memo about buying items:
+"사과가 600원이에요. 오늘 시장에 가요."
+[sagwaga yukbaek won-ieyo. oneul sijange gayo.]
+— "Apples are 600 won. I'm going to the market today."
+
+## Date and Time in Korean (한국어 날짜와 시간) [hangugeo naljjawa sigan]
+
+년 / 월 / 일 [nyeon / wol / il] — Year / Month / Day
+2025년 5월 16일 [2025nyeon 5wol 16il] — May 16th, 2025
+
+## Months of the Year (월 - Wol)
+
+1월 [irwol] - January
+2월 [iwol] - February
+3월 [samwol] - March
+4월 [sawol] - April
+5월 [owol] - May
+6월 [yuwol] - June (Note: pronounced as "yuwol" not "yukwol")
+7월 [chirwol] - July
+8월 [palwol] - August
+9월 [guwol] - September
+10월 [siwol] - October (Note: pronounced as "siwol" not "sipwol")
+11월 [sibirwol] - November
+12월 [sibiwol] - December
+
+오늘은 이천이십오년 오월 구일입니다.
+[Oneul-eun icheon-isibo-nyeon owol gu-il-imnida.]
+Today is May 9th, 2025.
