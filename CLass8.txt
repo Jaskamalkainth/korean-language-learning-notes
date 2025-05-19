@@ -1,0 +1,201 @@
+16th - May - 2025
+Class 8
+
+- 환영합니다 [hwanyeonghamnida] — Welcome (formal)
+
+년 / 월 / 일 [nyeon / wol / il]
+2025년 5월 16일 [2025nyeon 5wol 16il]
+
+오늘은 이천이십오년 오월 십육일입니다.
+[Oneul-eun icheon-isibo-nyeon owol sibryuk-il-imnida.]
+
+## Days of the Week (요일 - Yoil)
+
+월요일 [woryoil] - Monday (Moon day)
+화요일 [hwayoil] - Tuesday (Fire day)
+수요일 [suyoil] - Wednesday (Water day)
+목요일 [mogyoil] - Thursday (Wood day)
+금요일 [geumyoil] - Friday (Gold/Metal day)
+토요일 [toyoil] - Saturday (Earth day)
+일요일 [iryoil] - Sunday (Sun day)
+
+Note: Korean days of the week are named after the celestial bodies and elements:
+- 월 (wol) - moon
+- 화 (hwa) - fire
+- 수 (su) - water
+- 목 (mok) - wood
+- 금 (geum) - gold/metal
+- 토 (to) - earth
+- 일 (il) - sun
+
+## Weekend (주말 - Jumal)
+
+주말 [jumal] - weekend
+
+- 이번 주말에 뭐 해요? [ibeon jumare mwo haeyo?] - What are you doing this weekend?
+- 주말 잘 보내세요. [jumal jal bonaeseyo.] - Have a good weekend.
+- 저는 주말에 보통 쉬어요. [jeoneun jumare botong swieoyo.] - I usually rest on the weekend.
+
+Vocabulary:
+- 이번 [ibeon] - this (time)
+- 뭐 [mwo] - what
+- 하다 [hada] - to do
+- 잘 [jal] - well
+- 보내다 [bonaeda] - to spend (time)
+- 보통 [botong] - usually
+- 쉬다 [swida] - to rest
+
+CHAPTER - 5
+
+물건 사기 2 (Shopping 2) [mulgeon sagi]
+
+Dialogue 1:
+A: 우유 있어요? [uyu isseoyo?] → Do you have milk?
+B: 네, 있습니다. [ne, isseumnida] → Yes, we do.
+A: 우유 하나 주세요. [uyu hana juseyo] → Please give me one carton of milk.
+B: 네, 여기 있습니다. [ne, yeogi isseumnida] → Here you are.
+
+Dialogue 2:
+A: 뭐 드릴까요? [mwo deurilkkayo?] → May I help you?
+B: 사과하고 오렌지 있어요? [sagwaha-go orenji isseoyo?] → Do you have apples and oranges?
+A: 네, 모두 있습니다. 몇 개 드릴까요?
+  [ne, modu isseumnida. myeot gae deurilkkayo?] → Yes, we have both. How many would you like?
+B: 사과 세 개하고 오렌지 두 개 주세요.
+  [sagwa se gaehago orenji du gae juseyo] → Please give me 3 apples and 2 oranges.
+
+Vocabulary
+Objects (물건):
+사과 — sagwa — apple
+오렌지 — orenji — orange
+빵 — ppang — bread
+우유 — uyu — milk
+물 — mul — water
+펜 — pen — pen
+책 — chaek — book
+
+Counters (단위 명사 – Unit Nouns):
+개 — gae — item counter (used for apples, bread, etc.) — 사과 한 개 [sagwa han gae] — 1 apple
+병 — byeong — bottle (used for water, milk, etc.) — 물 한 병 [mul han byeong] — 1 bottle of water
+명 — myeong — counter for people (formal) — 학생 세 명 [haksaeng se myeong] — 3 students
+권 — gwon — counter for books — 책 두 권 [chaek du gwon] — 2 books
+장 — jang — counter for flat objects (paper, tickets, etc.) — 종이 한 장 [jongi han jang] — 1 sheet of paper
+마리 — mari — counter for animals — 고양이 두 마리 [goyangi du mari] — 2 cats
+
+Examples:
+사과 세 개 [sagwa se gae] — 3 apples
+우유 두 병 [uyu du byeong] — 2 bottles of milk
+
+Native Korean Numbers (고유어 수):
+하나 [hana] — 1
+둘 [dul] — 2
+셋 [set] — 3
+넷 [net] — 4
+다섯 [daseot] — 5
+여섯 [yeoseot] — 6
+일곱 [ilgop] — 7
+여덟 [yeodeol] — 8
+아홉 [ahop] — 9
+열 [yeol] — 10
+열하나 [yeolhana] — 11
+스물 [seumul] — 20
+서른 [seoreun] — 30
+마흔 [maheun] — 40
+쉰 [swin] — 50
+예순 [yesun] — 60
+일흔 [ilheun] — 70
+여든 [yeodeun] — 80
+아흔 [aheun] — 90
+백 [baek] — 100
+천 [cheon] — 1,000
+만 [man] — 10,000 (ten thousand)
+억 [eok] — 100,000,000 (10^8) (hundred million)
+조 [jo] — 1,000,000,000,000 (10^12) (trillion)
+
+Important Note: When counting objects with counters, these numbers change form:
+한 [han] — 1 (e.g., 한 개 [han gae] — 1 item)
+두 [du] — 2 (e.g., 두 개 [du gae] — 2 items)
+세 [se] — 3 (e.g., 세 개 [se gae] — 3 items)
+네 [ne] — 4 (e.g., 네 개 [ne gae] — 4 items)
+다섯 [daseot] — 5 (remains the same with counters)
+
+Grammar Points
+-ㅂ니다 / -습니다 [-mnida / -seumnida]
+Formal sentence endings (declarative):
+있습니다 [isseumnida] — There is
+없습니다 [eopsseumnida] — There isn't
+
+-ㅂ니까 / -습니까 [-mnikka / -seumnikka]
+Formal interrogative endings:
+무엇을 삽니까? [mueoseul samnikka?] — What are you buying?
+몇 개 드릴까요? [myeot gae deurilkkayo?] — How many shall I give you?
+
+하고 [hago]
+Means "and" when listing nouns:
+사과 하고 오렌지 [sagwa hago orenji] — apples and oranges
+빵 한 개 하고 우유 두 병 [ppang han gae hago uyu du byeong] — one bread and two bottles of milk
+
+Body Parts (신체 부위 - Sinche Buwi):
+
+머리 [meori] — head
+머리카락 [meorikarak] — hair
+얼굴 [eolgul] — face
+눈 [nun] — eye(s)
+코 [ko] — nose
+입 [ip] — mouth
+귀 [gwi] — ear(s)
+목 [mok] — neck
+어깨 [eokkae] — shoulder
+팔 [pal] — arm
+손 [son] — hand
+손가락 [songarak] — finger
+가슴 [gaseum] — chest
+배 [bae] — stomach
+등 [deung] — back
+다리 [dari] — leg
+무릎 [mureup] — knee
+발 [bal] — foot
+발가락 [balgarak] — toe
+피부 [pibu] — skin
+
+Common Expressions:
+머리가 아파요 [meori-ga apayo] — My head hurts
+눈이 좋아요 [nun-i joayo] — I have good eyesight (My eyes are good)
+손이 차가워요 [son-i chagawoyo] — My hands are cold
+
+## Korean Language & Culture Series(Ep.7: Korean Attire)
+https://www.youtube.com/watch?v=Up1Bd7hoLO0
+
+Korean Attire Vocabulary (한복 - Hanbok)
+
+### Basic Terms
+한복 [hanbok] - traditional Korean clothing
+한국 [hanguk] - Korea
+한국어 [hangugeo] - Korean language
+입다 [ipda] - to wear, to put on clothing
+
+### Traditional Clothing Components
+치마 [chima] - skirt
+저고리 [jeogori] - top
+고름 [goreum] - long ties that fasten the top
+당의 [dangui] - elongated form of jeogori
+마고자 [magoja] - jacket
+바지 [baji] - pants
+갓 [gat] - horse hair hat
+상투 [sangtu] - top knot
+도포 [dopo] - very long coat
+노리개 [norigae] - ornaments worn with hanbok
+
+### Special Occasion Hanbok
+돌복 [dolbok] - hanbok worn on first birthday (돌)
+터부크 [teobuk] - formal ritual attire
+신한복 [sinhanbok] - new style hanbok
+생활한복 [saenghwal hanbok] - lifestyle hanbok
+
+### Proverb
+옷이 날개다 [osi nalgaeda] - Clothes are wings (Clothes give you wings)
+
+Note: The video also mentioned several historical figures and their attire from different periods:
+- Queen Seondeok (선덕여왕) of Silla
+- Wang Geon (왕건) of Goryeo
+- King Sejong (세종대왕) of Joseon
+- Hwang Jini (황진이) - famous gisaeng (기생) of 16th century Joseon
