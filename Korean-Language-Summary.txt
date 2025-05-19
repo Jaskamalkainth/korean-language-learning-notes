@@ -27,6 +27,7 @@ COMPLEX VOWELS (11):
 ㅚ (oe) – Like "we" in "wet" (similar to ㅙ)
 ㅝ (wo) – Like "wo" in "wonder"
 ㅞ (we) – Like "we" in "wedding"
+ㅟ (wi) – Like "wee" in "week"
 ㅢ (ui) – Like "ui" in "gooey"
 
 IMPORTANT RULES
