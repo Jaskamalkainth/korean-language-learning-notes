@@ -7,7 +7,7 @@ Class 8
 2025년 5월 16일 [2025nyeon 5wol 16il]
 
 오늘은 이천이십오년 오월 십육일입니다.
-[Oneul-eun icheon-isibo-nyeon owol sibryuk-il-imnida.]
+[Oneul-eun icheon-isibo-nyeon owol sibyuk-il-imnida.]
 Today is May 16th, 2025.
 
 ## Days of the Week (요일 - Yoil)
@@ -58,11 +58,11 @@ B: 네, 여기 있습니다. [ne, yeogi isseumnida] → Here you are.
 
 Dialogue 2:
 A: 뭐 드릴까요? [mwo deurilkkayo?] → May I help you?
-B: 사과하고 오렌지 있어요? [sagwaha-go orenji isseoyo?] → Do you have apples and oranges?
+B: 사과하고 오렌지 있어요? [sagwahago orenji isseoyo?] → Do you have apples and oranges?
 A: 네, 모두 있습니다. 몇 개 드릴까요?
-  [ne, modu isseumnida. myeot gae deurilkkayo?] → Yes, we have both. How many would you like?
+  [ne, modu isseumnida. myeot gae deurilkkayo?] → Yes, we have both. How many would you like?
 B: 사과 세 개하고 오렌지 두 개 주세요.
-  [sagwa se gaehago orenji du gae juseyo] → Please give me 3 apples and 2 oranges.
+  [sagwa se gaehago orenji du gae juseyo] → Please give me 3 apples and 2 oranges.
 
 Vocabulary
 Objects (물건):
@@ -132,8 +132,8 @@ Formal interrogative endings:
 
 하고 [hago]
 Means "and" when listing nouns:
-사과 하고 오렌지 [sagwa hago orenji] — apples and oranges
-빵 한 개 하고 우유 두 병 [ppang han gae hago uyu du byeong] — one bread and two bottles of milk
+사과하고 오렌지 [sagwa hago orenji] — apples and oranges
+빵 한 개하고 우유 두 병 [ppang han gaehago uyu du byeong] — one bread and two bottles of milk
 
 Body Parts (신체 부위 - Sinche Buwi):
 
@@ -188,7 +188,7 @@ Korean Attire Vocabulary (한복 - Hanbok)
 
 ### Special Occasion Hanbok
 돌복 [dolbok] - hanbok worn on first birthday (돌)
-터부크 [teobuk] - formal ritual attire
+투백 [tubaek] - formal ritual attire
 신한복 [sinhanbok] - new style hanbok
 생활한복 [saenghwal hanbok] - lifestyle hanbok
 
