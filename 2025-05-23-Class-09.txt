@@ -1,0 +1,190 @@
+23rd - May - 2025
+Class 9
+
+## Time Expressions (시간 표현 - Sigan Pyohyeon)
+
+### AM/PM
+오전 [ojeon] - AM
+오후 [ohu] - PM
+
+### Time Format
+시간 [sigan] - hour
+분 [bun] - minute
+
+### Examples:
+3:05 PM → 오후 세 시 오 분 [ohu se si o bun]
+9:30 AM → 오전 아홉 시 삼십 분 [ojeon ahop si samsip bun]
+12:00 PM → 오후 열두 시 [ohu yeoldu si]
+11:45 AM → 오전 열한 시 사십오 분 [ojeon yeolhan si sasibo bun]
+
+### Notes:
+- Use native Korean numbers (하나, 둘, 셋...) for hours
+- Use Sino-Korean numbers (일, 이, 삼...) for minutes
+- 시 [si] is used after the hour
+- 분 [bun] is used after the minutes
+- When it's exactly on the hour, 분 is omitted
+  Example: 3:00 PM → 오후 세 시 [ohu se si]
+
+CHAPTER - 6
+
+어제 일과 (Yesterday's Activities) [eoje ilgwa]
+
+Dialogue 1:
+A: 유키 씨는 어제 뭐 했어요? [yuki ssineun eoje mwo haesseoyo?]
+   → Yuki, what did you do yesterday?
+B: 민수 씨를 만났어요. 우리는 같이 밥을 먹었어요. [minsu ssireul mannasseoyo. urineun gachi babeul meogeosseoyo.]
+   → I met Minsoo. We ate together.
+A: 집에 있었어요? [jibe isseosseoyo?]
+   → Were you at home?
+B: 네, 집에 있었어요. [ne, jibe isseosseoyo.]
+   → Yes, I stayed at home.
+
+Dialogue 2:
+A: 마크 씨, 어제 뭐 했어요? [makeu ssi, eoje mwo haesseoyo?]
+   → Mark, what did you do yesterday?
+B: 한국 영화를 봤어요. [hanguk yeonghwareul bwasseoyo.]
+   → I watched a Korean movie.
+A: 영화관에서 영화를 봤어요? [yeonghwagwaneseo yeonghwareul bwasseoyo?]
+   → Did you watch it in the theater?
+B: 아니요. 집에서 봤어요. [aniyo. jibeseo bwasseoyo.]
+   → No, I watched it at home.
+
+## Vocabulary
+
+Verbs (동사):
+- 보다 [boda] → to see / watch
+- 읽다 [ikda] → to read
+- 듣다 [deutda] → to listen
+- 마시다 [masida] → to drink
+- 만나다 [mannada] → to meet
+- 먹다 [meokda] → to eat
+- 운동하다 [undonghada] → to exercise
+- 공부하다 [gongbuhada] → to study
+
+Places (장소 - Jangso):
+- 집 [jip] → home
+- 영화관 [yeonghwagwan] → movie theater
+- 도서관 [doseogwan] → library
+- 백화점 [baekhwajeom] → department store
+- 카페 [kape] → café
+- 공원 [gongwon] → park
+
+## Grammar Points
+
+1. -았어요 / -었어요 [-asseoyo / -eosseoyo] (Past tense marker)
+Used after verbs/adjectives to indicate past tense.
+Examples:
+- 갔어요 [gasseoyo] → went
+- 만났어요 [mannasseoyo] → met
+- 먹었어요 [meogeosseoyo] → ate
+- 공부했어요 [gongbuhaesseoyo] → studied
+
+2. 에서 [eseo] (Location marker)
+Indicates the place where an action occurs.
+Examples:
+- 도서관에서 책을 읽었어요 [doseogwaneseo chaegeul ilgeosseoyo] → I read a book at the library
+- 카페에서 커피를 마셨어요 [kapeseo keopireul masyeosseoyo] → I drank coffee at the café
+
+## Practice Examples
+- 어제 친구를 만났어요. [eoje chingureul mannasseoyo.] — I met a friend yesterday.
+- 공원에서 운동했어요. [gongwoneseo undonghasseoyo.] — I exercised at the park.
+- 영화관에서 영화를 봤어요. [yeonghwagwaneseo yeonghwareul bwasseoyo.] → I watched a movie at the theater.
+- 집에서 쉬었어요. [jibeseo swiesseoyo.] → I rested at home.
+
+## Useful Questions
+- 어제 뭐 했어요? [eoje mwo haesseoyo?] → What did you do yesterday?
+- 어디에서 밥을 먹었어요? [eodieseo babeul meogeosseoyo?] → Where did you eat?
+- 영화관에서 봤어요? [yeonghwagwaneseo bwasseoyo?] → Did you see it at the theater?
+ 
+Verbs (동사):
+- 보다 [boda] → to see | Present: 봐요 [bwayo] | Past: 봤어요 [bwasseoyo]
+- 읽다 [ikda] → to read | Present: 읽어요 [ilgeoyo] | Past: 읽었어요 [ilgeosseoyo]
+- 듣다 [deutda] → to listen | Present: 들어요 [deureoyo] | Past: 들었어요 [deureosseoyo]
+- 마시다 [masida] → to drink | Present: 마셔요 [masyeoyo] | Past: 마셨어요 [masyeosseoyo]
+- 만나다 [mannada] → to meet | Present: 만나요 [mannayo] | Past: 만났어요 [mannasseoyo]
+- 앉다 [anda] → to sit | Present: 앉아요 [anjayo] | Past: 앉았어요 [anjasseoyo]
+- 놀다 [nolda] → to play | Present: 놀아요 [norayo] | Past: 놀았어요 [norasseoyo]
+- 기다리다 [gidarida] → to wait | Present: 기다려요 [gidaryeoyo] | Past: 기다렸어요 [gidaryeosseoyo]
+- 일하다 [ilhada] → to work | Present: 일해요 [ilhaeyo] | Past: 일했어요 [ilhaesseoyo]
+- 사다 [sada] → to buy | Present: 사요 [sayo] | Past: 샀어요 [sasseoyo]
+- 말하다 [malhada] → to speak | Present: 말해요 [malhaeyo] | Past: 말했어요 [malhaesseoyo]
+- 가다 [gada] → to go | Present: 가요 [gayo] | Past: 갔어요 [gasseoyo]
+- 오다 [oda] → to come | Present: 와요 [wayo] | Past: 왔어요 [wasseoyo]
+- 쉬다 [swida] → to rest | Present: 쉬어요 [swieoyo] | Past: 쉬었어요 [swiesseoyo]
+
+## Location Markers
+- 에 [e] → to (destination)
+- 에서 [eseo] → at/in (location where action occurs)
+
+Examples:
+- 학교에 가요 [hakgyoe gayo] → I go to school
+- 학교에서 공부해요 [hakgyoeseo gongbuhaeyo] → I study at school
+- 집에 있어요 [jibe isseoyo] → I am at home
+- 집에서 쉬어요 [jibeseo swieoyo] → I rest at home
+
+## Transportation Vocabulary & Culture (교통 - Gyotong)
+
+### Public Transportation Types
+- 버스 [beoseu] → bus
+- 지하철 [jihacheol] → subway
+- 택시 [taeksi] → taxi
+- KTX [keiteekseu] → Korea's high-speed rail
+
+### Common Phrases
+- 버스를 타요 [beoseureul tayo] → I take the bus
+- 지하철을 타요 [jihacheoreul tayo] → I take the subway
+- 택시를 불렀어요 [taeksireul bulleosseoyo] → I called a taxi
+
+### Transportation Places
+- 버스 정류장 [beoseu jeongryujang] → bus stop
+- 버스 터미널 [beoseu teomineol] → bus terminal
+- 지하철역 [jihacheoryeok] → subway station
+- 택시 승강장 [taeksi seunggjangjang] → taxi stand
+
+### Transportation Cards
+- 교통 카드 [gyotong kadeu] → transportation card
+- 충전기 [chungjeongi] → card recharger
+
+### Major Cities with Subway Systems
+- 서울 [seoul] → Seoul
+- 부산 [busan] → Busan
+- 대구 [daegu] → Daegu
+- 광주 [gwangju] → Gwangju
+- 대전 [daejeon] → Daejeon
+- 인천 [incheon] → Incheon
+
+### Cultural Notes
+- Public transportation in Korea is highly efficient and widely used
+- Transportation cards can be used across multiple cities and different types of transport
+- Subway announcements are made in Korean, English, and sometimes Chinese/Japanese
+- Subway stations often announce: "이번 역은 [station name]입니다" [ibeon yeogeun ... imnida] → "This station is..."
+- "다음 역은 [station name]입니다" [daeum yeogeun ... imnida] → "The next station is..."
+
+### Additional Station Announcements
+- "이번 정류장은 [station name]입니다" [ibeon jeongryujangeun ... imnida] → "This stop is..."
+- "다음 정류장은 [station name]입니다" [daeum jeongryujangeun ... imnida] → "The next stop is..."
+
+### Important Stations
+- 용산역 [yongsan-yeok] → Yongsan Station
+- 명동역 [myeongdong-yeok] → Myeongdong Station
+- 이대역 [idae-yeok] → Ewha Womans University Station
+
+### Additional Transportation Phrases
+- "여기 앞에 택시 타는 곳이 있어요" [yeogi ape taeksi taneun gosi isseoyo] → "There's a taxi stand in front here"
+- "저는 KTX 타고 서울역에 가요" [jeoneun keiteekseu tago seouryeoge gayo] → "I'm taking the KTX to Seoul Station"
+
+### Proverb
+- 천리 길도 한 걸음부터 [cheolli gildo han georeumbuteo] → "Even a thousand-mile journey begins with a single step"
+  - 천리 [cheolli] - thousand miles (천 = thousand, 리 = Korean mile)
+  - 길 [gil] - road/path
+  - 도 [do] - also/even
+  - 한 [han] - one
+  - 걸음 [georeum] - step
+  - 부터 [buteo] - from/starting with
+
+- "A journey of a thousand miles begins with a single step."
+
+Source: Korean Language & Culture Series (Ep.6: Korean Transportation)
+[YouTube Link: https://www.youtube.com/watch?v=PQjxB1iAH2I]
+  
+H/W: Write about your activities from yesterday.
