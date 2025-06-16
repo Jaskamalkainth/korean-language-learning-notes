@@ -11,11 +11,11 @@ Class 12
 Dialogue 1 - Making an Appointment:
 민수: 내일 몇 시에 만날까요? [minsu: naeil myeot sie mannalkkayo?]
      → Minsu: What time do you want to meet tomorrow?
-투이: 한 시 어때요? [tui: han sie eottaeyo?]
+투이: 한 시 어때요? [tui: han si eottaeyo?]
      → Tui: How about 1 p.m.?
 민수: 미안해요. 오전에는 일이 있어요. 오후는 어때요? [minsu: mianhaeyo. ojeoneneun iri isseoyo. ohuneun eottaeyo?]
      → Minsu: I'm sorry, I have something to do in the morning. How about the afternoon?
-투이: 좋아요. 두 시에 만날까요? [tui: joayo. du sie mannalkkayo?]
+투이: 좋아요. 두 시에 만날까요? [tui: joayo. du si-e mannalkkayo?]
      → Tui: Okay. Can we meet at 2 p.m.?
 민수: 네, 좋아요. [minsu: ne, joayo.]
      → Minsu: Sure.
@@ -27,11 +27,11 @@ Dialogue 2 - Making Plans:
      → Sujin: Sure. What should we eat?
 민수: 삼겹살 어때요? [minsu: samgyeopsal eottaeyo?]
      → Minsu: How about samgyeopsal?
-수진: 좋아요. 몇 시에 만날까요? [sujin: joayo. myeot sie mannalkkayo?]
+수진: 좋아요. 몇 시에 만날까요? [sujin: joayo. myeot si-e mannalkkayo?]
      → Sujin: Sounds good. What time shall we meet?
-민수: 다섯 시에 어때요? [minsu: daseot sie eottaeyo?]
+민수: 다섯 시에 어때요? [minsu: daseot si-e eottaeyo?]
      → Minsu: How about 5 o'clock?
-수진: 네, 좋아요. 5층에서 봐요. [sujin: ne, joayo. ocheungeseo bwayo.]
+수진: 네, 좋아요. 5층에서 봐요. [sujin: ne, joayo. o-cheungeseo bwayo.]
      → Sujin: Okay, let's meet on the 5th floor.
 
 ## Vocabulary
@@ -65,16 +65,17 @@ Examples:
 - 먹어요 [meogeoyo] → to eat
 - 봐요 [bwayo] → to see/watch
 
-**3. -자 [-ja] / -세다 [-seuda]**
+**3. -자 [-ja] / -ㅂ시다 [-psida]**
 Usage: Used to express "let's" for making suggestions
 Examples:
-- 주말에 나가자 [jumare nagaja] / 주말에 나가세다 [jumare nagaseda] → Let's go out on the weekend
-- 주말에 일하자 [jumare ilhaja] / 주말에 일하세다 [jumare ilhaseda] → Let's work over the weekend
+- 주말에 나가자 [jumare nagaja] / 주말에 나갑시다 [jumare nagapsida] → Let's go out on the weekend
+- 주말에 일하자 [jumare ilhaja] / 주말에 일합시다 [jumare ilhapsida] → Let's work over the weekend
+- 영화를 보자 [yeonghwareul boja] / 영화를 봅시다 [yeonghwareul bopsida] → Let's watch a movie
 
 **4. -고 싶어요 [-go sipeoyo]**
 Usage: Indicating a wish or desire
 Examples:
-- 삼성 회사에서 일하고 싶어요 [samseong hoesaseo ilhago sipeoyo] → I wish to work at Samsung company
+- 삼성 회사에서 일하고 싶어요 [samseong hoesaeseo ilhago sipeoyo] → I wish to work at Samsung company
 - 의사가 되고 싶어요 [uisaga doego sipeoyo] → I wish to become a doctor
 - 가수가 되고 싶어요 [gasuga doego sipeoyo] → I wish to become a singer
 - 철학자가 되고 싶어요 [cheolhakjaga doego sipeoyo] → I wish to become a philosopher
@@ -85,8 +86,8 @@ Examples:
 - 일이 있어요 [iri isseoyo] → I have work
 - 바빠요 [bappayo] → I am busy
 - 지금 시간이 있어요 [jigeum sigani isseoyo] → I have time now
-- 일곱 시에 어때요? [ilgop sie eottaeyo?] → How about 7 o'clock?
-- 일요일에 시간 있어요? [ireoril shigen isseyo?] → What time on Sunday?
+- 일곱 시에 어때요? [ilgop si-e eottaeyo?] → How about 7 o'clock?
+- 일요일에 시간 있어요? [iryoil-e sigan isseoyo?] → Do you have time on Sunday?
 
 **Activity Suggestions:**
 - 영화를 볼까요? [yeonghwareul bolkkayo?] → Shall we watch a movie?
@@ -97,24 +98,18 @@ Examples:
 **Making Suggestions:**
 - 어때요? [eottaeyo?] → How about it?
 - 같이 할까요? [gachi halkkayo?] → Shall we do it together?
-- 몇 시에 만날까요? [myeot sie mannalkkayo?] → What time shall we meet?
+- 몇 시에 만날까요? [myeot si-e mannalkkayo?] → What time shall we meet?
 
 **Responding to Suggestions:**
 - 좋아요 [joayo] → Sounds good
 - 네, 좋아요 [ne, joayo] → Yes, that's good
 - 미안해요 [mianhaeyo] → I'm sorry
-- 좋아요 [johayeo] → Sounds great
-- 괜찮아요 [gwaenchhayo] → That's ok
+- 괜찮아요 [gwaenchanhayo] → That's okay
 
-**Note:**
+**Additional Notes:**
 - 아침 [achim] → morning
-- 먹을 [mogeul] → meal
-- 먹다 [mokda] → to eat (used for breakfast as 아침을 먹다 [achimeul mokda] → to have breakfast)
-(TODO: Check what corner case was told in class for this)
-
+- 아침을 먹다 [achimeul meokda] → to have breakfast
 - 듣다 [deutda] → to listen
   - Polite form: 들어요 [deureoyo]
-  - Example: Shall we listen? → 들을까요? [deureulkkayo?]
-
-- 내 생일은 7월 5일이에요 [nae saengireun chilwol oilirieyo] → My birthday is July 5th
-
+  - Suggestion form: 들을까요? [deureulkkayo?] → Shall we listen?
+- 내 생일은 7월 5일이에요 [nae saengireun chirwol o-irieyo] → My birthday is July 5th
