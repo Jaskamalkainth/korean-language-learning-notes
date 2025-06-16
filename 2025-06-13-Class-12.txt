@@ -65,7 +65,38 @@ Examples:
 - 먹어요 [meogeoyo] → to eat
 - 봐요 [bwayo] → to see/watch
 
+**3. -자 [-ja] / -세다 [-seuda]**
+Usage: Used to express "let's" for making suggestions
+Examples:
+- 주말에 나가자 [jumare nagaja] / 주말에 나가세다 [jumare nagaseda] → Let's go out on the weekend
+- 주말에 일하자 [jumare ilhaja] / 주말에 일하세다 [jumare ilhaseda] → Let's work over the weekend
+
+**4. -고 싶어요 [-go sipeoyo]**
+Usage: Expressing desire or want
+Examples:
+- 삼성 회사에서 일하고 싶어요 [samseong hoesaseo ilhago sipeoyo] → I want to work for Samsung company
+
+**5. 되다 [doeda]**
+Usage: To become
+Examples:
+- 의사가 되고 싶어요 [uisaga doego sipeoyo] → I want to become a doctor
+- 가수가 되고 싶어요 [gasuga doego sipeoyo] → I want to become a singer
+- 철학자가 되고 싶어요 [cheolhakjaga doego sipeoyo] → I want to become a philosopher
+
 ## Useful Phrases
+
+**Schedule Related:**
+- 일이 있어요 [iri isseoyo] → I have work
+- 바빠요 [bappayo] → I am busy
+- 지금 시간이 있어요 [jigeum sigani isseoyo] → I have time now
+- 일곱 시에 어때요? [ilgop sie eottaeyo?] → How about 7 o'clock?
+- 일요일에 시간 있어요? [ireoril shigen isseyo?] → What time on Sunday?
+
+**Activity Suggestions:**
+- 영화를 볼까요? [yeonghwareul bolkkayo?] → Shall we watch a movie?
+- 집에 갈까요? [jibe galkkayo?] → Shall we go home?
+- 주말에 쇼핑 갈까요? [jumare syoping galkkayo?] → Shall we go shopping on the weekend?
+- 같이 읽을까요? [gachi ilgeulkkayo?] → Shall we read together?
 
 **Making Suggestions:**
 - 어때요? [eottaeyo?] → How about it?
@@ -76,4 +107,18 @@ Examples:
 - 좋아요 [joayo] → Sounds good
 - 네, 좋아요 [ne, joayo] → Yes, that's good
 - 미안해요 [mianhaeyo] → I'm sorry
+- 좋아요 [johayeo] → Sounds great
+- 괜찮아요 [gwaenchhayo] → That's ok
+
+**Note:**
+- 아침 [achim] → morning
+- 먹을 [mogeul] → meal
+- 먹다 [mokda] → to eat (used for breakfast as 아침을 먹다 [achimeul mokda] → to have breakfast)
+(TODO: Check what corner case was told in class for this)
+
+- 듣다 [deutda] → to listen
+  - Polite form: 들어요 [deureoyo]
+  - Example: Shall we listen? → 들을까요? [deureulkkayo?]
+
+- 내 생일은 7월 5일이에요 [nae saengireun chilwol oilirieyo] → My birthday is July 5th
 
