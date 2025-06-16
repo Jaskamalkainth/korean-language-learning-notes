@@ -71,6 +71,8 @@ Examples:
 - 주말에 나가자 [jumare nagaja] / 주말에 나갑시다 [jumare nagapsida] → Let's go out on the weekend
 - 주말에 일하자 [jumare ilhaja] / 주말에 일합시다 [jumare ilhapsida] → Let's work over the weekend
 - 영화를 보자 [yeonghwareul boja] / 영화를 봅시다 [yeonghwareul bopsida] → Let's watch a movie
+- 점심을 먹자 [jeomsimeul meokja] / 점심을 먹읍시다 [jeomsimeul meogeupsida] → Let's have lunch
+- 산책하자 [sanchaekhaja] / 산책합시다 [sanchaekhabsida] → Let's take a walk
 
 **4. -고 싶어요 [-go sipeoyo]**
 Usage: Indicating a wish or desire
