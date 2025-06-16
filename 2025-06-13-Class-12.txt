@@ -72,16 +72,12 @@ Examples:
 - 주말에 일하자 [jumare ilhaja] / 주말에 일하세다 [jumare ilhaseda] → Let's work over the weekend
 
 **4. -고 싶어요 [-go sipeoyo]**
-Usage: Expressing desire or want
+Usage: Indicating a wish or desire
 Examples:
-- 삼성 회사에서 일하고 싶어요 [samseong hoesaseo ilhago sipeoyo] → I want to work for Samsung company
-
-**5. 되다 [doeda]**
-Usage: To become
-Examples:
-- 의사가 되고 싶어요 [uisaga doego sipeoyo] → I want to become a doctor
-- 가수가 되고 싶어요 [gasuga doego sipeoyo] → I want to become a singer
-- 철학자가 되고 싶어요 [cheolhakjaga doego sipeoyo] → I want to become a philosopher
+- 삼성 회사에서 일하고 싶어요 [samseong hoesaseo ilhago sipeoyo] → I wish to work at Samsung company
+- 의사가 되고 싶어요 [uisaga doego sipeoyo] → I wish to become a doctor
+- 가수가 되고 싶어요 [gasuga doego sipeoyo] → I wish to become a singer
+- 철학자가 되고 싶어요 [cheolhakjaga doego sipeoyo] → I wish to become a philosopher
 
 ## Useful Phrases
 
