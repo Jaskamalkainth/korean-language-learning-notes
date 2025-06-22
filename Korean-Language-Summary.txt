@@ -34,25 +34,30 @@ IMPORTANT RULES
 -----------------
 
 BATCHIM RULES (7 Final Sounds):
-1. ㄱ,ㅋ,ㄲ → [k]: 수박 (su-bak) = watermelon
-2. ㄴ → [n]: 안 (an) = inside
-3. ㄷ,ㅅ,ㅆ,ㅈ,ㅊ,ㅌ,ㅎ → [t]: 옷 (ot) = clothes
-4. ㄹ → [l]: 달 (dal) = moon
-5. ㅁ → [m]: 밤 (bam) = night/chestnut
-6. ㅂ,ㅍ → [p]: 집 (jip) = house
-7. ㅇ → [ng]: 공 (gong) = ball
+1. ㄱ,ㅋ,ㄲ → [k]: 수박 (su-bak) = watermelon, 밖 (bak) = outside, 부엌 (bu-eok) = kitchen
+2. ㄴ → [n]: 안 (an) = inside, 눈 (nun) = eye/snow, 라면 (ra-myeon) = ramen
+3. ㄷ,ㅅ,ㅆ,ㅈ,ㅊ,ㅌ,ㅎ → [t]: 옷 (ot) = clothes, 꽃 (kkot) = flower, 밭 (bat) = field
+4. ㄹ → [l]: 달 (dal) = moon, 물 (mul) = water, 실 (sil) = thread
+5. ㅁ → [m]: 밤 (bam) = night/chestnut, 마음 (ma-eum) = heart, 힘 (him) = strength
+6. ㅂ,ㅍ → [p]: 집 (jip) = house, 입 (ip) = mouth, 앞 (ap) = front
+7. ㅇ → [ng]: 공 (gong) = ball, 상 (sang) = prize, 빵 (ppang) = bread
 
 CONSONANT ASSIMILATION RULES:
 1. ㅂ + ㄴ → [m-n]: 입니다 = [임니다] (im-ni-da)
 2. 같이 → [가치] (ga-chi) = together
 
 ㅎ NEUTRALIZATION RULE:
-- Final Position: ㅎ becomes silent (좋다 → [조타])
-- Before Consonants: ㅎ is typically silent (않고 → [안꼬])
+- Final Position: ㅎ becomes silent (좋다 → [조타], 놓다 → [노타])
+- Before Consonants: ㅎ is typically silent (않고 → [안꼬], 좋다 → [조따])
 
-DOUBLE BATCHIM RULES:
-- When at word end or before consonant: usually only one consonant pronounced
-- When followed by vowel: second consonant moves to next syllable
+DOUBLE BATCHIM RULES (11 combinations):
+ㄳ(ㄱㅅ), ㄵ(ㄴㅈ), ㄶ(ㄴㅎ), ㄺ(ㄹㄱ), ㄻ(ㄹㅁ), ㄼ(ㄹㅂ), ㄽ(ㄹㅅ), ㄾ(ㄹㅌ), ㄿ(ㄹㅍ), ㅄ(ㅂㅅ), ㅆ(ㅅㅅ)
+1. Final Position: Usually only one consonant pronounced
+   - 많다 (man-ta) - only ㄴ pronounced
+   - 값 (gap) - only ㅂ pronounced  
+   - 읽다 (il-ta) - only ㄱ pronounced
+2. Before Vowel: Second consonant moves to next syllable
+   - 많아요 (ma-na-yo), 값이 (gap-si), 읽어요 (il-geo-yo)
 
 NUMBERS
 ----------
@@ -64,6 +69,10 @@ SINO-KOREAN NUMBERS:
 NATIVE KOREAN NUMBERS:
 하나 (1), 둘 (2), 셋 (3), 넷 (4), 다섯 (5), 여섯 (6), 일곱 (7), 여덟 (8), 아홉 (9), 열 (10)
 열하나 (11), 스물 (20), 서른 (30), 마흔 (40), 쉰 (50), 예순 (60), 일흔 (70), 여든 (80), 아흔 (90)
+
+COUNTING WITH OBJECTS:
+한 (1), 두 (2), 세 (3), 네 (4) + counter
+Examples: 한 개 (han gae), 두 명 (du myeong), 세 권 (se gwon)
 
 MONTHS AND DAYS
 -----------------
@@ -79,17 +88,65 @@ MONTHS:
 8월 (palwol) - August
 9월 (guwol) - September
 10월 (siwol) - October
-11월 (sibil-wol) - November
-12월 (sibi-wol) - December
+11월 (sibirwol) - November
+12월 (sibiwol) - December
 
 DAYS OF THE WEEK:
-월요일 (wol-yoil) - Monday (Moon day)
-화요일 (hwa-yoil) - Tuesday (Fire day)
-수요일 (su-yoil) - Wednesday (Water day)
-목요일 (mok-yoil) - Thursday (Wood day)
-금요일 (geum-yoil) - Friday (Gold/Metal day)
-토요일 (to-yoil) - Saturday (Earth day)
-일요일 (il-yoil) - Sunday (Sun day)
+월요일 (woryoil) - Monday (Moon day)
+화요일 (hwayoil) - Tuesday (Fire day)
+수요일 (suyoil) - Wednesday (Water day)
+목요일 (mogyoil) - Thursday (Wood day)
+금요일 (geumyoil) - Friday (Gold/Metal day)
+토요일 (toyoil) - Saturday (Earth day)
+일요일 (iryoil) - Sunday (Sun day)
+
+TIME EXPRESSIONS
+-----------------
+오전 (ojeon) - AM
+오후 (ohu) - PM
+시 (si) - hour
+분 (bun) - minute
+오늘 (oneul) - today
+내일 (naeil) - tomorrow
+어제 (eoje) - yesterday
+아침 (achim) - morning/breakfast
+점심 (jeomsim) - lunch/noon
+저녁 (jeonyeok) - evening/dinner
+주말 (jumal) - weekend
+이번 (ibeon) - this (time)
+지금 (jigeum) - now
+
+SEASONS AND WEATHER
+--------------------
+
+SEASONS:
+봄 (bom) - spring (March-May, mild and pleasant)
+여름 (yeoreum) - summer (June-August, hot and humid with monsoon)
+가을 (gaeul) - fall/autumn (September-November, cool and dry)
+겨울 (gyeoul) - winter (December-February, cold with snow)
+
+WEATHER CONDITIONS:
+비가 오다 (biga oda) - it rains | 비가 와요 (biga wayo) - it's raining
+눈이 오다 (nuni oda) - it snows | 눈이 와요 (nuni wayo) - it's snowing
+덥다 (deopda) - hot | 더워요 (deowoyo) - it's hot
+춥다 (chupda) - cold | 추워요 (chuwoyo) - it's cold
+따뜻하다 (ttatteuthada) - warm | 따뜻해요 (ttatteuthaeyo) - it's warm
+시원하다 (siwonhada) - cool | 시원해요 (siwonhaeyo) - it's cool
+바람이 불다 (barami bulda) - windy | 바람이 불어요 (barami bureoyo) - it's windy
+흐리다 (heurida) - cloudy | 흐려요 (heuryeoyo) - it's cloudy
+맑다 (makda) - clear | 맑아요 (margayo) - it's clear
+습하다 (seupada) - humid | 습해요 (seupaeyo) - it's humid
+날씨가 좋다 (nalssiga jota) - weather is nice | 날씨가 좋아요 (nalssiga joayo)
+날씨가 나쁘다 (nalssiga nappeuda) - weather is bad | 날씨가 나빠요 (nalssiga nappayo)
+
+TEMPERATURE READING:
+온도 (ondo) - temperature
+도 (do) - degree
+영상 (yeongsang) - above zero (positive temperature)
+영하 (yeongha) - below zero (negative temperature)
+섭씨 (seopsi) - Celsius
+Examples: 영상 20도 (yeongsang isipdo) = 20°C above zero
+         영하 10도 (yeongha sipdo) = -10°C below zero
 
 COUNTERS (단위 명사)
 ---------------------
@@ -98,8 +155,48 @@ COUNTERS (단위 명사)
 명 (myeong) - person counter (formal)
 사람 (saram) - person counter (informal)
 권 (gwon) - book counter
-장 (jang) - flat object counter
+장 (jang) - flat object counter (paper, tickets)
 마리 (mari) - animal counter
+
+TRANSPORTATION
+---------------
+버스 (beoseu) - bus
+지하철 (jihacheol) - subway
+택시 (taeksi) - taxi
+KTX (keiteekseu) - Korea's high-speed rail
+버스 정류장 (beoseu jeongryujang) - bus stop
+버스 터미널 (beoseu teomineol) - bus terminal
+지하철역 (jihacheoryeok) - subway station
+택시 승강장 (taeksi seunggjangjang) - taxi stand
+교통 카드 (gyotong kadeu) - transportation card
+
+KOREAN HOLIDAYS AND FESTIVALS
+-------------------------------
+
+MAJOR HOLIDAYS (명절 - myeongjeol):
+추석 (chuseok) - Korean Harvest Festival (also 한가위 hangawi)
+- Falls on 15th day of 8th lunar month
+- Foods: 송편 (songpyeon) - half-moon rice cakes, 전 (jeon) - savory pancakes
+- Activities: 차례 (charye) - ancestor memorial service, 벌초 (beolcho) - visiting graves
+
+설날 (seollal) - Lunar New Year
+- Three-day celebration in January/February
+- Traditional clothing: 한복 (hanbok)
+- Activities: 세배 (sebae) - deep bow to elders
+- Food: 떡국 (tteokguk) - rice cake soup, 갈비탕 (galbitang) - beef short rib soup
+- Money gifts: 세뱃돈 (sebaetdon) in 복주머니 (bokjumeoni) silk pouches
+
+NATIONAL HOLIDAYS:
+독립 운동일 (dongnip undongil) - Independence Movement Day (March 1)
+제헌절 (jeheonjeol) - Constitution Day (July 17)
+광복절 (gwangbokjeol) - National Liberation Day (August 15)
+개천절 (gaecheonjeol) - National Foundation Day (October 3)
+한글날 (hangeulnal) - Hangul Day (October 9)
+
+OTHER SPECIAL DAYS:
+어린이날 (eorininal) - Children's Day (May 5)
+어버이날 (eobeoinal) - Parents Day (May 8)
+현충일 (hyeonchungil) - Memorial Day (June 6)
 
 GRAMMAR MARKERS
 -----------------
@@ -117,6 +214,74 @@ GRAMMAR MARKERS
 
 에 (Location/Time Marker)
 - Used to indicate location or time
+- 학교에 가요 (hakgyoe gayo) - go to school
+- 금요일에 만나요 (geumyoire mannayo) - meet on Friday
+
+에서 (Location Marker for Actions)
+- Indicates where an action takes place
+- 학교에서 공부해요 (hakgyoeseo gongbuhaeyo) - study at school
+
+하고 (and - for listing nouns)
+- 사과하고 오렌지 (sagwahago orenji) - apples and oranges
+
+그리고 (and - for connecting sentences)
+- Used to connect sentences or clauses
+
+-도 (also, too)
+- 저도 봄을 좋아해요 (jeodo bomeul joahaeyo) - I also like spring
+
+안 (negation - will not/do not)
+- Voluntary negation by choice
+- 피자를 안 먹어요 (pijareul an meogeoyo) - I won't eat pizza
+
+못 (negation - cannot)
+- Inability due to circumstances
+- 술을 못 마셔요 (sureul mot masyeoyo) - I cannot drink alcohol
+
+VERB CONJUGATIONS
+------------------
+Present Tense Polite (-요):
+가다 (gada) → 가요 (gayo) - go
+오다 (oda) → 와요 (wayo) - come
+보다 (boda) → 봐요 (bwayo) - see/watch
+먹다 (meokda) → 먹어요 (meogeoyo) - eat
+마시다 (masida) → 마셔요 (masyeoyo) - drink
+
+Past Tense (-았어요/-었어요):
+갔어요 (gasseoyo) - went
+왔어요 (wasseoyo) - came
+봤어요 (bwasseoyo) - saw/watched
+먹었어요 (meogeosseoyo) - ate
+마셨어요 (masyeosseoyo) - drank
+
+Formal Present (-습니다/-ㅂ니다):
+갑니다 (gamnida) - go
+옵니다 (omnida) - come
+봅니다 (bomnida) - see/watch
+먹습니다 (meokseumnida) - eat
+마십니다 (masimnida) - drink
+
+Suggestions (-(으)ㄹ까요?):
+갈까요? (galkkayo?) - Shall we go?
+먹을까요? (meogeulkkayo?) - Shall we eat?
+만날까요? (mannalkkayo?) - Shall we meet?
+
+Let's (-자/-ㅂ시다):
+가자 (gaja) / 갑시다 (gapsida) - Let's go
+먹자 (meokja) / 먹읍시다 (meogeupsida) - Let's eat
+
+Honorific Requests (-(으)세요):
+가세요 (gaseyo) - Please go
+주세요 (juseyo) - Please give
+읽으세요 (ilgeuseyo) - Please read
+
+Desires (-고 싶어요):
+가고 싶어요 (gago sipeoyo) - I want to go
+먹고 싶어요 (meokgo sipeoyo) - I want to eat
+
+Prohibitive (-지 마세요):
+가지 마세요 (gaji maseyo) - Please don't go
+늦지 마세요 (neutji maseyo) - Don't be late
 
 FORMALITY LEVELS
 ------------------
@@ -128,44 +293,61 @@ Highest Politeness: -십니다/-십니까 ending
 COMMON GREETINGS
 ------------------
 안녕하세요 (annyeonghaseyo) - Hello
+안녕히 가세요 (annyeonghi gaseyo) - Goodbye (to someone leaving)
+안녕히 계세요 (annyeonghi gyeseyo) - Goodbye (when you're leaving)
 감사합니다 (kamsahamnida) - Thank you
+고맙습니다 (gomapseumnida) - Thank you (polite)
 죄송합니다 (joesonghamnida) - I'm sorry
 만나서 반갑습니다 (mannaseo bangapseumnida) - Nice to meet you
+처음 뵙겠습니다 (cheoeum boepgetseumnida) - Nice to meet you (humble)
+식사하셨어요? (siksahasyeosseoyo?) - Have you eaten? (honorific)
+밥 먹었어요? (bap meogeosseoyo?) - Have you eaten?
+환영합니다 (hwanyeonghamnida) - Welcome
 
 CURRENCY
 ----------
 원 (won) - Korean currency unit
-Notes: 1,000원, 5,000원, 10,000원, 50,000원
+화폐 (hwapye) - currency
+지폐 (jipye) - banknote
+동전 (dongjeon) - coin
+Notes: 천원 (1,000원), 오천원 (5,000원), 만원 (10,000원), 오만원 (50,000원)
 
 CULTURAL NOTES
 ----------------
-- Confucian influence on language and respect
+- Confucian influence on language and respect (2500+ years)
 - Age hierarchy importance
 - Formal vs informal speech based on relationship
-- Common greeting "밥 먹었어요?" (Have you eaten?) shows cultural concern 
+- Common greeting "밥 먹었어요?" (Have you eaten?) shows cultural concern
+- Bowing degrees: 15° (light), 30° (standard), 45° (sincere)
+- Korean drinking culture: 4-5 rounds (일차, 이차, 삼차, 사차, 오차)
+- Hallyu (한류) - The Korean Wave
 
 KOREAN PROVERBS
 ----------------
-- 꿩 대신 닭 (Kkwong daesin dak) - "Chicken instead of pheasant"
-  Meaning: When you can't get what you want, you should be satisfied with the next best thing.
-  Similar to English: "A bird in the hand is worth two in the bush" or "Better than nothing"
+- 꿩 대신 닭 (kkwong daesin dak) - "Chicken instead of pheasant"
+  Meaning: Better than nothing, make do with what you have
 
-- 옷이 날개다 (Osi nalgaeda) - "Clothes are wings"
-  Meaning: Clothes give you wings - suggesting that proper attire can help you achieve your goals
+- 옷이 날개다 (osi nalgaeda) - "Clothes are wings"
+  Meaning: Proper attire helps you achieve your goals
 
-- 그림의 떡 (Geulim-ui tteok) - "Rice cake in a picture"
-  Meaning: Similar to "pie in the sky" - something that looks good but is unattainable
+- 그림의 떡 (geulim-ui tteok) - "Rice cake in a picture"
+  Meaning: Something that looks good but is unattainable (pie in the sky)
 
-- 무소식이 희소식이다 (Musosigi huisosigida) - "No news is good news"
-  Meaning: When you don't hear anything, it usually means everything is fine
+- 무소식이 희소식이다 (musosigi huisosigida) - "No news is good news"
+  Meaning: When you don't hear anything, everything is usually fine
 
-- 운는 집에 보기 있다 (Unneun jibe bogi itda) - "A happy home begets good luck"
-  Meaning: A harmonious and happy home brings good fortune
+- 운는 집에 보기 있다 (unneun jibe bogi itda) - "A happy home begets good luck"
+  Meaning: A harmonious home brings good fortune
 
-VOCABULARY
--------------
+- 천리 길도 한 걸음부터 (cheolli gildo han georeumbuteo) - "Even a thousand-mile journey begins with a single step"
+  Meaning: Great achievements start with small steps
 
-CLASSROOM EXPRESSIONS:
+====================================
+COMPREHENSIVE VOCABULARY BY CATEGORY
+====================================
+
+CLASSROOM EXPRESSIONS
+-----------------------
 책을 펴세요 (chaegeul pyeoseyo) - Open your book
 책을 보세요 (chaegeul boseyo) - Look at your book
 잘 들으세요 (jal deureuseyo) - Listen carefully
@@ -173,11 +355,16 @@ CLASSROOM EXPRESSIONS:
 읽으세요 (ilgeuseyo) - Read it
 쓰세요 (sseuseyo) - Write it
 알겠어요? (algesseoyo?) - Do you understand?
+네 알겠어요 (ne algesseoyo) - Yes I understand
+아니요 모르겠어요 (aniyo moreugesseoyo) - No I don't understand
 질문 있어요? (jilmun isseoyo?) - Do you have any questions?
+네 있어요 (ne isseoyo) - Yes I have
+아니요 없어요 (aniyo eopseoyo) - No I don't
 질문하세요 (jilmun haseyo) - Ask your question
 대답하세요 (daedap haseyo) - Answer the question
 
-NATIONALITIES:
+NATIONALITIES
+--------------
 한국 사람 (hanguk saram) - Korean person
 일본 사람 (ilbon saram) - Japanese person
 중국 사람 (jungguk saram) - Chinese person
@@ -190,8 +377,10 @@ NATIONALITIES:
 베트남 사람 (beteunam saram) - Vietnamese person
 아일랜드 사람 (aillaendeu saram) - Irish person
 러시아 사람 (reosia saram) - Russian person
+태국 사람 (taeguk saram) - Thai person
 
-OCCUPATIONS:
+OCCUPATIONS
+------------
 의사 (uisa) - Doctor
 경찰 (gyeongchal) - Police officer
 공무원 (gongmuwon) - Civil servant
@@ -203,42 +392,256 @@ OCCUPATIONS:
 간호사 (ganhosa) - Nurse
 운전사/기사 (unjeonsa/gisa) - Driver
 기자 (gija) - Reporter
+요리사 (yorisa) - Chef
+가수 (gasu) - Singer
+철학자 (cheolhakja) - Philosopher
 
-ACTIVITIES:
+VERBS - BASIC ACTIVITIES
+-------------------------
 하다 (hada) - to do
-운동하다 (undong-hada) - to exercise
-일하다 (il-hada) - to work
-전화하다 (jeonhwa-hada) - to call
-이야기하다 (iyagi-hada) - to talk
-공부하다 (gongbu-hada) - to study
+가다 (gada) - to go
+오다 (oda) - to come
+보다 (boda) - to see/watch
+읽다 (ikda) - to read
+듣다 (deutda) - to listen
+먹다 (meokda) - to eat
+마시다 (masida) - to drink
+자다 (jada) - to sleep
+쓰다 (sseuda) - to write
+만나다 (mannada) - to meet
+앉다 (anda) - to sit
+놀다 (nolda) - to play
+기다리다 (gidarida) - to wait
+말하다 (malhada) - to speak
+사다 (sada) - to buy
+주다 (juda) - to give
+만들다 (mandeulda) - to make
+입다 (ipda) - to wear
+살다 (salda) - to live
+이사하다 (isahada) - to move (houses)
+쉬다 (swida) - to rest
 
-PLACES:
+VERBS - COMPOUND ACTIVITIES
+----------------------------
+운동하다 (undonghada) - to exercise
+일하다 (ilhada) - to work
+전화하다 (jeonhwahada) - to call
+이야기하다 (iyagihada) - to talk
+공부하다 (gongbuhada) - to study
+운전하다 (unjeonhada) - to drive
+연락하다 (yeollakada) - to contact
+요리하다 (yorihada) - to cook
+쇼핑하다 (syopinghada) - to go shopping
+
+PLACES
+-------
 학교 (hakgyo) - school
 회사 (hoesa) - office/company
 집 (jip) - home
 공원 (gongwon) - park
 시장 (sijang) - market
 식당 (sikdang) - restaurant
+영화관 (yeonghwagwan) - movie theater
+도서관 (doseogwan) - library
+백화점 (baekhwajeom) - department store
+카페 (kape) - café
+교실 (gyosil) - classroom
+회의실 (hoeuisil) - meeting room
 
-TIME WORDS:
-오늘 (oneul) - today
-지금 (jigeum) - now
-저녁 (jeonyeok) - evening
-내일 (naeil) - tomorrow
-어제 (eoje) - yesterday
-주말 (jumal) - weekend
+OBJECTS AND HOUSEHOLD ITEMS
+-----------------------------
+책상 (chaeksang) - desk
+의자 (uija) - chair
+펜 (pen) - pen
+가방 (gabang) - bag
+침대 (chimdae) - bed
+베개 (begae) - pillow
+카펫 (kapet) - carpet
+천 (cheon) - cloth
+모시 (mosi) - fine fabric/cloth
 
-SHOPPING ITEMS:
-사과 (sagwa) - apple
-오렌지 (orenji) - orange
+POSITION WORDS
+---------------
+앞 (ap) - in front of
+뒤 (dwi) - back/behind
+위 (wi) - above/on
+아래 (arae) - under
+옆 (yeop) - next to
+안 (an) - inside
+밖 (bakk) - outside
+오른쪽 (oreun-jjok) - right
+왼쪽 (wen-jjok) - left
+직 (jik) - straight
+가운데 (gaunde) - center
+
+FOOD AND DRINKS
+----------------
+밥 (bap) - cooked rice/meal
+김밥 (gimbap) - seaweed rice rolls
+비빔밥 (bibimbap) - mixed rice dish
+볶음밥 (bokkeumbap) - fried rice
+라면 (ramyeon) - ramen noodles
+짜장면 (jjajangmyeon) - black bean sauce noodles
+떡국 (tteokguk) - rice cake soup
+갈비탕 (galbitang) - beef short rib soup
+잡채 (japchae) - stir-fried glass noodles
+떡볶이 (tteokbokki) - spicy rice cakes
+삼겹살 (samgyeopsal) - pork belly
+치킨 (chikin) - chicken
+후라이드 치킨 (huraideo chikin) - fried chicken
+양념 치킨 (yangnyeom chikin) - spicy sauce chicken
+보쌈 (bossam) - boiled pork with wraps
+족발 (jokbal) - seasoned pig's feet
+호떡 (hotteok) - sweet pancake
+닭꼬치 (dakkkochi) - grilled chicken skewers
+계란빵 (gyeranppang) - egg bread
+붕어빵 (bungeoppang) - fish-shaped pastry
+초코파이 (choko pai) - chocolate pie
+송편 (songpyeon) - half-moon rice cakes
+전 (jeon) - savory pancakes
+한과 (hangwa) - traditional Korean confectionery
+
+CONDIMENTS AND SEASONINGS
+--------------------------
+된장 (doenjang) - soybean paste
+고추장 (gochujang) - red chili paste
+쌈장 (ssamjang) - thick soybean paste
+간장 (ganjang) - soy sauce
+청장 (cheongjang) - fast fermented bean paste
+메주 (meju) - fermented soybean blocks
+
+BEVERAGES
+----------
+소주 (soju) - Korean distilled alcoholic drink
+막걸리 (makgeolli) - traditional rice wine
 우유 (uyu) - milk
 주스 (juseu) - juice
-빵 (ppang) - bread
 물 (mul) - water
-펜 (pen) - pen
-책 (chaek) - book
+커피 (keopi) - coffee
+차 (cha) - tea
 
-BODY PARTS:
+FRIENDS AND RELATIONSHIPS
+--------------------------
+친구 (chingu) - friend
+
+FAMILY AND RELATIONSHIPS
+-------------------------
+아빠 (appa) - daddy
+엄마 (eomma) - mommy
+아기 (agi) - baby
+선생님 (seonsaengnim) - teacher
+
+BUSINESS AND WORK
+------------------
+회사 이름 (hoesa ireum) - company name
+이름 (ireum) - name
+전화번호 (jeonhwabeonho) - phone number
+이메일 (imeil) - email
+주소 (juso) - address
+삼성전자 (samsung jeonja) - Samsung Electronics
+삼성전자 주식회사 (samsung jeonja jusikhoesa) - Samsung Electronics Co., Ltd.
+수업 (sueop) - class
+시험 (siheom) - test/exam
+회의 (hoeui) - meeting
+
+FEELINGS AND DESCRIPTIONS
+--------------------------
+좋아하다 (joahada) - to like
+뚱뚱하다 (ttungttunghada) - to be fat
+날씬하다 (nalssinhada) - to be slim
+귀엽다 (gwiyeopda) - to be cute
+바쁘다 (bappeuda) - to be busy
+괜찮다 (gwaenchanta) - to be okay
+싸다 (ssada) - to be cheap
+비싸다 (bissada) - to be expensive
+
+QUESTION WORDS
+---------------
+뭐 (mwo) - what
+어디 (eodi) - where
+언제 (eonje) - when
+몇 시 (myeot si) - what time
+무슨 요일 (museun yoil) - what day
+몇 개 (myeot gae) - how many (items)
+얼마 (eolma) - how much
+
+USEFUL EXPRESSIONS
+-------------------
+무엇을 드릴까요? (mueoseul deurilkkayo?) - May I help you?
+얼마예요? (eolmayeyo?) - How much is it?
+어떻게 지내세요? (eotteoke jinaeseyo?) - How are you doing?
+어때요? (eottaeyo?) - How about it?
+미안해요 (mianhaeyo) - I'm sorry
+좋아요 (joayo) - Good/Sounds good
+많이 드세요 (mani deuseyo) - Please eat a lot (like "bon appétit")
+잘 먹겠습니다 (jal meokgetseumnida) - I will eat well (before eating)
+잘 먹었습니다 (jal meogeotseumnida) - I ate well (after eating)
+조심해서 들어가세요 (josimhaeseo deurogaseyo) - Take care going in
+
+BIRTHDAY AND CELEBRATIONS
+--------------------------
+생일 (saengil) - birthday
+축하하다 (chukahada) - to congratulate
+사랑하다 (saranghada) - to love
+사랑하는 (saranghaneun) - beloved/dear
+생일 축하해요 (saengil chukahaeyo) - Happy Birthday (informal)
+생일 축하합니다 (saengil chukahamnida) - Happy Birthday (formal)
+
+SONGS AND EXPRESSIONS
+----------------------
+곰 세 마리 (gom se mari) - Three Bears (children's song)
+으쓱으쓱 (eusseuk eusseuk) - wiggle/move shoulders proudly
+반짝 반짝 작은 별 (banjjak banjjak jageun byeol) - Twinkle Twinkle Little Star
+
+GAMES AND TRADITIONAL ACTIVITIES
+---------------------------------
+윷놀이 (yunnori) - traditional board game
+제기차기 (jegi chagi) - traditional kicking game
+
+APPOINTMENT AND SCHEDULING
+---------------------------
+약속 (yaksok) - appointment
+약속이 있다 (yaksogi itda) - to have an appointment
+약속이 없다 (yaksogi eopda) - not to have an appointment
+시간이 있다 (sigani itda) - to have time
+시간이 없다 (sigani eopda) - to not have time
+일이 있다 (iri itda) - to have work
+일이 없다 (iri eopda) - to have no work
+일이 많다 (iri manta) - to have a lot of work
+
+COMMON PARTICLES AND CONNECTORS
+--------------------------------
+씨 (ssi) - Mr./Mrs./Ms. (polite name suffix)
+저 (jeo) - I (formal)
+우리 (uri) - we
+네 (ne) - yes
+아니요 (aniyo) - no
+그리고 (geurigo) - and (connecting sentences)
+하고 (hago) - and (connecting nouns)
+도 (do) - also, too
+에 (e) - to/at/on (location/time marker)
+에서 (eseo) - at/in (location where action occurs)
+을/를 (eul/reul) - object marker
+이/가 (i/ga) - subject marker
+은/는 (eun/neun) - topic marker
+
+FRUITS AND VEGETABLES
+---------------------
+사과 (sagwa) - apple
+오렌지 (orenji) - orange
+포도 (podo) - grapes
+배 (bae) - Korean pear
+감 (gam) - persimmon
+수박 (subak) - watermelon
+
+SHOPPING ITEMS
+---------------
+빵 (ppang) - bread
+책 (chaek) - book
+신발 (sinbal) - shoes
+
+BODY PARTS
+-----------
 머리 (meori) - head
 머리카락 (meorikarak) - hair
 얼굴 (eolgul) - face
@@ -260,29 +663,104 @@ BODY PARTS:
 발가락 (balgarak) - toe
 피부 (pibu) - skin
 
-TRADITIONAL CLOTHING:
+ANIMALS
+--------
+사자 (saja) - lion
+고양이 (goyangi) - cat
+곰 (gom) - bear
+아기 곰 (agi gom) - baby bear
+아빠 곰 (appa gom) - daddy bear
+엄마 곰 (eomma gom) - mommy bear
+
+TRADITIONAL CLOTHING
+---------------------
 한복 (hanbok) - traditional Korean clothing
 치마 (chima) - skirt
-저고리 (jeogori) - top
-고름 (goreum) - long ties
-당의 (dangui) - elongated top
+저고리 (jeogori) - top/jacket
+고름 (goreum) - long ties that fasten the top
+당의 (dangui) - elongated form of jeogori
 마고자 (magoja) - jacket
 바지 (baji) - pants
-갓 (gat) - traditional hat
+갓 (gat) - horsehair hat
 상투 (sangtu) - top knot
-도포 (dopo) - long coat
-노리개 (norigae) - ornaments
+도포 (dopo) - very long coat
+노리개 (norigae) - ornaments worn with hanbok
+돌복 (dolbok) - hanbok for first birthday
+투백 (tubaek) - formal ritual attire
+신한복 (sinhanbok) - new style hanbok
+생활한복 (saenghwal hanbok) - lifestyle hanbok
 
-FOOD AND DRINKS:
-소주 (soju) - Korean distilled alcoholic drink
-막걸리 (makgeolli) - Traditional rice wine
-호떡 (hotteok) - Sweet pancake
-닭꼬치 (dakkkochi) - Grilled chicken skewers
-떡볶이 (tteokbokki) - Spicy rice cakes
-김밥 (gimbap) - seaweed rice rolls
-비빔밥 (bibimbap) - mixed rice dish
-볶음밥 (bokkeumbap) - fried rice
-된장 (doenjang) - soybean paste
-고추장 (gochujang) - red chili paste
-쌈장 (ssamjang) - thick soybean paste
-간장 (ganjang) - soy sauce
+HOUSING
+--------
+한옥 (hanok) - traditional Korean house
+마루 (maru) - raised hardwood floor
+온돌 (ondol) - traditional underfloor heating
+안채 (anche) - women's quarters
+사랑채 (sarangche) - men's quarters
+한지 (hanji) - traditional Korean paper
+아파트 (apateu) - apartment
+빌라 (bila) - small apartment building
+원룸 아파트 (wonnum apateu) - studio apartment
+복층 아파트 (bokcheung apateu) - split-level apartment
+오피스텔 (opiseutel) - multipurpose living/work units
+고시원 (goshiwon) - budget student accommodation
+하숙집 (hasukjib) - boarding house
+평 (pyeong) - traditional floor measurement unit
+
+ADDITIONAL USEFUL WORDS
+------------------------
+나무 (namu) - tree
+모자 (moja) - cap/hat
+실 (sil) - thread
+마음 (maeum) - heart
+힘 (him) - strength
+꽃 (kkot) - flower
+밭 (bat) - field
+상 (sang) - prize
+요즘 (yojeum) - nowadays
+보통 (botong) - usually
+모두 (modu) - all/everyone
+가져오다 (gajyeooda) - to bring
+두꺼운 옷 (dukkeoun ot) - thick clothes
+치엔 (chien) - name
+투이 (tui) - name  
+유키 (yuki) - name
+마크 (mark) - name
+민수 (minsu) - name
+수진 (sujin) - name
+타완 (tawan) - name
+로라 (rora) - name
+
+====================================
+CULTURAL VIDEOS AND SONGS FROM CLASSES
+====================================
+
+CULTURE VIDEOS WITH YOUTUBE LINKS (BY CLASS)
+---------------------------------------------
+Class 3 - Korean Food Culture: https://www.youtube.com/watch?v=1K6Spf_JmQc
+Class 4 - Korean Homes (Ep.4): https://www.youtube.com/watch?v=l-trIfHnbBs
+Class 5 - Korean Greetings (Ep.1): https://www.youtube.com/watch?v=Q4J7uylaOLA
+Class 6 - Korean Festivals (Ep.5): https://www.youtube.com/watch?v=RCBtMJZCGRE
+Class 8 - Korean Attire (Ep.7): https://www.youtube.com/watch?v=Up1Bd7hoLO0
+Class 9 - Korean Transportation (Ep.6): https://www.youtube.com/watch?v=PQjxB1iAH2I
+Class 10 - Weather Phrases: https://www.youtube.com/watch?v=bjMf6r4KI80
+Class 10 - Korean Dialogue Listening: https://www.youtube.com/watch?v=uRvvbTD5cIw
+Class 10 - Twinkle Little Star: https://www.youtube.com/watch?v=vp-ZsZ28li4
+Class 11 - Daily Routine Phrases: https://www.youtube.com/watch?v=xYli4WL_Zsg
+Class 11 - Role Play Video: https://www.youtube.com/watch?v=096Ix_ueCZo
+
+KOREAN SONGS AND POEMS
+-----------------------
+Korean Happy Birthday Song:
+생일 축하합니다 - Happy birthday to you
+사랑하는 (name) 씨 - Dear (name)
+
+Three Bears Song (곰 세 마리):
+곰 세 마리가 한 집에 있어 - Three bears are in one house
+아빠 곰은 뚱뚱해 - Daddy bear is fat
+엄마 곰은 날씬해 - Mommy bear is slim
+애기 곰은 너무 귀여워 - Baby bear is very cute
+으쓱 으쓱 잘한다 - Wiggle wiggle well done!
+
+Twinkle Little Star (반짝 반짝 작은 별):
+Korean Nursery Song - https://www.youtube.com/watch?v=vp-ZsZ28li4
