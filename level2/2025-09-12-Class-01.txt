@@ -1,21 +1,21 @@
 12th - September - 2025
 Class 1
 
-**CHAPTER - 안부 (Saying Hello)** | 세종한국어 2
+CHAPTER - 안부 (Saying Hello) | 세종한국어 2
 
-**Learning Goals:** Greetings & Talking about recent events
+Learning Goals: Greetings & Talking about recent events
 
 ## TLDR - Key Points
-**Essential Grammar:**
-- **-고** → "and" (connects actions: 공부하고 여행했어요 [gongbuhago yeohaenghaesseoyo])
-- **그런데** → "but/however" (shows contrast: 바빠요. 그런데 시간 있어요 [bappayo. geureonde sigan isseoyo])
-- **도** → "also/too" (adds emphasis: 친구도 만나고 [chingudo mannago])
+Essential Grammar:
+- -고 → "and" (connects actions: 공부하고 여행했어요 [gongbuhago yeohaenghaesseoyo])
+- 그런데 → "but/however" (shows contrast: 바빠요. 그런데 시간 있어요 [bappayo. geureonde sigan isseoyo])
+- 도 → "also/too" (adds emphasis: 친구도 만나고 [chingudo mannago])
 
 ------
 
 ## Dialogues
 
-**Dialogue 1 - Catching up after vacation:**
+Dialogue 1 - Catching up after vacation:
 치엔: 수진 씨, 오랜만이에요. 그동안 잘 지냈어요? [chien: sujin ssi, oraenman-ieyo. geudongan jal jinaesseoyo?]
      → Chien: Sujin, it's been so long. How have you been?
 수진: 네, 잘 지냈어요. 치엔 씨는 휴가 때 뭐 했어요? [sujin: ne, jal jinaesseoyo. chien ssineun hyuga ttae mwo haesseoyo?]
@@ -25,7 +25,7 @@ Class 1
 수진: 저는 집에서 많이 쉬었어요. [sujin: jeoneun jibeseo mani swieosseoyo]
      → Sujin: I rested at home a lot.
 
-**Dialogue 2 - Asking about current situation:**
+Dialogue 2 - Asking about current situation:
 민수: 투이 씨, 요즘 어떻게 지내요? [minsu: tui ssi, yojeum eotteoke jinaeyo?]
      → Minsoo: Tui, how are you doing these days?
 투이: 요즘은 좀 바빠요. 그래서 정신이 없어요. [tui: yojeumeun jom bappayo. geuraeseo jeongsini eopseoyo]
@@ -39,7 +39,7 @@ Class 1
 
 ## Vocabulary
 
-**Greetings & Status (안부 anbu):**
+Greetings & Status (안부 anbu):
 - 오랜만이에요 [oraenman-ieyo] → It's been so long
 - 그동안 잘 지냈어요? [geudongan jal jinaesseoyo?] → How have you been?
 - 방학을 잘 보냈어요? [banghageul jal bonaesseoyo?] → Did you have a good vacation?
@@ -47,7 +47,7 @@ Class 1
 - 요즘 어떻게 지내요? [yojeum eotteoke jinaeyo?] → How are you doing these days?
 - 잘 지내요 [jal jinaeyo] → quite well
 
-**Current State - Recent Events (근황 geunhwang):**
+Current State - Recent Events (근황 geunhwang):
 - 바쁘다 [bappeuda] → to be busy
 - 힘들다 [himdeulda] → to have a hard time
 - 피곤하다 [pigonhada] → to be tired
@@ -57,7 +57,7 @@ Class 1
 - 재미없다 [jaemi-eopda] → not fun, boring
 - 즐겁다 [jeulgeopda] → to be pleased, enjoyable
 
-**Activities (things you do in daily life):**
+Activities (things you do in daily life):
 - 휴가 [hyuga] → vacation | 방학 [banghak] → school vacation
 - 여행 [yeohaeng] → trip | 출장 [chulhang] → business trip
 - 공부 [gongbu] → study | 아르바이트 [areubaiteu] → part-time job  
@@ -65,18 +65,18 @@ Class 1
 - 청소하다 [cheongsohada] → to clean | 책을 읽다 [chaekeul ikda] → to read books
 - 친구를 만나다 [chingureul mannada] → to meet friends
 
-**Time & Frequency:**
+Time & Frequency:
 - 요즘 [yojeum] → these days | 그동안 [geudongan] → meanwhile, during that time
 - 많이 [mani] → a lot | 늦다 [neutda] → to be late
 - 보냈어요 [bonaesseoyo] → spent/passed (time)
 
-**Weather & Description:**
+Weather & Description:
 - 덥고 [deopgo] → hot and | 춥고 [chupgo] → cold and
 - 따뜻하다 [ttatteuthada] → to be warm | 시원하다 [siwonhada] → to be cool
 - 비가 와요 [biga wayo] → it's raining | 눈이 와요 [nuni wayo] → it's snowing
 - 달라요 [dallayo] → different
 
-**Others:**
+Others:
 - 인사 [insa] → greetings/regards | 안부 [anbu] → regards/well-being
 - 음식 [eumsik] → food | 음악 [eumak] → music
 - 바다 [bada] → beach/sea | 자전거 [jajeongeo] → bicycle
@@ -113,16 +113,16 @@ Examples:
 
 ## Key Patterns & Useful Phrases
 
-**Starting Conversations (when meeting someone after a while):**
+Starting Conversations (when meeting someone after a while):
 - 오랜만이에요! [oraenman-ieyo!] → It's been so long!
 - 그동안 잘 지냈어요? [geudongan jal jinaesseoyo?] → How have you been?
 - 요즘 어떻게 지내요? [yojeum eotteoke jinaeyo?] → How are you doing these days?
 
-**Follow-up Questions (to continue the conversation):**
+Follow-up Questions (to continue the conversation):
 - [Name] 씨는요? [[Name] ssineunyo?] → What about you, [Name]?
 - 휴가/방학 때 뭐 했어요? [hyuga/banghak ttae mwo haesseoyo?] → What did you do during vacation?
 
-**Common Responses (how to answer about your situation):**
+Common Responses (how to answer about your situation):
 - 네, 잘 지냈어요 [ne, jal jinaesseoyo] → Yes, I've been well
 - 그저 그래요 [geujeo geuraeyo] → Nothing special  
 - 정신이 없어요 [jeongsini eopseoyo] → It's hectic
@@ -130,25 +130,14 @@ Examples:
 
 ## Additional Class Notes & Expressions
 
-**Negation Patterns:**
 - 안 갔어요 [an gasseoyo] → didn't go (by choice)
 - 못 갔어요 [mot gasseoyo] → couldn't go (unable to)
 - 청소 안 했어요 [cheongso an haesseoyo] → didn't clean
-
-**Emotional States:**
-- 수업이 즐거워요 [sueobi jeulgeowoyo] → class is enjoyable
-- 그래서 기뻐요 [geuraeseo gippeoyo] → therefore (I'm) happy
-- 좋아요 [joahayo] → good/like it
-
-**Work & Reasons:**
-- 일이 많아서 [iri manaseo] → because of a lot of work
-- 정신이 없어요 [jeongsini eopseoyo] → busy/out of mind
+- 수업이 즐거워요. 그래서 기뻐요 [sueobi jeulgeowoyo. geuraeseo gippeoyo] → Class is enjoyable. So I'm happy
+- 좋아요 [joahayo] → is good (describing something) | 좋아해요 [joahaeyo] → I like (personal preference)
+- 일이 많아요. 그래서 정신이 없어요 [iri manayo. geuraeseo jeongsini eopseoyo] → There's a lot of work. So I'm busy/out of my mind
 - 고르세요 [goreuseyo] → select/choose
-
-**Sample Weather Sentences:**
 - 오늘은 춥고 눈이 와요 [oneureun chupgo nuni wayo] → Today it's cold and snowing
 - 오늘은 덥고 비가 와요 [oneureun deopgo biga wayo] → Today it's hot and raining
-
-**Example Preferences:**
 - 저는 아이스크림을 좋아해요 [jeoneun aiseukrimeul joahaeyo] → I like ice cream
 - 아이스크림은 건강에 좋지 않아요 [aiseukrimeun geongang-e jochi anhayo] → Ice cream is not good for health
