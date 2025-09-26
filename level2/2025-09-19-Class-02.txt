@@ -1,0 +1,247 @@
+19th - September - 2025
+Class 2
+
+CHAPTER - 안부 [anbu] (Saying Hello) - Continued!
+
+## TLDR - Key Points Covered:
+• **Connecting Sentences**: Using 그런데 [geureonde] (but/however) to link contrasting ideas
+• **Korean Counters**: Reviewed units for people (명/분 [myeong/bun]), objects (개 [gae]), animals (마리 [mari]), books (권 [gwon]), etc.
+• **Text/Email Practice**: Reading comprehension with sender/receiver scenarios
+• **Grammar Patterns**:
+  - 에게/에게서 [ege/egeseo] (to/from someone)
+  - 때문에 [ttaemune] (because of) + noun
+  - 수 있어요/없어요 [su isseoyo/eopseoyo] (can/cannot)
+  - 안 vs 못 [an vs mot] (choice vs inability)
+  - ㄹ까요 [lkkayo] (shall we/shall I)
+  - (으)ㄹ까요 [(eu)lkkayo] (shall we/shall I)
+
+-----
+
+---
+### 📚 Homework - Page 17: Connecting Sentences
+관련된 문장들 [gwallyeondoen munjangdeul] (Connecting sentences)
+
+이번 주에는 회사 일이 많아요. 많이 바빠요. [iban ju-eneun hoesa iri manayo. manhi bappayo.]
+→ This week company work is a lot. I'm very busy.
+그런데 한국어 듣기는 조금 어려워요. [geureonde hangugeo deutgineun jogeum eoryeowoyo.]
+→ But listening to Korean is a little difficult.
+
+요즘 주말에 운동을 해요. [yojeum jumare undongeul haeyo.]
+→ These days I exercise on weekends.
+그런데 이번 주말에는 운동을 안 해요. 주말에 친구와 여행을 갈 거예요. [geureonde ibeon jumare neun undongeul an haeyo. jumare chinguwa yeohaengeul gal geoyeyo.]
+→ But this weekend I won't exercise. I will go on a trip with friends.
+
+친구들은 오늘 영화관에 가요. [chingudeureun oneul yeonghwagwane gayo.]
+→ My friends go to the cinema today.
+그런데 저는 많이 피곤해요. 집에서 쉴 거예요. [geureonde jeoneun manhi pigonhaeyo. jib-eseo swil geoyeyo.]
+→ But I am very tired. I will rest at home.
+
+한국어 말하기는 재미 있어요. [hangugeo malhagireun jaemi isseoyo.]
+→ Speaking Korean is fun.
+그런데 다음 주에는 시간이 좀 있어요. 즐거워요. [geureonde daeum ju-eneun shigan-i jom isseoyo. jeulgeowoyo.]
+→ But next week I have some free time. I'm happy.
+
+가: 요즘 어떻게 지내요? [ga: yojeum eotteoke jinaeyo?]
+     → How are you these days?
+
+나: 이번 주에는 좀 바빠어요. 그런데 다음 주는 휴가예요. 여행을 갈 거예요. [na: iban ju-eneun jom bappasseoyo. geureonde daeum ju-neun hyugayeyo. yeohaengeul gal geoyeyo.]
+     → This week I was a little busy. But next week is holiday. I will go on a trip.
+
+---
+### 🎧 Listening Practice - TTMIK Level 1
+[Test Your Korean Listening - TTMIK Level 1] https://www.youtube.com/watch?v=bGpzWPUbP3s&t=12s
+Conversation Listening: Among three friends, followed by a restaurant scene.
+
+---
+### 🔢 Revision: Korean Counters/Units
+
+| Category | Counter | Korean | Romanization | Example | English |
+|----------|---------|--------|--------------|---------|----------|
+| People   | General | 명 | myeong | 세 명 [se myeong] | 3 people |
+|          | Polite  | 분 | bun | 두 분 [du bun] | 2 people |
+| Objects  | General | 개 | gae | 다섯 개 [daseot gae] | 5 objects |
+|          | Glasses | 잔 | jan | 한 잔 [han jan] | 1 glass |
+|          | Bottles | 병 | byeong | 한 병 [han byeong] | 1 bottle |
+| Food     | Bowls   | 그릇 | geureut | 세 그릇 [se geureut] | 3 bowls of rice |
+| Animals  | General | 마리 | mari | 다섯 마리 [daseot mari] | 5 dogs |
+| Books    | General | 권 | gwon | 네 권 [ne gwon] | 4 books |
+| Vehicles | General | 대 | dae | 두 대 [du dae] | 2 cars |
+| Paper    | General | 장 | jang | 열 장 [yeol jang] | 10 sheets |
+| Floors   | General | 층 | cheung | 오 층 [o cheung] | 5th floor |
+| Age      | General | 살 | sal | 스무 살 [seumu sal] | 20 years old |
+
+
+---
+### 📖 Reading & Writing Practice - Page 20
+보내는 사람 [bonaeneun saram] - sender
+받는 사람 [batneun saram] - receiver
+답장 [dapjang] - reply
+삭제 [sakje] - delete
+
+📱 문자 메시지 (Text message)
+민수 씨, 미안해요. 전화를 못 받았어요. 제가 요즘 많이 바빴어요. 회사에 일이 많아요. 내일 다시 전화해요.
+Minsu-ssi, mianhaeyo. Jeonhwareul mot badasseoyo. Jega yojeum manhi bappasseoyo. Hosa-e iri manayo. Naeil dasi jeonhwahaeyo.
+→ Mr. Minsu, sorry. I couldn't take the call. I am busy these days. There is a lot of work at the company. I will call again tomorrow.
+
+Q1. 누가 누구에게 문자 메시지를 보냈어요?
+Nuga nuguege munja mesijireul bonaesseoyo?
+→ Who sent the message to whom?
+👉 투이가 민수에게 보냈어요.
+Tuiga Minsu-ege bonaesseoyo.
+→ Tui sent it to Minsu.
+
+Q2. 투이 씨는 요즘 어떻게 지내요?
+Tui-ssi-neun yojeum eotteoke jinaeyo?
+→ How is Tui these days?
+👉 일이 많아서 바빠요.
+Iri manaseo bappayo.
+→ Busy because of a lot of work.
+
+📧 이메일 (Email)
+수진 씨, 안녕하세요? 그동안 잘 지냈어요? 저는 요즘 한국어 공부도 하고 운동도 해요. 한국어가 재미있어요. 그래서 즐거워요. 그런데 수진 씨는 언제 일본에 올 거예요? 일본 음식을 같이 먹고 여행도 같이 가요. 그럼 안녕히 계세요. – 유키
+Sujin-ssi, annyeonghaseyo? Geudongan jal jinaesseoyo? Jeoneun yojeum hangugeo gongbudo hago undongdo haeyo. Hangugeo-ga jaemi isseoyo. Geuraeseo jeulgeowoyo. Geureonde Sujin-ssi-neun eonje Ilbone ol geoyeyo? Ilbon eumsigeul gachi meokgo yeohaengdo gachi gayo. Geureom annyeonghi gyeseyo. – Yuki
+→ Hello Sujin, how are you? These days I study Korean and exercise. Korean is fun. So I'm happy. When will you come to Japan? Let's eat Japanese food and travel together. Goodbye. – Yuki
+
+Q1. 유키 씨는 요즘 어떤 일을 해요?
+Yuki-ssi-neun yojeum eotteon ireul haeyo?
+→ What does Yuki do these days?
+👉 한국어 공부도 하고 운동도 해요.
+Hangugeo gongbudo hago undongdo haeyo.
+→ Studying Korean and exercising.
+
+Q2. 수진 씨는 지금 일본에 있어요?
+Sujin-ssi-neun jigeum Ilbone isseoyo?
+→ Is Sujin in Japan now?
+👉 아니요, 일본에 없어요.
+Aniyo, Ilbone eopseoyo.
+→ No, not in Japan.
+
+---
+### 💬 Useful Conversation Patterns
+-에게 (to someone) for sending 
+-에게서 (from someone) for receiving.
+
+I sent gift to friend:
+친구에게 선물을 보냈어요.
+[chingu-ege seonmureul bonaesseoyo]
+
+I received beautiful clock as gift from my friend:
+친구에게서 예쁜 시계를 선물로 받았어요.
+[chingu-egeseo yeppeun sigyereul seonmullo badasseoyo]
+
+I came back from Korea last week:
+저는 지난주에 한국에서 돌아왔어요.
+[jeoneun jinanjue hangugeseo dorawasseoyo]
+
+Make a call:
+전화해요 / 전화를 걸어요.
+[jeonhwahaeyo / jeonhwareul georeoyo]
+
+Did you make a call?
+전화했어요?
+[jeonhwahaesseoyo?]
+
+Did you receive a call?
+전화를 받았어요?
+[jeonhwareul badasseoyo?]
+
+To be late:
+늦다 [neutda]
+→ to be late
+
+늦었어요 [neujeosseoyo]
+→ I'm late / I was late
+
+Sorry for being late:
+늦어서 죄송해요.
+[neujeoser joesonghaeyo]
+→ Sorry for being late.
+
+늦어서 미안해요.
+[neujeoser mianhaeyo]
+→ Sorry for being late. (more casual)
+
+I got late because of rain and Bangalore traffic:
+비하고 방갈로르 교통 때문에 늦었어요.
+[bihago banggalloleu gyotong ttaemune neujeosseoyo]
+
+---
+### 📝 Grammar Pattern: "Because of" - 때문에 [ttaemune]
+
+Structure: [Noun] + 때문에
+
+With concrete nouns:
+일 때문에 바빠요. [il ttaemune bappayo] → Busy because of work.
+비 때문에 못 갔어요. [bi ttaemune mot gasseoyo] → Couldn't go because of rain.
+교통 때문에 늦었어요. [gyotong ttaemune neujeosseoyo] → Late because of traffic.
+감기 때문에 못 왔어요. [gamgi ttaemune mot wasseoyo] → Couldn't come because of a cold.
+
+With pronouns/demonstratives:
+그것 때문에 걱정해요. [geugeot ttaemune geokjeonghaeyo] → I'm worried because of that.
+이것 때문에 문제예요. [igeot ttaemune munjeyeyo] → This is a problem because of this.
+
+---
+### 📺 YouTube Video Vocabulary
+
+Small: 작다 [jakda]
+Big: 크다 [keuda]
+Middle: 중간 [junggan]
+Need: 필요하다 [piryohada]
+To add: 추가하다 [chugahada]
+
+---
+### 🔤 Grammar Pattern: Ability - V + 수 있어요 [su isseoyo]
+
+Can: V + 수 있어요 [su isseoyo]
+Cannot: V + 수 없어요 [su eopseoyo]
+
+Examples:
+갈 수 있어요. [gal su isseoyo] → I can go
+갈 수 없어요. [gal su eopseoyo] → I cannot go
+먹을 수 있어요. [meogeul su isseoyo] → I can eat
+
+Practice: I can read Korean but I cannot read Japanese:
+한국어를 읽을 수 있어요. 그런데 일본어를 읽을 수 없어요.
+[hangugeo-reul ilgeul su isseoyo. geureonde ilboneo-reul ilgeul su eopseoyo]
+
+---
+### 📸 Photo Vocabulary
+사진 [sajin] → photo
+사진을 찍어요 [sajineul jjigeoyo] → take a photo
+사진을 봐요 [sajineul bwayo] → look at a photo
+
+---
+### ❌ Negation Patterns: 안 vs 못
+
+안 + verb = don't/won't (by choice)
+못 + verb = can't/couldn't (unable to)
+
+Examples:
+안 가요 [an gayo] → I don't go / I won't go (by choice)
+못 가요 [mot gayo] → I can't go (unable to, circumstances prevent)
+
+안 먹어요 [an meogeoyo] → I don't eat / I won't eat (by choice)
+못 먹어요 [mot meogeoyo] → I can't eat (unable to, maybe full or allergic)
+
+---
+### ✨ Key Expression: "진짜" [jinjja] (really/actually)
+진짜 좋아요 [jinjja johayo] → It's really good
+진짜예요? [jinjjayeyo?] → Really? / Is that true?
+
+---
+### 🤝 Suggestion Patterns: Shall we/Shall I
+
+Shall we: V + ㄹ까요? [lkkayo?]
+갈까요? [galkkayo?] → Shall we go?
+먹을까요? [meogeulkkayo?] → Shall we eat?
+볼까요? [bolkkayo?] → Shall we see/watch?
+
+Shall I: 제가 V + ㄹ까요? [jega ... lkkayo?]
+제가 할까요? [jega halkkayo?] → Shall I do it?
+제가 갈까요? [jega galkkayo?] → Shall I go?
+제가 사올까요? [jega saolkkayo?] → Shall I buy and bring?
+
+---
+### 💳 Payment Methods
+현금으로 낼게요 [hyeongeumeu-ro naelgeyo] → I will pay by cash
+카드로 낼게요 [kadeu-ro naelgeyo] → I will pay by card
