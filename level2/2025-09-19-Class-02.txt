@@ -5,17 +5,15 @@ CHAPTER - 안부 [anbu] (Saying Hello) - Continued!
 
 ## TLDR - Key Points Covered:
 • **Connecting Sentences**: Using 그런데 [geureonde] (but/however) to link contrasting ideas
-• **Korean Counters**: Reviewed units for people (명/분 [myeong/bun]), objects (개 [gae]), animals (마리 [mari]), books (권 [gwon]), etc.
-• **Text/Email Practice**: Reading comprehension with sender/receiver scenarios
+• **Korean Counters**: Units for people (명/분), objects (개), animals (마리), books (권)
+• **Text/Email Practice**: 보내는 사람 [bonaeneun saram] (sender), 받는 사람 [batneun saram] (receiver)
 • **Grammar Patterns**:
-  - 에게/에게서 [ege/egeseo] (to/from someone)
-  - 때문에 [ttaemune] (because of) + noun
-  - 수 있어요/없어요 [su isseoyo/eopseoyo] (can/cannot)
-  - 안 vs 못 [an vs mot] (choice vs inability)
-  - ㄹ까요 [lkkayo] (shall we/shall I)
-  - (으)ㄹ까요 [(eu)lkkayo] (shall we/shall I)
+  - **에게/에게서** [ege/egeseo] (to/from someone)
+  - **때문에** [ttaemune] (because of) + noun
+  - **수 있어요/없어요** [su isseoyo/eopseoyo] (can/cannot)
+  - **안 vs 못** [an vs mot] (choice vs inability)
+  - **(으)ㄹ까요** [(eu)lkkayo] (shall we/shall I)
 
------
 
 ---
 ### 📚 Homework - Page 17: Connecting Sentences
