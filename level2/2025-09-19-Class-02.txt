@@ -19,29 +19,33 @@ CHAPTER - 안부 [anbu] (Saying Hello) - Continued!
 ### 📚 Homework - Page 17: Connecting Sentences
 관련된 문장들 [gwallyeondoen munjangdeul] (Connecting sentences)
 
-이번 주에는 회사 일이 많아요. 많이 바빠요. [iban ju-eneun hoesa iri manayo. manhi bappayo.]
-→ This week company work is a lot. I'm very busy.
-그런데 한국어 듣기는 조금 어려워요. [geureonde hangugeo deutgineun jogeum eoryeowoyo.]
-→ But listening to Korean is a little difficult.
+**1.** 이번 주에는 회사 일이 많아요. 많이 바빠요.
+→ 그런데 다음 주에는 시간이 좀 있어요. 즐거워요.
 
-요즘 주말에 운동을 해요. [yojeum jumare undongeul haeyo.]
-→ These days I exercise on weekends.
-그런데 이번 주말에는 운동을 안 해요. 주말에 친구와 여행을 갈 거예요. [geureonde ibeon jumare neun undongeul an haeyo. jumare chinguwa yeohaengeul gal geoyeyo.]
-→ But this weekend I won't exercise. I will go on a trip with friends.
+Ibeon ju-eneun hoesa iri manayo. mani bappayo. geureonde daeum ju-eneun sigani jom isseoyo. jeulgeowoyo.
+This week, I have a lot of work, I'm very busy. But next week, I have some time. I'm happy.
 
-친구들은 오늘 영화관에 가요. [chingudeureun oneul yeonghwagwane gayo.]
-→ My friends go to the cinema today.
-그런데 저는 많이 피곤해요. 집에서 쉴 거예요. [geureonde jeoneun manhi pigonhaeyo. jib-eseo swil geoyeyo.]
-→ But I am very tired. I will rest at home.
+**2.** 요즘 주말에 운동을 해요.
+→ 그런데 이번 주말에는 운동을 안 해요. 주말에 친구와 여행을 갈 거예요.
 
-한국어 말하기는 재미 있어요. [hangugeo malhagireun jaemi isseoyo.]
-→ Speaking Korean is fun.
-그런데 다음 주에는 시간이 좀 있어요. 즐거워요. [geureonde daeum ju-eneun shigan-i jom isseoyo. jeulgeowoyo.]
-→ But next week I have some free time. I'm happy.
+Yojeum jumare undongeul haeyo. geureonde ibeon jumare-neun undongeul an haeyo. jumare chinguwa yeohaengeul gal geoyeyo.
+These days, I exercise on weekends. But this weekend, I won't exercise. I'll go on a trip with my friend.
 
+**3.** 친구들은 오늘 영화관에 가요.
+→ 그런데 저는 많이 피곤해요. 집에서 쉴 거예요.
+
+Chingudeureun oneul yeonghwagwane gayo. geureonde jeoneun mani pigonhaeyo. jibeseo swil geoyeyo.
+My friends are going to the cinema today. But I am very tired. I'll rest at home.
+
+**4.** 한국어 말하기는 재미있어요.
+→ 그런데 한국어 듣기는 조금 어려워요.
+
+Hangugeo malhagineun jaemiisseoyo. geureonde hangugeo deutgineun jogeum eoryeowoyo.
+Speaking Korean is fun. But listening to Korean is a little difficult.
+
+**Dialogue:**
 가: 요즘 어떻게 지내요? [ga: yojeum eotteoke jinaeyo?]
      → How are you these days?
-
 나: 이번 주에는 좀 바빠어요. 그런데 다음 주는 휴가예요. 여행을 갈 거예요. [na: iban ju-eneun jom bappasseoyo. geureonde daeum ju-neun hyugayeyo. yeohaengeul gal geoyeyo.]
      → This week I was a little busy. But next week is holiday. I will go on a trip.
 
