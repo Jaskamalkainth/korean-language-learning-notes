@@ -48,6 +48,11 @@ CHAPTER 2 : 취미 활동 [chwimi hwaldong] (Hobby Activities)
 - 낚시를 하다 [naksireul hada] → to fish
 - 피아노를 치다 [pianoreul chida] → to play piano
 - 게임을 하다 [geimeul hada] → to play a game
+- 춤을 추다 [chumeul chuda] → to dance
+- 그림을 그리다 [geurimeul geurida] → to paint/draw
+- 책을 읽다 [chaegeul ikda] → to read books
+- 사진을 찍다 [sajineul jjikda] → to take photos
+- 노래를 부르다 [noraereul bureuda] → to sing
 
 **Frequency (빈도 bindo):**
 - 언제나 / 항상 [eonjena / hangsang] → always
@@ -111,6 +116,9 @@ Examples:
 - 바빠서 [bappaseo] → because I'm busy
 - 시간이 없어서 [sigani eopseoseo] → because I don't have time
 - 피곤해서 [pigonhaeseo] → because I'm tired
+
+**Expressing preferences:**
+- 저는 노래 부르는 것을 좋아해요 [jeoneun norae bureuneun geoseul joahaeyo] → I like singing
 
 ---
 
