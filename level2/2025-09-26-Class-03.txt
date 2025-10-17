@@ -125,7 +125,12 @@ Examples:
 ## Additional Class Notes
 
 - **못 vs 안**: 못 = can't (ability/circumstance), 안 = don't/won't (choice)
-- **Frequency order**: 언제나/항상 > 자주 > 가끔 > 거의 > 별로 > 전혀
+- **Frequency order**:  
+  - 언제나/항상 [eonjena/hangsang] → always  
+  - 자주 [jaju] → often  
+  - 가끔 [gakkeum] → sometimes  
+  - 거의 [geoui] → almost (never/rarely)  
+  - 별로 [byeollo] → hardly (ever) / rarely  
+  - 전혀 [jeonhyeo] → never
 - **거의** usually used with negative forms (안/못)
 - **별로, 전혀** always negative, followed by 안/못
-- Practice combining frequency + reason patterns for natural conversation
