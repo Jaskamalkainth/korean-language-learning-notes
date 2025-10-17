@@ -4,3 +4,120 @@ Class 3
 CHAPTER 2 : 취미 활동 [chwimi hwaldong] (Hobby Activities)
 
 ## TLDR - Key Points Covered:
+• **Grammar**: 못 [mot] (cannot/unable to) and -아서/어서 [aseo/eoseo] (because/since)
+• **Vocabulary**: Hobbies and frequency expressions
+• **Dialogues**: Talking about hobbies, abilities, and reasons
+• **Practice**: Expressing what you can/cannot do and why
+
+---
+
+## Dialogues
+
+**Dialogue 1 - Asking about hobbies:**
+민수: 유키 씨는 취미가 뭐예요? [minsu: yuki ssineun chwimiga mwoyeyo?]
+     → Minsoo: What is your hobby, Yuki?
+유키: 제 취미는 수영이에요. 민수 씨도 수영을 좋아해요? [yuki: je chwimineun suyeong-ieyo. minsu ssido suyeongeul joahaeyo?]
+     → Yuki: My hobby is swimming. Do you like swimming, too?
+민수: 아니요. 저는 수영을 못해요. [minsu: aniyo. jeoneun suyeongeul mothaeyo.]
+     → Minsoo: No, I can't swim.
+유키: 그러면 민수 씨는 취미가 뭐예요? [yuki: geureomyeon minsu ssineun chwimiga mwoyeyo?]
+     → Yuki: Then, what is your hobby?
+민수: 제 취미는 낚시예요. 주말에 바다에서 낚시를 해요. [minsu: je chwimineun naksieyo. jumare badaseo naksireul haeyo.]
+     → Minsoo: My hobby is fishing. I go fishing at the sea on the weekends.
+
+**Dialogue 2 - Talking about frequency:**
+민수: 유키 씨, 수영을 자주 해요? [minsu: yuki ssi, suyeongeul jaju haeyo?]
+     → Minsoo: Yuki, do you often go swimming?
+유키: 아니요. 요즘은 너무 바빠서 거의 못해요. [yuki: aniyo. yojeumeun neomu bappaseo geoui mothaeyo.]
+     → Yuki: No, I don't go swimming often nowadays because I've been too busy.
+민수: 민수 씨는 낚시를 자주 해요? [minsu: minsu ssineun naksireul jaju haeyo?]
+     → Minsoo: Do you often go fishing, Minsoo?
+민수: 네. 요즘 날씨가 좋아서 자주 해요. 내일도 갈 거예요. [minsu: ne. yojeum nalssiga joaseo jaju haeyo. naeildo gal geoyeyo.]
+     → Minsoo: Yes, I often go fishing because the weather's been nice recently. I'll go tomorrow, too.
+유키: 저도 다음에 같이 가요. [yuki: jeodo daeume gachi gayo.]
+     → Yuki: I'll go together with you next time.
+
+---
+
+## Vocabulary
+
+**Hobbies (취미 chwimi):**
+- 배드민턴을 치다 [baedeumintoneul chida] → to play badminton
+- 자전거를 타다 [jajeongeoreul tada] → to ride a bike
+- 등산을 하다 [deungsaneul hada] → to hike
+- 낚시를 하다 [naksireul hada] → to fish
+- 피아노를 치다 [pianoreul chida] → to play piano
+- 게임을 하다 [geimeul hada] → to play a game
+
+**Frequency (빈도 bindo):**
+- 언제나 / 항상 [eonjena / hangsang] → always
+- 자주 [jaju] → often
+- 가끔 [gakkeum] → sometimes
+- 거의 [geoui] → almost never
+- 별로 [byeollo] → not very often/much
+- 전혀 [jeonhyeo] → not at all
+
+---
+
+## Grammar Points
+
+**1. 못 [mot] (cannot / unable to)**
+Usage: Placed before verbs to indicate inability or circumstances preventing action
+Examples:
+- 저는 수영을 못해요 [jeoneun suyeongeul mothaeyo] → I can't swim
+- 못 봐요. 월요일에 시험이 있어요 [mot bwayo. woryoire siheomi isseoyo] → I can't watch it. I have an exam on Monday
+- 점심을 못 먹었어요 [jeomsimeul mot meogeosseoyo] → I couldn't eat lunch
+
+**2. -아서/어서 [aseo/eoseo] (because / since)**
+Usage: Attached to verb/adjective stems to show reason or cause
+Examples:
+- 바빠서 거의 못해요 [bappaseo geoui mothaeyo] → I almost never do it because I'm busy
+- 날씨가 좋아서 자주 해요 [nalssiga joaseo jaju haeyo] → I often do it because the weather is nice
+- 피곤해서 거의 안 해요 [pigonhaeseo geoui an haeyo] → I almost never do it because I'm tired
+
+---
+
+## Practice Examples
+
+**Frequency + Reason patterns:**
+- 자전거를 자주 타요? 날씨가 좋아서 자주 타요 [jajeongeoreul jaju tayo? nalssiga joaseo jaju tayo]
+  → Do you often ride a bike? I often ride it because the weather is nice
+- 피아노를 자주 쳐요? 시간이 없어서 가끔 쳐요 [pianoreul jaju chyeoyo? sigani eopseoseo gakkeum chyeoyo]
+  → Do you often play piano? I play it sometimes because I don't have time
+- 수영을 자주 해요? 피곤해서 거의 안 해요 [suyeongeul jaju haeyo? pigonhaeseo geoui an haeyo]
+  → Do you often swim? I almost never do it because I'm tired
+
+**Additional practice activities:**
+- 운동을 하다 [undongeul hada] → exercise
+- 등산을 하다 [deungsaneul hada] → hiking
+- 영화를 보다 [yeonghwareul boda] → watching movies
+- 요리를 하다 [yorireul hada] → cooking
+
+---
+
+## Key Patterns & Useful Phrases
+
+**Asking about hobbies:**
+- 취미가 뭐예요? [chwimiga mwoyeyo?] → What is your hobby?
+- [Activity]을/를 잘해요? [[Activity]eul/reul jalhaeyo?] → Do you do [activity] well?
+- [Activity]을/를 자주 해요? [[Activity]eul/reul jaju haeyo?] → Do you often do [activity]?
+
+**Expressing inability:**
+- [Activity]을/를 못해요 [mot haeyo] → I can't do [activity]
+- [Activity]을/를 못 했어요 [mot haesseoyo] → I couldn't do [activity]
+
+**Giving reasons:**
+- [Reason]아서/어서 [Result] [aseo/eoseo] → because [reason], [result]
+- 바빠서 [bappaseo] → because I'm busy
+- 시간이 없어서 [sigani eopseoseo] → because I don't have time
+- 피곤해서 [pigonhaeseo] → because I'm tired
+
+---
+
+## Additional Class Notes
+
+- **못 vs 안**: 못 = can't (ability/circumstance), 안 = don't/won't (choice)
+- **Frequency order**: 언제나/항상 > 자주 > 가끔 > 거의 > 별로 > 전혀
+- **거의** usually used with negative forms (안/못)
+- **별로, 전혀** always negative, followed by 안/못
+- Practice combining frequency + reason patterns for natural conversation
