@@ -1,0 +1,255 @@
+17th - October - 2025
+Class 4
+
+CHAPTER 3 : 음식 [eumsik] (Food) — Ordering & Talking About Taste
+
+Learning Goals: Ordering food, expressing taste, asking “what kind” with 무슨
+
+## TLDR - Key Points Covered:
+• Grammar: -(으)ㄹ래요 (intention/suggestion), 무슨 + N (what kind of ~), 그러면 (then/in that case)
+• Vocabulary: Common Korean dishes and taste adjectives
+• Dialogues: Ordering at a restaurant; preferences about spicy food
+
+---
+
+## Dialogues
+
+Dialogue 1 — Ordering (from Page 8):
+로라: 마크 씨, 뭐 먹을래요? 이 식당은 비빔밥하고 냉면을 잘해요.
+[lora: makeu ssi, mwo meogeullae-yo? i sikdang-eun bibimbap-hago naengmyeon-eul jalhaeyo]
+→ Laura: Mark, what would you like to eat? This restaurant is good at bibimbap and naengmyeon.
+마크: 그래요? 그러면 저는 비빔밥을 먹을래요.
+[makeu: geuraeyo? geureomyeon jeoneun bibimbap-eul meogeullae-yo]
+→ Mark: Really? Then I’ll have bibimbap.
+로라: 로라 씨는 뭐 먹을래요?
+[lora: lora ssineun mwo meogeullae-yo?]
+→ Mark: What about you, Laura? What would you like?
+로라: 저는 냉면요. 아주머니, 여기 비빔밥하고 냉면 주세요.
+[lora: jeoneun naengmyeon-yo. ajumeoni, yeogi bibimbap-hago naengmyeon juseyo]
+→ Laura: Naengmyeon for me. Ma’am, one bibimbap and one naengmyeon, please.
+
+Dialogue 2 — Preference (from Page 5):
+수진: 타완 씨는 무슨 음식을 좋아해요?
+[sujin: tawan ssineun museun eumsigeul joahae-yo?]
+→ Sujin: Tawan, what kind of food do you like?
+타완: 저는 김치찌개를 좋아해요.
+[tawan: jeoneun gimchijjigae-reul joahae-yo]
+→ Tawan: I like kimchi stew.
+수진: 그래요? 김치찌개가 안 매워요?
+[sujin: geuraeyo? gimchijjigae-ga an maewayo?]
+→ Sujin: Really? Isn’t kimchi stew spicy?
+타완: 조금 매워요. 그런데 맛있어요.
+[tawan: jogeum maewayo. geureonde masisseoyo]
+→ Tawan: It’s a little spicy, but it’s tasty.
+수진: 그러면 오늘은 한국 식당에 갈래요?
+[sujin: geureomyeon oneureun hanguk sikdang-e gallae-yo?]
+→ Sujin: Then shall we go to a Korean restaurant today?
+타완: 네, 좋아요.
+[tawan: ne, joayo]
+→ Tawan: Yes, sounds good.
+
+---
+
+## Vocabulary
+
+Food (음식):
+- 불고기 bulgogi
+- 비빔밥 bibimbap
+- 설렁탕 seolleongtang
+- 삼계탕 samgyetang
+- 갈비 galbi
+- 김치찌개 kimchijjigae
+- 된장찌개 doenjangjjigae
+- 냉면 naengmyeon
+- 김밥 gimbap
+- 라면 ramyeon
+
+Taste (맛):
+- 맛있다 tasty
+- 맛없다 not tasty
+- 맵다 spicy
+- 짜다 salty
+- 싱겁다 bland
+- 달다 sweet
+- 쓰다 bitter
+- 시다 sour
+
+Frequency (복습):
+- 자주 often | 가끔 sometimes | 거의 almost (never) | 전혀 not at all
+
+---
+
+## Grammar Points
+
+1) -(으)ㄹ래요 — intention/suggestion
+- Meaning: “would like to ~”, “shall we/I ~”
+- Formation: verb stem + -(으)ㄹ래요 (받침 consonant → -을래요, 모음 vowel → -ㄹ래요)
+  - 먹다 → 먹을래요 (I’d like to eat)
+  - 가다 → 갈래요 (I’d like to go / Shall we go?)
+- Usage: Express your intention or ask the listener’s intention
+  - 가: 뭐 먹을래요? → What would you like to eat?
+  [ga: mwo meogeullae-yo?]
+  - 나: 저는 불고기를 먹을래요. → I’d like bulgogi.
+  [na: jeoneun bulgogireul meogeullae-yo]
+  - 피곤해서 집에서 쉴래요. → I’d like to rest at home because I’m tired.
+  [pigonhaeseo jibeseo swillae-yo]
+
+2) 무슨 + N — asking “what kind of N”
+- Position: placed directly before a noun
+  - 무슨 음식을 좋아해요? → What kind of food do you like?
+  [museun eumsigeul joahae-yo?]
+  - 무슨 운동을 해요? → What kind of exercise do you do?
+  [museun undongeul hae-yo?]
+
+3) 그러면 — “then / in that case” (the first sentence frames the condition)
+- A: 비빔밥 좋아해요?
+  [bibimbap joahae-yo?]
+- B: 네, 좋아해요.
+  [ne, joahae-yo]
+- A: 그러면 비빔밥을 먹을래요? → Then, shall we have bibimbap?
+  [geureomyeon bibimbap-eul meogeullae-yo?]
+
+---
+
+## Practice — Guided Answers
+
+### Page 1 — Complete the dialogues (Fill in the blanks)
+
+- 가: 피아노를 자주 쳐요?  
+  [pianoreul jaju chyeoyo?]  
+  "Do you often play the piano?"  
+  나: 아니요. 시간이 없어서 가끔 쳐요.  
+  [aniyo. sigani eopseoseo gakkeum chyeoyo]  
+  "No, I play only sometimes because I don't have time."
+
+- 가: 수영을 자주 해요?  
+  [suyeongeul jaju hae-yo?]  
+  "Do you swim often?"  
+  나: 아니요. 피곤해서 거의 안 해요.  
+  [aniyo. pigonhaeseo geoui an hae-yo]  
+  "No, I hardly do because I'm tired."
+
+- 가: 배드민턴을 자주 쳐요?  
+  [baedeuminteoneul jaju chyeoyo?]  
+  "Do you play badminton often?"  
+  나: 아니요. 일이 너무 많아서 전혀 안 쳐요.  
+  [aniyo. iri neomu manaseo jeonhyeo an chyeoyo]  
+  "No, I don't play at all because I'm too busy."
+
+- 가: 타완 씨는 운동을 자주 해요?  
+  [tawan ssineun undongeul jaju hae-yo?]  
+  "Tawan, do you exercise often?"  
+  나: 아니요. 요즘은 날씨가 너무 더워서 별로 안 해요.  
+  [aniyo. yojeumeun nalssiga neomu deowoseo byeollo an hae-yo]  
+  "No, these days I hardly do because the weather is too hot."
+
+---
+
+### Page 2 — Complete the dialogues
+
+- 가: 저녁에 뭐 먹었어요?  
+  [jeonyeoge mwo meogeosseoyo?]  
+  "What did you eat for dinner?"  
+  나: 갈비를 먹었어요. 아주 맛있었어요.  
+  [galbireul meogeosseoyo. aju masisseosseoyo]  
+  "I ate galbi. It was very delicious."
+
+- 가: 은지 씨는 무슨 일을 해요?  
+  [eunji ssineun museun ireul hae-yo?]  
+  "Eunji, what kind of work do you do?"  
+  나: 저는 컴퓨터 회사에 다녀요.  
+  [jeoneun keompyuteo hoesa-e danyeoyo]  
+  "I work at a computer company."
+
+- 가: 무슨 영화를 좋아해요?  
+  [museun yeonghwareul joahae-yo?]  
+  "What kind of movies do you like?"  
+  나: 영화는 다 좋아해요.  
+  [yeonghwaneun da joahae-yo]  
+  "I like all movies."
+
+---
+
+### Page 3 — Make sentences using the given words
+
+- (마시다, 커피)  
+  가: 뭐 마실래요?  
+  [mwo masillae-yo?]  
+  "What would you like to drink?"  
+  나: 커피를 마실래요.  
+  [keopireul masillae-yo]  
+  "I’d like to drink coffee."
+
+- (사다, 오렌지)  
+  가: 뭐 살래요?  
+  [mwo sallae-yo?]  
+  "What would you like to buy?"  
+  나: 오렌지를 살래요.  
+  [orenjireul sallae-yo]  
+  "I’d like to buy an orange."
+
+- (집에 가다, 다섯 시)  
+  가: 몇 시에 집에 갈래요?  
+  [myeot sie jibe gallae-yo?]  
+  "What time do you want to go home?"  
+  나: 다섯 시에 집에 갈래요.  
+  [daseot sie jibe gallae-yo]  
+  "I want to go home at 5 o’clock."
+
+---
+
+## Key Patterns & Useful Phrases
+
+Ordering:
+- 여기 [음식] 주세요 → Please give me [dish]
+- [음식] 두 개 주세요 → Two [dish] please
+- 따로 계산할래요 → Shall we pay separately?
+- 현금으로/카드로 낼게요 → I’ll pay by cash/card
+
+Taste talk:
+- 좀 매워요. 그런데 맛있어요 → A bit spicy, but tasty
+- 너무 짜요/싱거워요 → Too salty/bland
+- 달아요/써요/셔요 → It’s sweet/bitter/sour
+
+Preferences with 무슨:
+- 무슨 음식을 자주 먹어요? → What kind of food do you often eat?
+- 무슨 영화를 좋아해요? → What kind of movies do you like?
+
+Suggestions with -(으)ㄹ래요:
+- 오늘 저녁에 한국 식당에 갈래요? → Shall we go to a Korean restaurant tonight?
+- 집에서 쉴래요 → I’d like to rest at home
+
+---
+
+## Read & Write (Page 7)
+
+포스터: 축사모 신입 회원 모집
+- 내용: 매주 토요일 오전 7시, 하나대학교 운동장에서 축구
+
+질문:
+1) 축사모에서 무엇을 해요? → 매주 같이 축구를 해요.
+2) 언제, 어디에서 해요? → 매주 토요일 오전 7시, 하나대학교 운동장에서 해요.
+
+짧은 글 읽기 — 배드민턴 취미:
+- 핵심: 건강에 좋고 재미있다 → 주말마다 언제나 침 → 지난주는 비 때문에 못 침 → 이번 주말에는 꼭 칠 것
+
+OX:
+1) 이 사람은 매일 배드민턴을 쳐요. → X (주말에는 언제나)
+2) 이 사람은 친구들과 같이 배드민턴을 쳐요. → O
+3) 지난 주말에 공원에서 배드민턴을 쳤어요. → X (비가 많이 와서 못 쳤어요)
+
+---
+
+## Evaluate Yourself
+1) Can you use vocabulary for food and taste?
+2) Can you use -(으)ㄹ래요 to express intention or make suggestions?
+3) Can you use 무슨 + N to ask preferences?
+4) Can you order food politely at a restaurant?
+
+---
+
+## Extra Practice Prompts
+- 무슨 음식을 자주 먹어요? 왜요?
+- 오늘 점심에 뭐 먹을래요?
+- 매운 음식을 좋아해요? 얼마나 매운 것을 먹을 수 있어요?
+- 달고 짠 음식 중에 뭐가 더 좋아요? 이유는요?
