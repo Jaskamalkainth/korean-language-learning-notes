@@ -2,32 +2,40 @@
 Class 4
 
 ## TLDR — Important
+- Reading: 축사모 poster (Every Sat 7 a.m., Hana Univ field); Badminton text
 - Grammar: -(으)ㄹ래요 (would like/shall), 무슨 + N (what kind), 그러면 (then)
 - Skills: order food, describe taste; ask/answer frequency with reasons using 안/못, -아서/어서
 - Vocab: dishes (비빔밥, 라면, 갈비, 김치찌개, 된장찌개, 냉면…) and taste (맵다, 짜다, 달다, 싱겁다…)
-- Reading: 축사모 poster (Every Sat 7 a.m., Hana Univ field); Badminton text → only 2 is true
 
+
+--------------------------------------
 CHAPTER 2:
 ## Read & Write (Page 30)
 
 포스터: 축사모 신입 회원 모집
 [chuksamo sinip hoe-won mojip]
 → Recruiting new members for the Soccer Lovers club
+
 축구를 좋아합니까?
 [chukgureul joahamnikka?]
 → Do you like soccer?
+
 그러면 우리 축구 사랑 모임에 들어오세요!
 [geureomyeon uri chukgu sarang moim-e deureo-oseyo!]
 → Then please join our Soccer Lovers club!
+
 축사모에서는 매주 같이 축구를 합니다.
 [chuksamo-eseoneun maeju gachi chukgureul hamnida]
 → In Chuksamo, we play soccer together every week.
+
 언제: 매주 토요일 오전 7시
 [eonje: maeju toyoil ojeon ilgop si]
 → When: Every Saturday at 7 a.m.
+
 어디: 하나 대학교 운동장
 [eodi: hana daehakgyo undongjang]
 → Where: Hana University field
+
 관심 있는 사람은 오세요!
 [gwansim inneun sarameun oseyo!]
 → If you’re interested, please come!
@@ -35,6 +43,7 @@ CHAPTER 2:
 문제 1) 축사모에서 무엇을 해요?
 [munje il) chuksamo-eseo mueoseul hae-yo?]
 → What do they do in Chuksamo?
+
 👉 축사모에서는 축구를 해요.
 [chuksamo-eseoneun chukgureul hae-yo]
 → They play soccer in Chuksamo.
@@ -42,10 +51,12 @@ CHAPTER 2:
 문제 2) 언제, 어디에서 해요?
 [munje i) eonje, eodieseo hae-yo?]
 → When and where do they do it?
+
 👉 매주 토요일 오전 7시에 하나 대학교 운동장에서 해요.
 [maeju toyoil ojeon ilgop sie hana daehakgyo undongjang-eseo hae-yo]
 → Every Saturday at 7 a.m., at Hana University field.
 
+----------------------------------------------
 본문 — 배드민턴 글
 [bonmun — baedeuminteon geul]
 제 취미는 배드민턴입니다.
@@ -72,15 +83,19 @@ OX 문제:
 1) 이 사람은 매일 배드민턴을 쳐요.
 [i sarameun maeil baedeuminteoneul chyeoyo]
 → This person plays badminton every day. (X)
+
 2) 이 사람은 친구들과 같이 배드민턴을 쳐요.
 [i sarameun chingudeulgwa gachi baedeuminteoneul chyeoyo]
 → This person plays badminton with friends. (O)
+
 3) 지난 주말에 공원에서 배드민턴을 쳤어요.
 [jinan jumare gongwon-eseo baedeuminteoneul chyeosseoyo]
 → They played badminton at the park last weekend. (X)
+
 정답: ✅ 2번. 이 사람은 친구들과 같이 배드민턴을 쳐요.
 [jeongdap: i-beon. i sarameun chingudeulgwa gachi baedeuminteoneul chyeoyo]
 → Correct: 2. The person plays badminton with friends.
+
 이유: “제 친구들도 배드민턴을 좋아해서 우리는 같이 공원에서 배드민턴을 칩니다.”
 [iyu: “je chingudeuldo baedeuminteoneul joahaeseo urineun gachi gongwon-eseo baedeuminteoneul chimnida.”]
 → Reason: The text says they play together with friends in the park.
