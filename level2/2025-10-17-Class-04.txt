@@ -311,7 +311,19 @@ Suggestions with -(으)ㄹ래요:
  - 매운 음식을 좋아해요? 얼마나 매운 것을 먹을 수 있어요? [maeun eumsigeul joahae-yo? eolmana maeun geoseul meogeul su isseoyo?] → Do you like spicy food? How spicy can you eat?
  - 달고 짠 음식 중에 뭐가 더 좋아요? 이유는요? [dalgo jjan eumsik jung-e mwoga deo joayo? iyuneunyo?] → Between sweet and salty foods, which do you prefer? Why?
 
----
+
+--- EXTRA [For my reference :')  ---
+## Summary Table — Connectors
+| Korean | Romanization | Meaning |
+|--------|--------------|---------|
+| 그런데 | geureonde | but; however; contrast/topic shift |
+| 그러면 | geureomyeon | then; in that case |
+| 그래서 | geuraeseo | so; therefore |
+| 그리고 | geurigo | and |
+| 그러나 | geureona | but; however (formal) |
+| 그렇지만 | geureochiman | but; however |
+| 그러니까 | geureonikka | so; that’s why; therefore |
+| 그럼 | geureom | then; so (colloquial) |
 
 ## Connector Summary (reference)
 - 그런데 [geureonde] → but/however; contrast or topic shift. Ex: 바빠요. 그런데 갈 거예요. [bappayo. geureonde gal geoyeyo] → I’m busy, but I’ll go.
