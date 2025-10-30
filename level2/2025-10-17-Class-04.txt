@@ -66,13 +66,21 @@ Food (음식):
 
 Taste (맛):
 - 맛있다 tasty
+  [masitda]
 - 맛없다 not tasty
+  [madeopda]
 - 맵다 spicy
+  [maepda]
 - 짜다 salty
+  [jjada]
 - 싱겁다 bland
+  [singgeopda]
 - 달다 sweet
+  [dalda]
 - 쓰다 bitter
+  [sseuda]
 - 시다 sour
+  [sida]
 
 Frequency (복습):
 - 자주 often | 가끔 sometimes | 거의 almost (never) | 전혀 not at all
@@ -202,36 +210,52 @@ Frequency (복습):
 
 Ordering:
 - 여기 [음식] 주세요 → Please give me [dish]
+  [yeogi [eumsik] juseyo]
 - [음식] 두 개 주세요 → Two [dish] please
+  [[eumsik] du gae juseyo]
 - 따로 계산할래요 → Shall we pay separately?
+  [ttaro gyesanhallae-yo]
 - 현금으로/카드로 낼게요 → I’ll pay by cash/card
+  [hyeongeumeuro/kadeuro naelgeyo]
 
 Taste talk:
 - 좀 매워요. 그런데 맛있어요 → A bit spicy, but tasty
+  [jom maewayo. geureonde masisseoyo]
 - 너무 짜요/싱거워요 → Too salty/bland
+  [neomu jjayo/singgeowoyo]
 - 달아요/써요/셔요 → It’s sweet/bitter/sour
+  [darayo/sseoyo/syeoyo]
 
 Preferences with 무슨:
 - 무슨 음식을 자주 먹어요? → What kind of food do you often eat?
+  [museun eumsigeul jaju meogeoyo?]
 - 무슨 영화를 좋아해요? → What kind of movies do you like?
+  [museun yeonghwareul joahae-yo?]
 
 Suggestions with -(으)ㄹ래요:
 - 오늘 저녁에 한국 식당에 갈래요? → Shall we go to a Korean restaurant tonight?
+  [oneul jeonyeoge hanguk sikdang-e gallae-yo?]
 - 집에서 쉴래요 → I’d like to rest at home
+  [jibeseo swillae-yo]
 
 ---
 
 ## Read & Write (Page 7)
 
 포스터: 축사모 신입 회원 모집
+[chuksamo sinip hoe-won mojip]
 - 내용: 매주 토요일 오전 7시, 하나대학교 운동장에서 축구
+[naeyong: maeju toyoil ojeon ilgop si, hanadaehakgyo undongjang-eseo chukgu]
 
 질문:
 1) 축사모에서 무엇을 해요? → 매주 같이 축구를 해요.
+   [maeju gachi chukgureul hae-yo]
 2) 언제, 어디에서 해요? → 매주 토요일 오전 7시, 하나대학교 운동장에서 해요.
+   [maeju toyoil ojeon ilgop si, hanadaehakgyo undongjang-eseo hae-yo]
 
 짧은 글 읽기 — 배드민턴 취미:
 - 핵심: 건강에 좋고 재미있다 → 주말마다 언제나 침 → 지난주는 비 때문에 못 침 → 이번 주말에는 꼭 칠 것
+  [haeksim: geongang-e jokko jaemiitda → jumalmada eonjena chim → jinanjuneun bi ttaemune mot chim → ibeon jumal-eneun kkok chil geot]
 
 OX:
 1) 이 사람은 매일 배드민턴을 쳐요. → X (주말에는 언제나)
@@ -240,16 +264,12 @@ OX:
 
 ---
 
-## Evaluate Yourself
-1) Can you use vocabulary for food and taste?
-2) Can you use -(으)ㄹ래요 to express intention or make suggestions?
-3) Can you use 무슨 + N to ask preferences?
-4) Can you order food politely at a restaurant?
-
----
-
 ## Extra Practice Prompts
-- 무슨 음식을 자주 먹어요? 왜요?
-- 오늘 점심에 뭐 먹을래요?
-- 매운 음식을 좋아해요? 얼마나 매운 것을 먹을 수 있어요?
-- 달고 짠 음식 중에 뭐가 더 좋아요? 이유는요?
+ - 무슨 음식을 자주 먹어요? 왜요?
+  [museun eumsigeul jaju meogeoyo? waeyo?]
+ - 오늘 점심에 뭐 먹을래요?
+  [oneul jeomsime mwo meogeullae-yo?]
+ - 매운 음식을 좋아해요? 얼마나 매운 것을 먹을 수 있어요?
+  [maeun eumsigeul joahae-yo? eolmana maeun geoseul meogeul su isseoyo?]
+ - 달고 짠 음식 중에 뭐가 더 좋아요? 이유는요?
+  [dalgo jjan eumsik jung-e mwoga deo joayo? iyuneunyo?]
