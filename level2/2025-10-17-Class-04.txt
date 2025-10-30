@@ -86,30 +86,20 @@ OX 문제:
 
 2) 이 사람은 친구들과 같이 배드민턴을 쳐요.
 [i sarameun chingudeulgwa gachi baedeuminteoneul chyeoyo]
-→ This person plays badminton with friends. (O)
+→ This person plays badminton with friends. (✅)
 
 3) 지난 주말에 공원에서 배드민턴을 쳤어요.
 [jinan jumare gongwon-eseo baedeuminteoneul chyeosseoyo]
 → They played badminton at the park last weekend. (X)
-
-정답: ✅ 2번. 이 사람은 친구들과 같이 배드민턴을 쳐요.
-[jeongdap: i-beon. i sarameun chingudeulgwa gachi baedeuminteoneul chyeoyo]
-→ Correct: 2. The person plays badminton with friends.
-
-이유: “제 친구들도 배드민턴을 좋아해서 우리는 같이 공원에서 배드민턴을 칩니다.”
-[iyu: “je chingudeuldo baedeuminteoneul joahaeseo urineun gachi gongwon-eseo baedeuminteoneul chimnida.”]
-→ Reason: The text says they play together with friends in the park.
 
 ------------------------- NEW CHAPTER ------------------------------------------
 CHAPTER 3 : 음식 [eumsik] (Food) — Ordering & Talking About Taste
 
 Learning Goals: Ordering food, expressing taste, asking “what kind” with 무슨
 
- 
-
 ## Dialogues
 
-Dialogue 1 — Ordering (from Page 8):
+Dialogue 1 — Ordering (Page 34):
 로라: 마크 씨, 뭐 먹을래요? 이 식당은 비빔밥하고 냉면을 잘해요.
 [lora: makeu ssi, mwo meogeullae-yo? i sikdang-eun bibimbap-hago naengmyeon-eul jalhaeyo]
 → Laura: Mark, what would you like to eat? This restaurant is good at bibimbap and naengmyeon.
@@ -123,7 +113,7 @@ Dialogue 1 — Ordering (from Page 8):
 [lora: jeoneun naengmyeon-yo. ajumeoni, yeogi bibimbap-hago naengmyeon juseyo]
 → Laura: Naengmyeon for me. Ma’am, one bibimbap and one naengmyeon, please.
 
-Dialogue 2 — Preference (from Page 5):
+Dialogue 2 — Preference (Page 36):
 수진: 타완 씨는 무슨 음식을 좋아해요?
 [sujin: tawan ssineun museun eumsigeul joahae-yo?]
 → Sujin: Tawan, what kind of food do you like?
@@ -176,8 +166,6 @@ Taste (맛):
   [sseuda]
 - 시다 sour
   [sida]
-
- 
 
 ---
 
