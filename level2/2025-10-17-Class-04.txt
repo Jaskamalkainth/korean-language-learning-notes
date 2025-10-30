@@ -2,14 +2,45 @@
 Class 4
 
 ## TLDR — Important
-- Reading: 축사모 poster (Every Sat 7 a.m., Hana Univ field); Badminton text
-- Grammar: -(으)ㄹ래요 (would like/shall), 무슨 + N (what kind), 그러면 (then)
-- Skills: order food, describe taste; ask/answer frequency with reasons using 안/못, -아서/어서
-- Vocab: dishes (비빔밥, 라면, 갈비, 김치찌개, 된장찌개, 냉면…) and taste (맵다, 짜다, 달다, 싱겁다…)
+- Chapter 2: Pg 27 frequency+reasons dialogues; Pg 30 Read&Write — 축사모 poster (Sat 7 a.m., Hana Univ) + Badminton OX (2 correct).
+- Chapter 3: Food ordering & taste; Dialogues (ordering, preference); Grammar — -(으)ㄹ래요, 무슨+N, 그러면/그런데/그래서.
+- Vocab/Refs: Core dishes & taste adjectives; 
 
 
 --------------------------------------
 CHAPTER 2:
+
+### Page 27 — Complete the Dialogues
+
+- 가: 피아노를 자주 쳐요?  
+  [pianoreul jaju chyeoyo?]  
+  "Do you often play the piano?"  
+  나: 아니요. 시간이 없어서 가끔 쳐요.  
+  [aniyo. sigani eopseoseo gakkeum chyeoyo]  
+  "No, I play only sometimes because I don't have time."
+
+- 가: 수영을 자주 해요?  
+  [suyeongeul jaju hae-yo?]  
+  "Do you swim often?"  
+  나: 아니요. 피곤해서 거의 안 해요.  
+  [aniyo. pigonhaeseo geoui an hae-yo]  
+  "No, I hardly do because I'm tired."
+
+- 가: 배드민턴을 자주 쳐요?  
+  [baedeuminteoneul jaju chyeoyo?]  
+  "Do you play badminton often?"  
+  나: 아니요. 일이 너무 많아서 전혀 안 쳐요.  
+  [aniyo. iri neomu manaseo jeonhyeo an chyeoyo]  
+  "No, I don't play at all because I'm too busy."
+
+- 가: 타완 씨는 운동을 자주 해요?  
+  [tawan ssineun undongeul jaju hae-yo?]  
+  "Tawan, do you exercise often?"  
+  나: 아니요. 요즘은 날씨가 너무 더워서 별로 안 해요.  
+  [aniyo. yojeumeun nalssiga neomu deowoseo byeollo an hae-yo]  
+  "No, these days I hardly do because the weather is too hot."
+
+-------------------------
 ## Read & Write (Page 30)
 
 포스터: 축사모 신입 회원 모집
@@ -92,7 +123,7 @@ OX 문제:
 [jinan jumare gongwon-eseo baedeuminteoneul chyeosseoyo]
 → They played badminton at the park last weekend. (X)
 
-------------------------- NEW CHAPTER ------------------------------------------
+------------------------------------- NEW CHAPTER ------------------------------------------
 CHAPTER 3 : 음식 [eumsik] (Food) — Ordering & Talking About Taste
 
 Learning Goals: Ordering food, expressing taste, asking “what kind” with 무슨
@@ -195,93 +226,6 @@ Taste (맛):
 
 ---
 
-## Practice — Guided Answers
-
-### Page 1 — Complete the dialogues (Fill in the blanks)
-
-- 가: 피아노를 자주 쳐요?  
-  [pianoreul jaju chyeoyo?]  
-  "Do you often play the piano?"  
-  나: 아니요. 시간이 없어서 가끔 쳐요.  
-  [aniyo. sigani eopseoseo gakkeum chyeoyo]  
-  "No, I play only sometimes because I don't have time."
-
-- 가: 수영을 자주 해요?  
-  [suyeongeul jaju hae-yo?]  
-  "Do you swim often?"  
-  나: 아니요. 피곤해서 거의 안 해요.  
-  [aniyo. pigonhaeseo geoui an hae-yo]  
-  "No, I hardly do because I'm tired."
-
-- 가: 배드민턴을 자주 쳐요?  
-  [baedeuminteoneul jaju chyeoyo?]  
-  "Do you play badminton often?"  
-  나: 아니요. 일이 너무 많아서 전혀 안 쳐요.  
-  [aniyo. iri neomu manaseo jeonhyeo an chyeoyo]  
-  "No, I don't play at all because I'm too busy."
-
-- 가: 타완 씨는 운동을 자주 해요?  
-  [tawan ssineun undongeul jaju hae-yo?]  
-  "Tawan, do you exercise often?"  
-  나: 아니요. 요즘은 날씨가 너무 더워서 별로 안 해요.  
-  [aniyo. yojeumeun nalssiga neomu deowoseo byeollo an hae-yo]  
-  "No, these days I hardly do because the weather is too hot."
-
----
-
-### Page 2 — Complete the dialogues
-
-- 가: 저녁에 뭐 먹었어요?  
-  [jeonyeoge mwo meogeosseoyo?]  
-  "What did you eat for dinner?"  
-  나: 갈비를 먹었어요. 아주 맛있었어요.  
-  [galbireul meogeosseoyo. aju masisseosseoyo]  
-  "I ate galbi. It was very delicious."
-
-- 가: 은지 씨는 무슨 일을 해요?  
-  [eunji ssineun museun ireul hae-yo?]  
-  "Eunji, what kind of work do you do?"  
-  나: 저는 컴퓨터 회사에 다녀요.  
-  [jeoneun keompyuteo hoesa-e danyeoyo]  
-  "I work at a computer company."
-
-- 가: 무슨 영화를 좋아해요?  
-  [museun yeonghwareul joahae-yo?]  
-  "What kind of movies do you like?"  
-  나: 영화는 다 좋아해요.  
-  [yeonghwaneun da joahae-yo]  
-  "I like all movies."
-
----
-
-### Page 3 — Make sentences using the given words
-
-- (마시다, 커피)  
-  가: 뭐 마실래요?  
-  [mwo masillae-yo?]  
-  "What would you like to drink?"  
-  나: 커피를 마실래요.  
-  [keopireul masillae-yo]  
-  "I’d like to drink coffee."
-
-- (사다, 오렌지)  
-  가: 뭐 살래요?  
-  [mwo sallae-yo?]  
-  "What would you like to buy?"  
-  나: 오렌지를 살래요.  
-  [orenjireul sallae-yo]  
-  "I’d like to buy an orange."
-
-- (집에 가다, 다섯 시)  
-  가: 몇 시에 집에 갈래요?  
-  [myeot sie jibe gallae-yo?]  
-  "What time do you want to go home?"  
-  나: 다섯 시에 집에 갈래요.  
-  [daseot sie jibe gallae-yo]  
-  "I want to go home at 5 o’clock."
-
----
-
 ## Key Patterns & Useful Phrases
 
 Ordering:
@@ -305,6 +249,18 @@ Suggestions with -(으)ㄹ래요:
 
 ---
 
+### Practice Answers (Page 35,37)
+- 1) 뭐 먹을래요? [mwo meogeullae-yo?] → 된장찌개를 먹을래요. [doenjangjjigae-reul meogeullae-yo] → I’d like to eat doenjang stew.
+- 2) 뭐 마실래요? [mwo masillae-yo?] → 커피를 마실래요. [keopireul masillae-yo] → I’d like to drink coffee.
+- 3) 뭐 살래요? [mwo sallae-yo?] → 오렌지를 살래요. [orenjireul sallae-yo] → I’d like to buy an orange.
+- 4) 몇 시에 집에 갈래요? [myeot sie jibe gallae-yo?] → 다섯 시에 집에 갈래요. [daseot sie jibe gallae-yo] → I want to go home at 5 o’clock.
+- 5) 무슨 음식을 자주 먹어요? [museun eumsigeul jaju meogeoyo?] → 김치찌개를 자주 먹어요. 매워서 좋아해요. [gimchijjigae-reul jaju meogeoyo. maewoseo joahae-yo] → I often eat kimchi stew; I like it because it’s spicy.
+- 6) 저녁에 뭐 먹었어요? [jeonyeoge mwo meogeosseoyo?] → 갈비를 먹었어요. 아주 맛있었어요. [galbireul meogeosseoyo. aju masisseosseoyo] → I ate galbi. It was very delicious.
+- 7) 은지 씨는 어디에 다녀요? [eunji ssineun eodie danyeoyo?] → 저는 컴퓨터 회사에 다녀요. [jeoneun keompyuteo hoesa-e danyeoyo] → I work at a computer company.
+- 8) 뭐를 좋아해요? [mworeul joahae-yo?] → 영화는 다 좋아해요. [yeonghwaneun da joahae-yo] → I like all movies.
+
+---
+
 ## Extra Practice Prompts
  - 무슨 음식을 자주 먹어요? 왜요? [museun eumsigeul jaju meogeoyo? waeyo?] → What kind of food do you often eat? Why?
  - 오늘 점심에 뭐 먹을래요? [oneul jeomsime mwo meogeullae-yo?] → What would you like for lunch today?
@@ -313,25 +269,13 @@ Suggestions with -(으)ㄹ래요:
 
 
 --- EXTRA [For my reference :')  ---
-## Summary Table — Connectors
-| Korean | Romanization | Meaning |
-|--------|--------------|---------|
-| 그런데 | geureonde | but; however; contrast/topic shift |
-| 그러면 | geureomyeon | then; in that case |
-| 그래서 | geuraeseo | so; therefore |
-| 그리고 | geurigo | and |
-| 그러나 | geureona | but; however (formal) |
-| 그렇지만 | geureochiman | but; however |
-| 그러니까 | geureonikka | so; that’s why; therefore |
-| 그럼 | geureom | then; so (colloquial) |
-
-## Connector Summary (reference)
-- 그런데 [geureonde] → but/however; contrast or topic shift. Ex: 바빠요. 그런데 갈 거예요. [bappayo. geureonde gal geoyeyo] → I’m busy, but I’ll go.
-- 그러면 [geureomyeon] → then/in that case; condition → proposal/result. Ex: 비빔밥 좋아해요? 그러면 그거 먹을래요? [bibimbap joahae-yo? geureomyeon geugeo meogeullae-yo?]
-- 그래서 [geuraeseo] → so/therefore; cause → result. Ex: 피곤해요. 그래서 집에서 쉴래요. [pigonhaeyo. geuraeseo jibeseo swillae-yo]
-- 그리고 [geurigo] → and; adds/links another clause or item.
-- 그러나 [geureona] → but/however (more formal/written than 그런데).
-- 그렇지만 [geureochiman] → but/however (polite; common in speech/writing).
-- 그러니까 [geureonikka] → so/that’s why; used to explain/instruct. Ex: 그러니까 조심하세요. [geureonikka josimhaseyo]
-- 그럼 [geureom] → then/so (colloquial contraction of 그러면).
-- 그래요 [geuraeyo] → okay/sure; agreement/acknowledgment (not a connector).
+## Connector Summar
+- 그런데 [geureonde] → but; however; contrast/topic shift
+- 그러면 [geureomyeon] → then; in that case (if so)
+- 그래서 [geuraeseo] → so; therefore (cause → result)
+- 그리고 [geurigo] → and; also
+- 그러나 [geureona] → but; however (formal)
+- 그렇지만 [geureochiman] → but; however
+- 그러니까 [geureonikka] → so; that’s why; therefore
+- 그럼 [geureom] → then; so (colloquial of 그러면)
+- 그래요 [geuraeyo] → okay; sure (acknowledgment; not a connector)
