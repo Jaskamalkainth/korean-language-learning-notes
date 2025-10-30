@@ -150,22 +150,14 @@ Food (음식):
 - 라면 ramyeon
 
 Taste (맛):
-- 맛있다 tasty
-  [masitda]
-- 맛없다 not tasty
-  [madeopda]
-- 맵다 spicy
-  [maepda]
-- 짜다 salty
-  [jjada]
-- 싱겁다 bland
-  [singgeopda]
-- 달다 sweet
-  [dalda]
-- 쓰다 bitter
-  [sseuda]
-- 시다 sour
-  [sida]
+- 맛있다 [masitda] → tasty
+- 맛없다 [madeopda] → not tasty
+- 맵다 [maepda] → spicy
+- 짜다 [jjada] → salty
+- 싱겁다 [singgeopda] → bland
+- 달다 [dalda] → sweet
+- 쓰다 [sseuda] → bitter
+- 시다 [sida] → sour
 
 ---
 
@@ -293,51 +285,41 @@ Taste (맛):
 ## Key Patterns & Useful Phrases
 
 Ordering:
-- 여기 [음식] 주세요 → Please give me [dish]
-  [yeogi [eumsik] juseyo]
-- [음식] 두 개 주세요 → Two [dish] please
-  [[eumsik] du gae juseyo]
-- 따로 계산할래요 → Shall we pay separately?
-  [ttaro gyesanhallae-yo]
-- 현금으로/카드로 낼게요 → I’ll pay by cash/card
-  [hyeongeumeuro/kadeuro naelgeyo]
+- 여기 [음식] 주세요 [yeogi [eumsik] juseyo] → Please give me [dish]
+- [음식] 두 개 주세요 [[eumsik] du gae juseyo] → Two [dish] please
+- 따로 계산할래요 [ttaro gyesanhallae-yo] → Shall we pay separately?
+- 현금으로/카드로 낼게요 [hyeongeumeuro/kadeuro naelgeyo] → I’ll pay by cash/card
 
 Taste talk:
-- 좀 매워요. 그런데 맛있어요 → A bit spicy, but tasty
-  [jom maewayo. geureonde masisseoyo]
-- 너무 짜요/싱거워요 → Too salty/bland
-  [neomu jjayo/singgeowoyo]
-- 달아요/써요/셔요 → It’s sweet/bitter/sour
-  [darayo/sseoyo/syeoyo]
+- 좀 매워요. 그런데 맛있어요 [jom maewayo. geureonde masisseoyo] → A bit spicy, but tasty
+- 너무 짜요/싱거워요 [neomu jjayo/singgeowoyo] → Too salty/bland
+- 달아요/써요/셔요 [darayo/sseoyo/syeoyo] → It’s sweet/bitter/sour
 
 Preferences with 무슨:
-- 무슨 음식을 자주 먹어요? → What kind of food do you often eat?
-  [museun eumsigeul jaju meogeoyo?]
-- 무슨 영화를 좋아해요? → What kind of movies do you like?
-  [museun yeonghwareul joahae-yo?]
+- 무슨 음식을 자주 먹어요? [museun eumsigeul jaju meogeoyo?] → What kind of food do you often eat?
+- 무슨 영화를 좋아해요? [museun yeonghwareul joahae-yo?] → What kind of movies do you like?
 
 Suggestions with -(으)ㄹ래요:
-- 오늘 저녁에 한국 식당에 갈래요? → Shall we go to a Korean restaurant tonight?
-  [oneul jeonyeoge hanguk sikdang-e gallae-yo?]
-- 집에서 쉴래요 → I’d like to rest at home
-  [jibeseo swillae-yo]
-
----
-
-
+- 오늘 저녁에 한국 식당에 갈래요? [oneul jeonyeoge hanguk sikdang-e gallae-yo?] → Shall we go to a Korean restaurant tonight?
+- 집에서 쉴래요 [jibeseo swillae-yo] → I’d like to rest at home
 
 ---
 
 ## Extra Practice Prompts
- - 무슨 음식을 자주 먹어요? 왜요?
-  [museun eumsigeul jaju meogeoyo? waeyo?]
-  → What kind of food do you often eat? Why?
- - 오늘 점심에 뭐 먹을래요?
-  [oneul jeomsime mwo meogeullae-yo?]
-  → What would you like for lunch today?
- - 매운 음식을 좋아해요? 얼마나 매운 것을 먹을 수 있어요?
-  [maeun eumsigeul joahae-yo? eolmana maeun geoseul meogeul su isseoyo?]
-  → Do you like spicy food? How spicy can you eat?
- - 달고 짠 음식 중에 뭐가 더 좋아요? 이유는요?
-  [dalgo jjan eumsik jung-e mwoga deo joayo? iyuneunyo?]
-  → Between sweet and salty foods, which do you prefer? Why?
+ - 무슨 음식을 자주 먹어요? 왜요? [museun eumsigeul jaju meogeoyo? waeyo?] → What kind of food do you often eat? Why?
+ - 오늘 점심에 뭐 먹을래요? [oneul jeomsime mwo meogeullae-yo?] → What would you like for lunch today?
+ - 매운 음식을 좋아해요? 얼마나 매운 것을 먹을 수 있어요? [maeun eumsigeul joahae-yo? eolmana maeun geoseul meogeul su isseoyo?] → Do you like spicy food? How spicy can you eat?
+ - 달고 짠 음식 중에 뭐가 더 좋아요? 이유는요? [dalgo jjan eumsik jung-e mwoga deo joayo? iyuneunyo?] → Between sweet and salty foods, which do you prefer? Why?
+
+---
+
+## Connector Summary (reference)
+- 그런데 [geureonde] → but/however; contrast or topic shift. Ex: 바빠요. 그런데 갈 거예요. [bappayo. geureonde gal geoyeyo] → I’m busy, but I’ll go.
+- 그러면 [geureomyeon] → then/in that case; condition → proposal/result. Ex: 비빔밥 좋아해요? 그러면 그거 먹을래요? [bibimbap joahae-yo? geureomyeon geugeo meogeullae-yo?]
+- 그래서 [geuraeseo] → so/therefore; cause → result. Ex: 피곤해요. 그래서 집에서 쉴래요. [pigonhaeyo. geuraeseo jibeseo swillae-yo]
+- 그리고 [geurigo] → and; adds/links another clause or item.
+- 그러나 [geureona] → but/however (more formal/written than 그런데).
+- 그렇지만 [geureochiman] → but/however (polite; common in speech/writing).
+- 그러니까 [geureonikka] → so/that’s why; used to explain/instruct. Ex: 그러니까 조심하세요. [geureonikka josimhaseyo]
+- 그럼 [geureom] → then/so (colloquial contraction of 그러면).
+- 그래요 [geuraeyo] → okay/sure; agreement/acknowledgment (not a connector).
