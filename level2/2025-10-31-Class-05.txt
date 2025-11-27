@@ -1,4 +1,110 @@
 31st - October - 2025
 Class 5
 
-Chapter 3 ending..!!
+## TLDR
+- Chapter 3: Pages 39–41 covered (menu ordering, Read & Write poster, restaurant intro).
+
+--------------------------------------
+SHEET PAGE 3 — 차림표 보고 주문하기
+
+하나식당 — 차림표
+[hanasikdang — charimpyo]
+→ Hana Restaurant — Menu
+- 삼계탕 ............. 15,000원
+[samgye-tang] → ginseng chicken soup
+- 불고기 ............. 10,000원
+[bulgogi] → marinated grilled beef
+- 설렁탕 ............. 7,000원
+[seolleong-tang] → ox bone soup
+- 비빔밥 ............. 6,500원
+[bibimbap] → mixed rice with vegetables
+- 냉면 ............. 6,500원
+[naengmyeon] → cold noodles
+- 된장찌개 .......... 6,000원
+[doenjang-jjigae] → soybean paste stew
+- 김치찌개 .......... 6,000원
+[gimchi-jjigae] → kimchi stew
+
+주문 예시 (3–4명)
+- 뭐 먹을래요? 저는 냉면 먹을래요.
+[mwo meogeullae-yo? jeoneun naengmyeon meogeullae-yo.]
+→ What will you have? I’d like naengmyeon.
+- 저희는 불고기 두 개, 비빔밥 하나, 냉면 하나 주세요.
+[jeohineun bulgogi du gae, bibimbap hana, naengmyeon hana juseyo.]
+→ We’ll have two bulgogi, one bibimbap, and one naengmyeon.
+- 물도 주세요. 여기 계산서 주세요.
+[muldo juseyo. yeogi gyesanseo juseyo.]
+→ Water as well, please. The bill here, please.
+
+맛 이야기 예시
+- 저는 김치찌개를 자주 먹어요. 조금 매운데 정말 맛있어요.
+[jeoneun gimchijjigae-reul jaju meogeoyo. jogeum maeunde jeongmal masisseoyo.]
+→ I often eat kimchi stew. It’s a bit spicy, but really tasty.
+- 비빔밥은 건강하고 싱겁지 않아서 좋아요.
+[bibimbabeun geonganghago singeopji anaseo joayo.]
+→ Bibimbap is healthy and not bland, so I like it.
+
+--------------------------------------
+SHEET PAGE 40 — 읽고 쓰기 (Read & Write)
+
+포스터
+여름에는 냉면이 좋아요. 여름은 덥습니다. 우리 식당에서는 냉면을 팝니다. 김치 냉면과 물 냉면이 인기가 있습니다. 불고기 냉면이 가장 인기가 많습니다. 겨울에는 뜨끈한 김치찌개도 좀 인기가 있습니다. 우리 식당으로 오세요!
+[yeoreum-eneun naengmyeoni joayo. yeoreum-eun deopseumnida. uri sikdang-eseoneun naengmyeoneul pamnida. gimchi naengmyeongwa mul naengmyeoni ingiga itseumnida. bulgogi naengmyeoni gajang ingiga manseumnida. gyeoul-eneun tteukkeunhan gimchijjigaedo jom ingiga itseumnida. uri sikdang-euro oseyo!]
+→ In summer, naengmyeon is good. Summer is hot. Our restaurant sells naengmyeon. Kimchi and mul naengmyeon are popular. Bulgogi naengmyeon is the most popular. In winter, hot kimchi stew is also somewhat popular. Please come to our restaurant!
+
+질문
+1) 이 식당에서는 무슨 음식을 팔아요?
+👉 냉면(김치 냉면, 물 냉면, 불고기 냉면)을 팔아요. 겨울에는 김치찌개도 팔아요.
+[i sikdang-eseoneun museun eumsigeul pal-ayo?]
+→ What food does this restaurant sell?
+[naengmyeon (gimchi naengmyeon, mul naengmyeon, bulgogi naengmyeon)-eul pal-ayo. gyeoul-eneun gimchijjigaedo pal-ayo.]
+→ They sell naengmyeon (kimchi naengmyeon, mul naengmyeon, bulgogi naengmyeon). In winter, they also sell kimchi stew.
+
+2) 여름에는 무슨 음식을 먹는 것이 좋아요?
+👉 냉면을 먹는 것이 좋아요.
+[yeoreum-eneun museun eumsigeul meongneun geosi joayo?]
+→ In summer, what is good to eat?
+[naengmyeoneul meongneun geosi joayo.]
+→ Naengmyeon is good to eat.
+
+다음을 잘 읽고 읽은 내용과 같으면 ○, 다르면 ✕에 표시하세요.
+[daeumeul jal ilggo ilgeun naeyong-gwa gat-eumyeon ○, dareumyeon ✕-e pyo-si-haseyo.]
+→ Read the text carefully. If the sentence is correct, mark ○; if incorrect, mark ✕.
+
+하나식당을 소개합니다.
+여름에는 냉면이 좋아요. 저는 주말에 친구들과 하나식당에 자주 갔어요.
+거기에는 맛있는 불고기 냉면, 김치찌개도 있어요.
+가격도 싸고 좋아요. 반찬도 많이 줘요. 여러분도 가 보세요.
+[hanasikdang-eul sogae-hamnida. yeoreum-eneun naengmyeoni joayo. jeoneun jumare chingudeulgwa hanasikdang-e jaju gasseoyo. geogi-eneun masinneun bulgogi naengmyeon, gimchijjigae-do isseoyo. gagyeokdo ssago joayo. banchando mani jwoyo. yeoreobundo ga boseyo.]
+→ Introducing Hana Restaurant. In summer, naengmyeon is good. I often went to Hana Restaurant with friends on weekends. There, there is tasty bulgogi naengmyeon and also kimchi stew. Prices are cheap and good. They give many side dishes. You all should try it.
+
+하나식당을 소개합니다 — OX
+( ○ ) 불고기 냉면이 맛있어요.
+[bulgogi naengmyeoni masisseoyo.]
+→ Bulgogi naengmyeon is tasty.
+( ✕ ) 반찬이 없어요.
+[banchani eopseoyo.]
+→ There are no side dishes.
+( ○ ) 겨울에 김치찌개가 있어요.
+[gyeoure gimchijjigaega isseoyo.]
+→ There is kimchi stew in winter.
+( ✕ ) 냉면이 조금 매워요.
+[naengmyeoni jogeum maewoyo.]
+→ Naengmyeon is a little spicy.
+
+--------------------------------------
+SHEET PAGE 41 — 식당 소개 글 (모델)
+제가 자주 가는 식당은 하나식당이에요. 여름에는 냉면이 아주 맛있고 인기가 있어요. 겨울에는 뜨끈한 김치찌개도 맛있어요. 반찬도 많이 주고 가격도 싸요. 아줌마도 친절해요. 여러분도 한번 가 보세요.
+[jega jaju ganeun sikdang-eun hanasikdang-ieyo. yeoreum-eneun naengmyeoni aju masitgo ingiga isseoyo. gyeoul-eneun tteukkeunhan gimchijjigaedo masisseoyo. banchando mani jugo gagyeokdo ssayo. ajummado chinjeolhaeyo. yeoreobundo hanbeon ga boseyo.]
+→ The restaurant I often go to is Hana Restaurant. In summer, naengmyeon is very tasty and popular. In winter, the hot kimchi stew is delicious. They give lots of side dishes and prices are cheap. The lady is kind. You all should try it.
+
+--------------------------------------
+Vocabulary Review
+- 이 [i] → this
+- 다 [da] → all; everything
+- 팔다 [pal-da] → to sell
+- 여러분 [yeo-reo-bun] → you all
+- 아줌마 [a-jum-ma] → middle-aged woman
+- 인기가 있다 [ingiga itda] → to be popular
+- 소개하다 [sogae-hada] → to introduce
+- 반찬 [ban-chan] → side dish(es)
