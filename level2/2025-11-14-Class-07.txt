@@ -1,6 +1,170 @@
 14th - November - 2025
 Class 7
 
-Transportation chapter continued!..
+CHAPTER : 교통 [gyotong] (Transportation) — Pages 49–53
 
-Page 49, 50, 51, 52, 53
+## TLDR - Key Points Covered:
+• Grammar: …에서 …까지 (from … to …); [교통수단]을/를 타고 가다/오다/다니다; 갈아타다; 내리다; (시간)이/가 걸리다; -(으)세요 (polite instructions)
+• Practice: Route chains with transfers; ask where to get off; durations
+• Read & Write: Airport→city table; Beijing→hometown reading
+• Vocab: transportation/route words and common places
+
+---
+
+## Dialogues — Route Chains Practice
+
+1) 학교 → 버스 → 집
+가: 학교에서 집까지 어떻게 가요?
+[ga: hakgyo-eseo jip-kkaji eotteoke gayo?]
+→ How do you go from school to home?
+나: 학교 앞에서 버스를 타요. 집 근처 정류장에서 내려요. 그리고 집까지 걸어가요.
+[na: hakgyo ap-eseo beoseureul tayo. jip geuncheo jeongnyujang-eseo naeryeoyo. geurigo jip-kkaji georeo-gayo.]
+→ I take a bus in front of the school. I get off at the stop near my house, then walk home.
+
+2) 한국 서점 → 버스 → 택시 → 박물관
+가: 한국 서점에서 박물관까지 어떻게 가요?
+[ga: hanguk seojeom-eseo bakmulgwan-kkaji eotteoke gayo?]
+→ How do you go from the Korean bookstore to the museum?
+나: 서점 앞에서 버스를 타요. 시청 앞에서 내려요. 그리고 택시를 타고 박물관에 가요.
+[na: seojeom ap-eseo beoseureul tayo. sicheong ap-eseo naeryeoyo. geurigo taeksireul tago bakmulgwan-e gayo.]
+→ Take a bus at the bookstore, get off at City Hall, then take a taxi to the museum.
+
+3) 시청 → 전철 → 버스 → 세종학당
+가: 시청에서 세종학당까지 어떻게 가요?
+[ga: sicheong-eseo Sejonghakdang-kkaji eotteoke gayo?]
+→ How do you go from City Hall to the King Sejong Institute?
+나: 시청역에서 전철을 타요. 한 번 갈아타요. 그리고 버스를 타고 세종학당 앞에서 내려요.
+[na: sicheong-yeog-eseo jeoncheoreul tayo. han beon garatayo. geurigo beoseureul tago Sejonghakdang ap-eseo naeryeoyo.]
+→ Take the subway at City Hall Station, transfer once, then take a bus and get off in front of Sejong Institute.
+
+4) 서울 → 기차 → 경주
+가: 서울에서 경주까지 어떻게 가요?
+[ga: Seoul-eseo Gyeongju-kkaji eotteoke gayo?]
+→ How do you go from Seoul to Gyeongju?
+나: 서울역에서 기차를 타고 경주에 가요. 두세 시간이 걸려요. (예)
+[na: Seoul-yeog-eseo gichareul tago Gyeongju-e gayo. duse sigani geollyeoyo. (ye)]
+→ I take a train at Seoul Station to Gyeongju. It takes about 2–3 hours. (ex.)
+
+---
+
+## Ask a Friend (Practice 2)
+예)
+가: 학교에서 세종극장까지 어떻게 가요?
+[ga: hakgyo-eseo Sejong geukjang-kkaji eotteoke gayo?]
+나: 지하철을 타고 가세요.
+[na: jihacheoreul tago gaseyo.]
+가: 어디에서 내려요?
+[ga: eodieseo naeryeoyo?]
+나: 세종극장역에서 내리세요.
+[na: Sejong geukjang-yeog-eseo naeriseyo.]
+
+Prompts:
+- 여러분은 어디에 가고 싶어요? 그 장소까지 어떻게 가요? 친구에게 물어보세요.
+[yeoreobuneun eodie gago sipeoyo? geu jangso-kkaji eotteoke gayo? chinguege mureoboseyo.]
+
+---
+
+## From Sejong Institute to Home (Page 3)
+- 세종학당에서 여러분 집까지 어떻게 가요?
+[Sejonghakdang-eseo yeoreobun jip-kkaji eotteoke gayo?]
+- 집까지 시간이 얼마나 걸려요?
+[jip-kkaji sigani eolmana geollyeoyo?]
+
+Model answer:
+저는 세종학당 앞에서 버스를 타고 집에 가요. 삼십 분이 걸려요.
+[jeoneun Sejonghakdang ap-eseo beoseureul tago jibe gayo. samsip buni geollyeoyo.]
+→ I take a bus in front of Sejong Institute and go home. It takes 30 minutes.
+
+---
+
+## Read & Write (Page 4)
+
+1) 공항에서 시내에 가는 법 (Table)
+- 버스: 50~55분, 7,000원, 5번 출구 옆
+[beoseu: osip~osibo bun, chil-cheon won, o-beon chulgu yeop]
+- 지하철: 38분, 1,250원, 1번 출구 옆
+[jihacheol: samsip-pal bun, cheonibaekosip won, il-beon chulgu yeop]
+- 택시: 40~45분, 16,000~18,000원, 3번 출구 옆
+[taeksi: sasip~sasibo bun, sibyuk-cheon~sipy-pal cheon won, sam-beon chulgu yeop]
+
+질문:
+- 공항에서 뭘 탈 수 있어요?
+[gonghang-eseo mwol tal su isseoyo?]
+👉 버스, 지하철, 택시를 탈 수 있어요.
+[beoseu, jihacheol, taeksireul tal su isseoyo.]
+→ You can take a bus, subway, or taxi.
+
+- 지하철을 타고 시내에 가요. 시간이 얼마나 걸려요?
+[jihacheoreul tago sinae-e gayo. sigani eolmana geollyeoyo?]
+👉 38분이 걸려요.
+[samsip-pal bun-i geollyeoyo.]
+→ It takes 38 minutes.
+
+2) 본문 읽기
+저는 지금 베이징에서 대학교에 다닙니다. 기숙사에서 학교까지 자전거를 타고 다닙니다.
+[jeoneun jigeum Beijing-eseo daehakgyoe danimnida. gisuksaseo hakgyo-kkaji jajeongeoreul tago danimnida.]
+지난주 토요일은 어머니 생신이었습니다. 그래서 고향에 다녀왔습니다.
+[jinanju toyoireun eomeoni saengsin-ieosseumnida. geuraeseo gohyang-e danyeowasseumnida.]
+베이징에서 기차를 탔습니다. 상하이에서 기차를 갈아탔습니다. 베이징에서 고향까지 일곱 시간이 걸렸습니다.
+[Beijing-eseo gichareul tasseumnida. Shanghai-eseo gichareul garatasseumnida. Beijing-eseo gohyang-kkaji ilgop sigani geollyeosseumnida.]
+
+질문:
+- 이 사람은 학교에 뭘 타고 다녀요? ① 버스 ② 기차 ③ 자전거
+[i sarameun hakgyoe mwol tago danyeoyo?]
+👉 ③ 자전거 [jajeongeo] → bicycle
+
+- 이 사람은 고향에 어떻게 갔어요?
+[i sarameun gohyang-e eotteoke gasseoyo?]
+👉 베이징에서 기차를 타고 상하이에서 갈아타서 고향에 갔어요. 일곱 시간이 걸렸어요.
+[Beijing-eseo gichareul tago Shanghai-eseo garataseo gohyang-e gasseoyo. ilgop sigani geollyeosseoyo.]
+
+---
+
+## Page 5 — Write & Discuss
+3) 여러분은 회사나 학교에 어떻게 가요? 써 보세요.
+[yeoreobuneun hoesa-na hakgyoe eotteoke gayo? sseo boseyo.]
+
+Model:
+저는 집에서 회사까지 지하철을 타고 다녀요. 한 번 갈아타요. 사십오 분이 걸려요.
+[jeoneun jib-eseo hoesa-kkaji jihacheoreul tago danyeoyo. han beon garatayo. sasibo buni geollyeoyo.]
+
+4) 친구 글 읽기:
+무엇을 타고 다녀요? 누가 시간이 제일 오래 걸려요?
+[mueoseul tago danyeoyo? nuga sigani jeil orae geollyeoyo?]
+
+---
+
+## Key Patterns & Useful Phrases
+- [장소]에서 [장소]까지 → from [place] to [place]
+[[jangso]-eseo [jangso]-kkaji]
+- [교통수단]을/를 타고 가요/와요/다녀요 → go/come/commute by [transport]
+[[gyotongsudan]-eul/reul tago gayo/wayo/danyeoyo]
+- (한 번) 갈아타요 / 갈아타세요 → transfer (once) / please transfer
+[(han beon) garatayo / garataseyo]
+- [장소]에서/앞에서 내려요/내리세요 → get off at/in front of [place]
+[[jangso]-eseo/ap-eseo naeryeoyo/naeriseyo]
+- 시간이 얼마나 걸려요? [eolmana geollyeoyo?] → How long does it take?
+- [시간]이 걸려요/걸렸어요 → It takes/took [time]
+
+---
+
+## Vocabulary Review (새 어휘와 표현)
+- 어떻게 [eotteoke] → how
+- 하루 [haru] → day
+- 보내다 [bonaeda] → to spend (time)
+- 걸어가다 [georeo-gada] → to go by walking
+- 한국문화원 [Hanguk Munhwawon] → Korean Cultural Center
+- 걸어오다 [georeo-oda] → to come by walking
+- (일) 번 [(il) beon] → number; line; platform (contextual)
+- (한) 번 [(han) beon] → one time; once
+- 기숙사 [gisuksa] → dormitory
+- 생신 [saengsin] → birthday (honorific)
+- 도시 [dosi] → city
+- 어느 [eoneu] → which
+- 근처 [geuncheo] → nearby; vicinity
+- 먼저 [meonjeo] → first; before anything
+- 시청 [sicheong] → city hall
+- 어머니 [eomeoni] → mother
+- 설악산 [Seoraksan] → Seoraksan Mountain
+
+---
