@@ -1,7 +1,120 @@
-7th - Novemeber - 2025
+7th - November - 2025
 Class 6
 
-(I missed this class)
+CHAPTER : 교통 [gyotong] (Transportation) — Pages 45–48
 
-Transportation chapter started!!
-2 dialogues completed!!
+## TLDR - Key Points Covered:
+• **Grammar**: 이/가 걸리다 (it takes [time]); …에서 …까지 (from … to …)
+• **Vocabulary**: Modes of transportation; using transportation verbs
+• **Dialogues**: Asking how you come/go; directions with transfers
+• **Practice**: Durations (얼마나 … 걸려요/걸렸어요), routes, commute talk
+
+---
+
+## Dialogues
+
+**Dialogue 1 – Coming to school and time taken:**
+민수: 유키 씨는 학교에 어떻게 와요? [minsu: yuki ssineun hakgyoe eotteoke wayo?]
+     → Minsoo: How do you come to school?
+유키: 버스를 타고 와요. [yuki: beoseureul tago wayo.]
+     → Yuki: I come by bus.
+민수: 시간이 얼마나 걸려요? [minsu: sigani eolmana geollyeoyo?]
+     → Minsoo: How long does it take?
+유키: 삼십 분이 걸려요. 민수 씨는요? [yuki: samsip buni geollyeoyo. minsu ssineunyo?]
+     → Yuki: It takes 30 minutes. How about you?
+민수: 저는 학교에 걸어서 와요. 십 분이 걸려요. [minsu: jeoneun hakgyoe georeoseo wayo. sip buni geollyeoyo.]
+     → Minsoo: I walk to school. It takes 10 minutes.
+
+**Dialogue 2 – Getting to the Korean Cultural Center:**
+치엔: 로라 씨, 학교에서 한국문화원까지 어떻게 가요? [chien: lora ssi, hakgyo-eseo hanguk munhwawonkkaji eotteoke gayo?]
+     → Chien: Lora, how do I get to the Korean Cultural Center from school?
+로라: 버스를 타고 가세요. 한국문화원까지 사십 분이 걸려요. [lora: beoseureul tago gaseyo. hanguk munhwawonkkaji sasip buni geollyeoyo.]
+     → Lora: Go by bus. It takes 40 minutes to the Cultural Center.
+로라: 먼저 1번 버스를 타세요. [lora: meonjeo il-beon beoseureul taseyo.]
+     → First, take Bus #1.
+치엔: 버스를 갈아타요? [chien: beoseureul garatayo?]
+     → Do I transfer?
+로라: 네. 시청 앞에서 한 번 갈아타세요. 5번 버스를 타세요. [lora: ne. sicheong ap-eseo han beon garataseyo. o-beon beoseureul taseyo.]
+     → Yes. Transfer once in front of City Hall. Take Bus #5.
+로라: 그리고 한국문화원 앞에서 내리세요. [lora: geurigo hanguk munhwawon ap-eseo naeriseyo.]
+     → Then, get off at the Korean Cultural Center.
+
+---
+
+## Vocabulary
+
+**Modes of transportation (교통수단):**
+- 버스 [beoseu] → bus
+- 기차 [gicha] → train
+- 택시 [taeksi] → taxi
+- 비행기 [bihaenggi] → airplane
+- 자전거 [jajeongeo] → bike
+- 지하철 [jihacheol] → subway
+
+**Using transportation (교통수단 이용):**
+- 타다 [tada] → to get on/ride
+- 갈아타다 [garatada] → to transfer
+- 타고 오다 [tago oda] → to ride (to come) to a place
+- 내리다 [naerida] → to get off
+- 타고 가다 [tago gada] → to ride (to go) to a place
+- 타고 다니다 [tago danida] → to ride (to commute regularly)
+
+---
+
+## Grammar Points
+
+**1) 이/가 걸리다 — “it takes (time)”**
+- ‘이/가 걸리다’ attaches to a duration noun to indicate required time.
+- Present: 걸려요; Past: 걸렸어요
+Examples:
+- 가: 박물관에 어떻게 가요? / 나: 택시를 타세요. 삼십 분이 걸려요. [ga: bakmulgwan-e eotteoke gayo? / na: taeksireul taseyo. samsip buni geollyeoyo.]
+- 저는 고향에 기차를 타고 가요. 두 시간이 걸려요. [jeoneun gohyang-e gichareul tago gayo. du sigani geollyeoyo.]
+- 책을 다 읽었어요. 하루가 걸렸어요. [chaegeul da ilgeosseoyo. haruga geollyeosseoyo.]
+
+**2) …에서 …까지 — “from … to …”**
+- ‘에서’ marks the departure place; ‘까지’ marks the destination.
+Examples:
+- 가: 집에서 회사까지 뭘 타고 가요? / 나: 버스를 타고 가요. [ga: jib-eseo hoesa-kkaji mwol tago gayo? / na: beoseureul tago gayo.]
+- 시청에서 미술관까지 두 시간이 걸려요. [sicheong-eseo misulgwan-kkaji du sigani geollyeoyo.]
+- 타완 씨는 어제 집까지 걸어갔어요. [tawan ssineun eoje jip-kkaji georeogasseoyo.]
+
+---
+
+## Practice
+
+완성하기 (Complete the dialogues):
+- 가: 세종학당에 버스를 타고 와요.  [ga: Sejonghakdang-e beoseureul tago wayo.]
+  나: 얼마나 걸려요? (How long does it take?)  [na: eolmana geollyeoyo?]
+  가: 삼십 분이 걸려요. [ga: samsip buni geollyeoyo.]
+
+- 가: 한국에 비행기를 타고 갔어요.  [ga: Hanguk-e bihaenggireul tago gasseoyo.]
+  나: 얼마나 걸렸어요? (How long did it take?)  [na: eolmana geollyeosseoyo?]
+  가: 여섯 시간이 걸렸어요.  [ga: yeoseot sigani geollyeosseoyo.]  (ex.)
+
+- 가: 이 책을 어느 나라에 보낼 거예요?  [ga: i chaegeul eoneu nara-e bonael geoyeyo?]
+  나: 한국에 보낼 거예요. 얼마나 걸려요? (How long does it take?)  [na: Hanguk-e bonael geoyeyo. eolmana geollyeoyo?]
+  가: 일주일이 걸려요.  [ga: iljuiri geollyeoyo.]  (ex.)
+
+- 가: 어제 설악산에 갔다 왔어요.  [ga: eoje Seoraksan-e gatta wasseoyo.]
+  나: 그래요? 얼마나 걸렸어요? (How long did it take?)  [na: geuraeyo? eolmana geollyeosseoyo?]
+  가: 세 시간이 걸렸어요.  [ga: se sigani geollyeosseoyo.]  (ex.)
+
+말하기 (Talk with a friend):
+- 예) 가: 투이 씨는 학교에 어떻게 와요?  [ye) ga: Tui ssineun hakgyoe eotteoke wayo?]
+      나: 자전거를 타고 와요.  [na: jajeongeoreul tago wayo.]
+      가: 얼마나 걸려요? (How long does it take?)  [ga: eolmana geollyeoyo?]
+      나: 이십 분이 걸려요. [na: isip buni geollyeoyo.]
+
+---
+
+## Key Patterns & Useful Phrases
+
+- 어떻게 가요/와요? [eotteoke gayo/wayo?] → How do you go/come?
+- [장소]에서 [장소]까지 [[jangso]-eseo [jangso]-kkaji] → from [place] to [place]
+- 얼마나 걸려요? [시간]이 걸려요. [eolmana geollyeoyo? [sigan]-i geollyeoyo.] → How long? It takes [time].
+- 얼마나 걸렸어요? [시간]이 걸렸어요. [eolmana geollyeosseoyo? [sigan]-i geollyeosseoyo.] → How long did it take? It took [time].
+- [교통수단]을/를 타고 가요/와요/다녀요. [[gyotongsudan]-eul/reul tago gayo/wayo/danyeoyo.] → go/come/commute by [transport]
+- [장소]에서 내리세요 / [장소] 앞에서 내리세요. [[jangso]-eseo naeriseyo / [jangso] ap-eseo naeriseyo.] → Get off at/in front of [place]
+- (한 번) 갈아타세요. [번호]번 버스를 타세요. [(han beon) garataseyo. [beonho]-beon beoseureul taseyo.] → Transfer once. Take bus #[number]
+
+---
