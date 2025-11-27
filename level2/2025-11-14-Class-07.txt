@@ -41,9 +41,9 @@ CHAPTER : 교통 [gyotong] (Transportation) — Pages 49–53
 가: 서울에서 경주까지 어떻게 가요?
 [ga: Seoul-eseo Gyeongju-kkaji eotteoke gayo?]
 → How do you go from Seoul to Gyeongju?
-나: 서울역에서 기차를 타고 경주에 가요. 두세 시간이 걸려요. (예)
-[na: Seoul-yeog-eseo gichareul tago Gyeongju-e gayo. duse sigani geollyeoyo. (ye)]
-→ I take a train at Seoul Station to Gyeongju. It takes about 2–3 hours. (ex.)
+나: 서울역에서 기차를 타고 경주에 가요. 두세 시간이 걸려요.
+[na: Seoul-yeog-eseo gichareul tago Gyeongju-e gayo. duse sigani geollyeoyo.]
+→ I take a train at Seoul Station to Gyeongju. It takes about 2–3 hours.
 
 ---
 
@@ -51,24 +51,31 @@ CHAPTER : 교통 [gyotong] (Transportation) — Pages 49–53
 예)
 가: 학교에서 세종극장까지 어떻게 가요?
 [ga: hakgyo-eseo Sejong geukjang-kkaji eotteoke gayo?]
+→ How do I get from school to Sejong Theater?
 나: 지하철을 타고 가세요.
 [na: jihacheoreul tago gaseyo.]
+→ Please take the subway.
 가: 어디에서 내려요?
 [ga: eodieseo naeryeoyo?]
+→ Where do I get off?
 나: 세종극장역에서 내리세요.
 [na: Sejong geukjang-yeog-eseo naeriseyo.]
+→ Get off at Sejong Theater Station.
 
 Prompts:
 - 여러분은 어디에 가고 싶어요? 그 장소까지 어떻게 가요? 친구에게 물어보세요.
 [yeoreobuneun eodie gago sipeoyo? geu jangso-kkaji eotteoke gayo? chinguege mureoboseyo.]
+→ Where do you want to go? How do you get there? Ask your friend.
 
 ---
 
 ## From Sejong Institute to Home (Page 3)
 - 세종학당에서 여러분 집까지 어떻게 가요?
 [Sejonghakdang-eseo yeoreobun jip-kkaji eotteoke gayo?]
+→ How do you go from King Sejong Institute to your house?
 - 집까지 시간이 얼마나 걸려요?
 [jip-kkaji sigani eolmana geollyeoyo?]
+→ How long does it take to get home?
 
 Model answer:
 저는 세종학당 앞에서 버스를 타고 집에 가요. 삼십 분이 걸려요.
@@ -80,12 +87,16 @@ Model answer:
 ## Read & Write (Page 4)
 
 1) 공항에서 시내에 가는 법 (Table)
+→ How to get from the airport to downtown
 - 버스: 50~55분, 7,000원, 5번 출구 옆
 [beoseu: osip~osibo bun, chil-cheon won, o-beon chulgu yeop]
+→ Bus: 50–55 minutes, 7,000 KRW, next to Exit 5
 - 지하철: 38분, 1,250원, 1번 출구 옆
 [jihacheol: samsip-pal bun, cheonibaekosip won, il-beon chulgu yeop]
+→ Subway: 38 minutes, 1,250 KRW, next to Exit 1
 - 택시: 40~45분, 16,000~18,000원, 3번 출구 옆
 [taeksi: sasip~sasibo bun, sibyuk-cheon~sipy-pal cheon won, sam-beon chulgu yeop]
+→ Taxi: 40–45 minutes, 16,000–18,000 KRW, next to Exit 3
 
 질문:
 - 공항에서 뭘 탈 수 있어요?
@@ -103,34 +114,43 @@ Model answer:
 2) 본문 읽기
 저는 지금 베이징에서 대학교에 다닙니다. 기숙사에서 학교까지 자전거를 타고 다닙니다.
 [jeoneun jigeum Beijing-eseo daehakgyoe danimnida. gisuksaseo hakgyo-kkaji jajeongeoreul tago danimnida.]
+→ I am currently attending university in Beijing. I commute from the dormitory to school by bicycle.
 지난주 토요일은 어머니 생신이었습니다. 그래서 고향에 다녀왔습니다.
 [jinanju toyoireun eomeoni saengsin-ieosseumnida. geuraeseo gohyang-e danyeowasseumnida.]
+→ Last Saturday was my mother’s birthday, so I went to my hometown.
 베이징에서 기차를 탔습니다. 상하이에서 기차를 갈아탔습니다. 베이징에서 고향까지 일곱 시간이 걸렸습니다.
 [Beijing-eseo gichareul tasseumnida. Shanghai-eseo gichareul garatasseumnida. Beijing-eseo gohyang-kkaji ilgop sigani geollyeosseumnida.]
+→ I took a train in Beijing and transferred in Shanghai. From Beijing to my hometown took seven hours.
 
 질문:
 - 이 사람은 학교에 뭘 타고 다녀요? ① 버스 ② 기차 ③ 자전거
 [i sarameun hakgyoe mwol tago danyeoyo?]
+→ What does this person ride to go to school?
 👉 ③ 자전거 [jajeongeo] → bicycle
 
 - 이 사람은 고향에 어떻게 갔어요?
 [i sarameun gohyang-e eotteoke gasseoyo?]
+→ How did this person go to their hometown?
 👉 베이징에서 기차를 타고 상하이에서 갈아타서 고향에 갔어요. 일곱 시간이 걸렸어요.
 [Beijing-eseo gichareul tago Shanghai-eseo garataseo gohyang-e gasseoyo. ilgop sigani geollyeosseoyo.]
+→ He took a train from Beijing, transferred in Shanghai, and went to his hometown. It took seven hours.
 
 ---
 
 ## Page 5 — Write & Discuss
 3) 여러분은 회사나 학교에 어떻게 가요? 써 보세요.
 [yeoreobuneun hoesa-na hakgyoe eotteoke gayo? sseo boseyo.]
+→ How do you go to your company or school? Write about it.
 
 Model:
 저는 집에서 회사까지 지하철을 타고 다녀요. 한 번 갈아타요. 사십오 분이 걸려요.
 [jeoneun jib-eseo hoesa-kkaji jihacheoreul tago danyeoyo. han beon garatayo. sasibo buni geollyeoyo.]
+→ I commute by subway from home to my company. I transfer once. It takes 45 minutes.
 
 4) 친구 글 읽기:
 무엇을 타고 다녀요? 누가 시간이 제일 오래 걸려요?
 [mueoseul tago danyeoyo? nuga sigani jeil orae geollyeoyo?]
+→ What do they commute by? Who takes the longest time?
 
 ---
 
