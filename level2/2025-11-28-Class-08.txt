@@ -1,0 +1,290 @@
+28th - November - 2025
+Class 8
+
+CHAPTER : 길 찾기 [gil chajgi] (Finding the way) — Chapter 5
+
+## TLDR - Key Points Covered:
+• Grammar: (으)로 (toward/into/by), -아서/어서 (sequential actions)
+• Practice: Ask/give directions; cross/go in-out/up-down; floors; distances
+• Read & Write: “오시는 길” notice; email navigation Q&A
+• Vocab: 방향(방향어), 이동 동사, 장소
+[banghyang (banghyangeo), idong dongsa, jangso]
+→ Directions (direction words), motion verbs, places
+
+---
+
+## Dialogues — Asking and Giving Directions
+
+1) 화장실 위치 묻기
+[hwajangsil wichi mutgi]
+→ Asking the restroom location
+투이: 실례지만, 화장실이 어디에 있어요?
+[tui: sillyejiman, hwajangsiri eodie isseoyo?]
+→ Excuse me, where is the restroom?
+행인: 화장실요? 이쪽으로 쭉 가세요. 그러면 엘리베이터가 있어요.
+[haengin: hwajangsillyo? ijjogeuro jjuk gaseyo. geureomyeon elleibeiteoga isseoyo.]
+→ Go straight this way. Then there is an elevator.
+투이: 아, 네.
+[tui: a, ne.]
+→ Ah, okay.
+행인: 엘리베이터 옆에 화장실이 있어요.
+[haengin: elleibeiteo yeope hwajangsiri isseoyo.]
+→ The restroom is next to the elevator.
+투이: 네, 감사합니다.
+[tui: ne, gamsahamnida.]
+→ Thank you.
+
+2) 서점 가는 길 (은행 기준)
+[seojeom ganeun gil (eunhaeng gijun)]
+→ Way to the bookstore (using the bank as a landmark)
+타완: 실례합니다. 세종서점이 어디에 있습니까?
+[tawan: sillyehamnida. Sejong seojeomi eodie isseumnikka?]
+→ Excuse me. Where is Sejong Bookstore?
+행인: 서울은행 옆에 있어요.
+[haengin: Seoureunhaeng yeope isseoyo.]
+→ It’s next to Seoul Bank.
+타완: 서울은행요? 서울은행은 어디에 있습니까?
+[tawan: Seoureunhaengyo? Seoureunhaengeun eodie isseumnikka?]
+→ Seoul Bank? Where is Seoul Bank?
+행인: 길을 건너서 오른쪽으로 가세요.
+[haengin: gireul geonneoseo oreunjjogeuro gaseyo.]
+→ Cross the street and go right.
+타완: 여기에서 멀어요?
+[tawan: yeogieseo meoreoyo?]
+→ Is it far from here?
+행인: 아니요, 가까워요. 100미터쯤 가세요. 그러면 서울은행이 있어요.
+[haengin: aniyo, gakkawoyo. baek-miteo-jjeum gaseyo. geureomyeon Seoureunhaengi isseoyo.]
+→ No, it’s close. Go about 100 meters. Then you’ll see Seoul Bank.
+
+---
+
+## Grammar Points
+
+1) -아서/어서 — sequentially connected actions
+- 동사 뒤에 붙어 서로 관련 있는 일을 순서대로 연결한다.
+[dongsa dwie buteo seoro gwallyeon inneun ireul sunseodaero yeongyeolhanda.]
+→ Attaches to verbs to link related actions in sequence (and then/so).
+- Often translates as “and then/so (and then).”
+
+Examples:
+- 길을 건너서 똑바로 가세요.
+[gireul geonneoseo ttokbaro gaseyo.]
+→ Cross the street and go straight.
+- 2층으로 올라가서 왼쪽으로 가세요.
+[icheungeuro ollagaseo oenjjogeuro gaseyo.]
+→ Go up to the 2nd floor and go left.
+
+2) (으)로 — direction/toward/into
+- 명사에 붙어서 이동 동사와 함께 쓰여 움직임의 방향을 나타낸다.
+[myeongsa-e buteoseo idong dongsawa hamkke sseuyeo umjigimeui banghyangeul natananda.]
+→ Attaches to nouns with movement verbs to express direction/route/into.
+
+Examples:
+- 오른쪽으로 쭉 가세요.
+[oreunjjogeuro jjuk gaseyo.]
+→ Go straight to the right.
+- 이쪽으로 오세요.
+[ijjogeuro oseyo.]
+→ Please come this way.
+- 식당이요? 5층으로 가세요.
+[sikdang-iyo? o-cheungeuro gaseyo.]
+→ The restaurant? Go to the 5th floor.
+- 백화점 안으로 들어가세요.
+[baekhwajeom aneuro deureogaseyo.]
+→ Go into the department store.
+
+---
+
+## Practice — Complete the Dialogues
+
+대화 1
+[daehwa il]
+→ Dialogue 1
+1) 가: 병원이 어디에 있어요?
+   나: 길을 건너서 오른쪽으로 가세요.
+   [ga: byeong-woni eodie isseoyo? / na: gireul geonneoseo oreunjjogeuro gaseyo.]
+   → A: Where is the hospital? / B: Cross the street and go right.
+2) 가: 서울식당이 어디에 있어요?
+   나: 길을 건너서 똑바로 가세요. 하나백화점 옆에 있어요.
+   [ga: Seoulsikdangi eodie isseoyo? / na: gireul geonneoseo ttokbaro gaseyo. Hanabaekhwajeom yeope isseoyo.]
+   → A: Where is Seoul Restaurant? / B: Cross, go straight; it’s next to Hana Department Store.
+3) 가: 영화관이 어디에 있어요?
+   나: 길을 지나서 왼쪽으로 가세요.
+   [ga: yeonghwagwani eodie isseoyo? / na: gireul jinaseo oenjjogeuro gaseyo.]
+   → A: Where is the movie theater? / B: Go past the street, then go left.
+4) 가: 카페가 어디에 있어요?
+   나: 카페는 백화점 안에 있어요. 백화점 안으로 들어가서 2층으로 올라가세요.
+   [ga: kape-ga eodie isseoyo? / na: kapeneun baekhwajeom ane isseoyo. baekhwajeom aneuro deureogaseo icheungeuro ollagaseyo.]
+   → A: Where is the cafe? / B: It’s inside the department store. Go in and up to the 2nd floor.
+
+대화 2 — (으)로 연습
+[daehwa i — (eu)ro yeonseup]
+→ Dialogue 2 — Practice with (으)로
+1) 가: 엘리베이터가 어디에 있어요?
+   나: 이쪽으로 쭉 가세요. 오른쪽으로 돌아가세요.
+   [ga: elleibeiteoga eodie isseoyo? / na: ijjogeuro jjuk gaseyo. oreunjjogeuro doragaseyo.]
+   → A: Where is the elevator? / B: Go straight this way, then turn right.
+2) 가: 사무실이 어디에 있어요?
+   나: 저쪽으로 가세요.
+   [ga: samusiri eodie isseoyo? / na: jeojjogeuro gaseyo.]
+   → A: Where is the office? / B: Go that way.
+3) 가: 교실이 어디에 있어요?
+   나: 왼쪽으로 쭉 가세요.
+   [ga: gyosiri eodie isseoyo? / na: oenjjogeuro jjuk gaseyo.]
+   → A: Where is the classroom? / B: Go straight to the left.
+4) 가: 계단이 어디에 있어요?
+   나: 똑바로 가세요. 그리고 왼쪽으로 가세요.
+   [ga: gyedani eodie isseoyo? / na: ttokbaro gaseyo. geurigo oenjjogeuro gaseyo.]
+   → A: Where are the stairs? / B: Go straight, and then go left.
+
+Pair work:
+- 여러분의 교실 근처에는 무엇이 있어요? 서로 묻고 답해 보세요.
+[yeoreobun-ui gyosil geuncheo-eneun mueosi isseoyo? seoro mutgo dabae boseyo.]
+→ What is near your classroom? Ask and answer with a partner.
+
+---
+
+## Read & Write
+
+1) 오시는 길 — 서울식당
+[osineun gil — Seoulsikdang]
+→ Directions to Seoul Restaurant
+서울식당은 하나백화점 옆에 있습니다.
+[Seoulsikdangeun Hanabaekhwajeom yeope isseumnida.]
+→ Seoul Restaurant is next to Hana Department Store.
+
+• 지하철: 시청역 (1번 출구로 나오세요.)
+[jihacheol: sicheong-yeok (il-beon chulgu-ro naoseyo.)]
+→ Subway: City Hall Station (come out Exit 1).
+• 버스: 4번, 5번 (한국병원에서 내리세요.)
+[beoseu: sa-beon, o-beon (Hanguk byeongwon-eseo naeriseyo.)]
+→ Bus: #4, #5 (get off at Korean Hospital).
+전화 02) 3254-8791
+[jeonhwa 02) 3254-8791]
+→ Phone: 02-3254-8791
+
+질문:
+[jilmun]
+→ Questions:
+- 서울식당은 하나백화점 옆에 있어요?  → 👉 네
+[Seoulsikdangeun Hanabaekhwajeom yeope isseoyo?]
+→ Is Seoul Restaurant next to Hana Department Store?
+[👉 ne]
+→ Yes.
+- 서울식당은 한국병원에서 길을 건너서 가요?  → 👉 아니요 (포스터 정보에는 ‘내리세요’만 안내)
+[Seoulsikdangeun Hanguk byeongwon-eseo gireul geonneoseo gayo?]
+→ Do you go by crossing the street from Korean Hospital to get to Seoul Restaurant?
+[👉 aniyo (poseuteo jeongbo-eneun ‘naeriseyo’-man annae)]
+→ No. The poster only says “Please get off.”
+
+2) 이메일 읽기
+[imeil ilggi]
+→ Reading an email
+보낸 사람: sujin@korea.kr / 받는 사람: yuki@korea.kr
+[bonaen saram: sujin at korea dot kr / batneun saram: yuki at korea dot kr]
+→ From: sujin@korea.kr / To: yuki@korea.kr
+제목: 수진이에요.
+[jemok: Sujin-ieyo.]
+→ Subject: It’s Sujin.
+핵심: 학교 앞에서 2번 버스를 타세요 → 서울병원 앞에서 내리세요 → 서울병원에서 오른쪽으로 쭉 오세요 → 공원 근처 우리 집
+[haeksim: hakgyo ap-eseo ibeon beoseureul taseyo → Seoule byeongwon ap-eseo naeriseyo → Seoule byeongwon-eseo oreunjjogeuro jjuk oseyo → gongwon geuncheo uri jip]
+→ Key path: Take Bus 2 at school → get off at Seoul Hospital → come straight to the right from the hospital → my house is near the park.
+
+질문:
+[jilmun]
+→ Questions:
+- 수진 씨 집은 무엇을 타고 가요?  → 👉 2번 버스를 타고 가요.
+[Sujin ssi jib-eun mueoseul tago gayo?]
+→ What do you ride to go to Sujin’s house?
+[👉 ibeon beoseureul tago gayo.]
+→ Take Bus 2.
+- 수진 씨 집은 서울병원에서 오른쪽으로 가요?  → 👉 네, 오른쪽으로 쭉 가요.
+[Sujin ssi jib-eun Seoule byeongwon-eseo oreunjjogeuro gayo?]
+→ From Seoul Hospital, do you go to the right to get to Sujin’s house?
+[👉 ne, oreunjjogeuro jjuk gayo.]
+→ Yes, go straight to the right.
+
+---
+
+## Listening & Speaking Prompts
+1) 사무실이 어디에 있어요?
+[samusiri eodie isseoyo?]
+→ Where is the office?
+   ① 화장실 앞  ② 계단 옆  ③ 엘리베이터 앞
+[hwajangsil ap / gyedan yeop / elleibeiteo ap]
+→ ① in front of the restroom  ② next to the stairs  ③ in front of the elevator
+2) 지하철역이 어디에 있어요?
+[jihacheol-yeogi eodie isseoyo?]
+→ Where is the subway station?
+3) 민수 씨의 집은 어디에 있어요?
+[Minsu ssi-ui jib-eun eodie isseoyo?]
+→ Where is Minsu’s house?
+4) 친구가 여러분 집을 찾아갈 수 있도록 안내하는 편지를 써 보세요.
+[chingu-ga yeoreobun jip-eul chajagal su itdorok annae-haneun pyeonjireul sseo boseyo.]
+→ Write an instruction letter so a friend can find your home.
+   보낸 사람 / 받는 사람 / 제목: Re: 어떻게 가요?
+[bonaen saram / batneun saram / jemok: Re: eotteoke gayo?]
+→ From / To / Subject: Re: How do I go?
+
+---
+
+## Key Patterns & Useful Phrases
+- 길을 건너서 …  [gireul geonneoseo …] → cross the street and …
+- 오른쪽/왼쪽으로 가세요.  [oreunjjogeuro/oenjjogeuro gaseyo.] → Go right/left.
+- 똑바로(쭉) 가세요.  [ttokbaro (jjuk) gaseyo.] → Go straight.
+- [장소] 안으로/밖으로 들어가다/나가다  [[jangso] aneuro/bakkeuro deureogada/nagada]
+→ go into/out of [place]
+- [층]으로 올라가다/내려가다  [[cheung]-euro ollagada/naeryeogada]
+→ go up/down to [floor]
+- [장소]을/를 지나서 …  [[jangso]-eul/reul jinaseo …] → pass by …
+- (으)로: 방향/진행  [ (eu)ro: banghyang/jinhaeng ] → toward/into/by
+- -아서/어서: 순서 연결  [-aseo/eoseo: sunseo yeongyeol] → link sequential steps
+
+---
+
+## Vocabulary Review (새 어휘와 표현)
+
+이동 (Motion Verbs)
+- 올라가다 / 올라오다  [ollagada / ollaoda]
+→ to go up / to come up
+- 내려가다 / 내려오다  [naeryeogada / naeryeo-oda]
+→ to go down / to come down
+- 나가다 / 나오다  [nagada / naoda]
+→ to go out / to come out
+- 들어가다 / 들어오다  [deureogada / deureooda]
+→ to go in / to come in
+- 건너다  [geonneoda]
+→ to cross
+- 지나다  [jinada]
+→ to pass (by)
+
+방향 (Directions)
+- 오른쪽  [oreunjjok]  /  왼쪽  [oenjjok]
+→ right / left
+- 똑바로  [ttokbaro]
+→ straight
+- 이쪽 / 저쪽 / 그쪽  [ijjok / jeojjok / geujjok]
+→ this way / that way (over there) / that way (near you)
+
+장소/사물
+- 엘리베이터, 사무실, 서점, 길, 화장실, 계단, 은행, 아파트
+[elleibeiteo, samusil, seojeom, gil, hwajangsil, gyedan, eunhaeng, apateu]
+→ elevator, office, bookstore, street/road, restroom, stairs, bank, apartment
+
+형용사/기타
+- 가깝다, 멀다, 쯤, 미터, 우리 집, 실례지만
+[gakkapda, meolda, jjeum, miteo, uri jip, sillyejiman]
+→ be close, be far, about/approximately, meter, our/my house, excuse me (polite)
+
+---
+
+## Self-Check (스스로 평가하기)
+- 한국어 방향과 이동 어휘를 사용할 수 있어요.
+[hangug-eo banghyang-gwa idong eo-hwireul sayonghal su isseoyo.]
+→ I can use Korean direction and movement vocabulary.
+- ‘(으)로’와 ‘-아서/어서’를 문장에서 사용할 수 있어요.
+[ (eu)ro-wa -aseo/eoseoreul munjang-eseo sayonghal su isseoyo.]
+→ I can use (으)로 and -아서/어서 correctly in sentences.
+- 길을 물어보고 안내할 수 있어요.
+[gireul mureobogo annae hal su isseoyo.]
+→ I can ask for and give directions.
