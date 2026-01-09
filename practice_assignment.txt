@@ -1,0 +1,151 @@
+Chapter - 1 — 안부 (Saying Hello)
+
+A: 안녕하세요! 오랜만이에요! 그동안 잘 지냈어요? [a: annyeonghaseyo! oraenman-ieyo! geudongan jal jinaesseoyo?]
+→ A: Hello! It’s been so long! How have you been?
+
+B: 네, 잘 지냈어요. A 씨는요? 크리스마스 휴가 때 어떻게 보냈어요? [b: ne, jal jinaesseoyo. a ssineunyo? keuriseumaseu hyuga ttae eotteoke bonaesseoyo?].
+→ B: I am well. How about you, Mr. A? How did you spend your Christmas vacation?
+
+A: 저는 여행도 가고 한국어 공부도 했어요. 휴가 때 뭐 했어요? [a: jeoneun yeohaengdo gago hangugeo gongbudo haesseoyo. hyuga ttae mwo haesseoyo?]
+→ A: I went on a trip, and I also studied Korean. What did you do during vacation?
+
+B: 저는 아주 바빴어요. 정신이 없었어요. [b: jeoneun aju bappasseoyo. jeongsini eopseosseoyo.]
+→ B: I was very busy. I was completely in a daze.
+
+A: 왜요? [a: waeyo?]..
+→ A: Why so?
+
+B: 다음 주에 SWC 시험이 있어요. 공부를 많이 해야 돼요. 그래서 조금 힘들어요. 이번 주에는 바빠요. 그런데 시험 후에는 시간이 있어요. [b: daeum jue swc siheomi isseoyo. gongbureul mani haeya dwaeyo. geuraeseo jogeum himdeureoyo. ibeon jueneun bappayo. geureonde siheom hueneun sigani isseoyo.]
+→ B: I have an SWC exam next week. I have to study a lot, so it’s a bit difficult. I am busy this week, but after the exam I will be free
+
+A: 시험 잘 보세요! [a: siheom jal boseyo!]
+→ A: All the best!
+
+Words from Notes — Sources
+- 오랜만이에요 / 그동안 잘 지냈어요 — @level2/2025-09-12-Class-01.txt (Greetings)
+- 휴가 / 휴가 때 뭐 했어요 — @level2/2025-09-12-Class-01.txt (Activities)
+- 여행 / 공부 — @level2/2025-09-12-Class-01.txt (Activities; -고/도 examples)
+- 바쁘다 / 바빠요 — @level2/2025-09-12-Class-01.txt (근황)
+- 정신이 없다 — @level2/2025-09-12-Class-01.txt (근황)
+- 시험 — @level2/2025-09-12-Class-01.txt (Activities)
+- 그런데 / 그래서 — @level2/2025-09-12-Class-01.txt (Connectors)
+- 이번 주에는 바빠요. 그런데 다음 주에는 시간이 있어요 — @level2/2025-09-12-Class-01.txt (Examples)
+- -(으)세요 (polite) — @level2/2025-12-05-Class-09.txt (Patterns)
+
+Chapter - 2 — 취미 활동 (Hobbies)
+
+A: 취미가 뭐예요? [a: chwimiga mwoyeyo?]
+→ A: What’s your hobby?
+
+B: 저는 자전거 타는 것을 좋아해요. A 씨도 자전거를 잘 타요? [b: jeoneun jajeongeo taneun geoseul joahaeyo. a ssido jajeongeoreul jal tayo?]
+→ B: I like riding a bicycle. Do you also ride well?
+
+A: 아니요, 저는 자전거를 못 타요. 제 취미는 수영이에요. [a: aniyo, jeoneun jajeongeoreul mot tayo. je chwimineun suyeong-ieyo.]
+→ A: No, I cannot ride a bicycle. My hobby is swimming.
+
+B: 수영을 자주 해요? [b: suyeongeul jaju haeyo?]
+→ B: Do you go swimming often?
+
+A: 일이 바빠서 거의 못해요. [a: iri bappaseo geoui mothaeyo.]
+→ A: I hardly swim because of my busy work.
+
+Words from Notes — Sources
+- 취미 / 취미가 뭐예요 — @level2/2025-09-26-Class-03.txt (Dialogues/Key Patterns)
+- 자전거를 타다 — @level2/2025-09-26-Class-03.txt (Hobbies)
+- 수영 — @level2/2025-09-26-Class-03.txt (Dialogues)
+- 못 (능력 부족) — @level2/2025-09-26-Class-03.txt (Grammar 1. 못)
+- 자주 / 가끔 / 거의 — @level2/2025-09-26-Class-03.txt (Frequency)
+- -아서/어서 (바빠서 …) — @level2/2025-09-26-Class-03.txt (Grammar 2. -아서/어서)
+
+Chapter - 3 — 음식 (Food)
+
+A: 뭐 먹을래요? 이 식당은 포디 이들리하고 마살라 도사가 유명해요. [a: mwo meogeullae-yo? i sikdang-eun podi ideulli-hago masalla dosa-ga yumyeonghaeyo.]
+→ A: What would you eat? This restaurant is known for ‘podi idli’ and ‘masala dosa’.
+
+B: 삼바르가 달아요? 저는 단 삼바르는 못 먹어요. [b: sambareuga darayo? jeoneun dan sambareuneun mot meogeoyo.]
+→ B: Is the sambar sweet? I can’t eat sweet sambar.
+
+A: 아니요, 삼바르는 달지 않고 맵고 맛있어요. [a: aniyo, sambareuneun dalji anko maepgo masisseoyo.]
+→ A: No, the sambar isn’t sweet; it’s spicy and tasty.
+
+B: 그러면 좋네요. 포디 이들리 하나하고 마살라 도사 하나 주문해요. 이 식당에 자주 와요? [b: geureomyeon jonneyo. podi ideulli hana-hago masalla dosa hana jumunhaeyo. i sikdang-e jaju wayo?]
+→ B: Then, it is good. Let us order one ‘podi idli’ and one ‘masala dosa’. Do you come to this restaurant often?
+
+A: 가끔 와요. [a: gakkeum wayo.]
+→ A: I come here sometimes.
+
+B: 보통 무슨 음식을 주문해요? [b: botong museun eumsigeul jumunhaeyo?]
+→ B: Which food do you generally order?
+
+A: 보통 우빠마를 먹어요. 맛이 좀 싱거운데 좋아해요. [a: botong ubbamareul meogeoyo. masi jom singgeo-unde joahaeyo.]
+A: 보통 우빠마를 먹어요. 맛이 좀 싱거워요. 저는 좋아해요. [a: botong ubbamareul meogeoyo. masi jom singgeowoyo. jeoneun joahaeyo.]
+→ A: I generally eat upma. It’s a little bland. I like it.
+
+Words from Notes — Sources
+- -(으)ㄹ래요 (뭐 먹을래요) — @level2/2025-10-17-Class-04.txt (Grammar 1)
+- 맵다 / 맛있다 / 달다 / 싱겁다 — @level2/2025-10-17-Class-04.txt (Taste vocab)
+- 자주 / 가끔 — @level2/2025-09-26-Class-03.txt (Frequency)
+- “주문 예시 / 뭐 먹을래요?” — @level2/2025-10-31-Class-05.txt (Sheet Page 3)
+- 보통 — @level2/2025-12-05-Class-09.txt (Vocab Review)
+
+Chapter - 4 & 5 — 교통/길 찾기 (Transport & Directions)
+
+A: 삼성 사무실에서 주리 호텔까지 어떻게 가요? [a: samseong samusil-eseo juri hotel-kkaji eotteoke gayo?]
+→ A: How do you go from Samsung Office to Zuri Hotel?
+
+B: 택시를 타고 가세요. [b: taeksireul tago gaseyo.]
+→ B: You can take a taxi.
+
+A: 택시로 얼마나 걸려요? [a: taeksiro eolmana geollyeoyo?]
+→ A: How much time will it take by taxi?
+
+B: 약 30분쯤 걸려요. [b: yak samsip-bun-jjeum geollyeoyo.]
+→ B: It will take approximately 30 minutes.
+
+A: 비용은 대략 얼마예요? [a: biyongeun daeryak eolmayeyo?]
+→ A: How much will be the approximate expense?
+
+B: 한 300루피쯤 나와요. [b: han sambaek rupi-jjeum nawayo.]
+→ B: It should be around Rs. 300.
+
+A: 버스도 탈 수 있어요? [a: beoseudo tal su isseoyo?]
+→ A: Can I take a bus also?
+
+B: 네, 29번 버스를 탈 수 있어요. [b: ne, isipgu-beon beoseureul tal su isseoyo.]
+→ B: Yes, you can take bus no. 29.
+
+A: 갈아타야 해요? [a: garataya haeyo?]
+→ A: Do I need to change (transfer) the bus?
+
+B: 네. 먼저 삼성 사무실에서 29번 버스를 타세요. 후디 정류장에서 내리세요. 그리고 15번 버스로 갈아타세요. 주리 호텔 앞에서 내리세요. 호텔에 가려면 길을 건너가야 해요. [b: ne. meonjeo samseong samusil-eseo isipgu-beon beoseureul taseyo. hudi jeongnyujang-eseo naeriseyo. geurigo sib-o-beon beoseuro garataseyo. juri hotel ap-eseo naeriseyo. hotel-e garyeomyeon gireul geonneogaya haeyo.]
+→ B: Yes. First take bus no. 29 from the Samsung office. Get down at Hoodi bus stop and then transfer to bus no. 15. Get down at the Zuri Hotel stop. You will have to cross the road to reach Zuri Hotel.
+
+A: 정말 감사합니다. 점심은 먹었어요? [a: jeongmal gamsahamnida. jeomsimeun meogeosseoyo?]
+→ A: Thank you so much. Did you have lunch?
+
+B: 아직요. [b: ajikyo.]
+→ B: Not yet.
+
+A: 같이 갈까요? [a: gachi galkkayo?]
+→ A: Shall we go together?
+
+B: 좋아요. 토이트에 가요. 회사에서 가까워요. 사무실 밖으로 나가서 길을 건너 오른쪽으로 100미터쯤 가세요. [b: joayo. toit-e gayo. hoesa-eseo gakkawoyo. samusil bakkeuro nagaseo gireul geonneo oreunjjogeuro baek-miteo-jjeum gaseyo.]
+→ B: Sure. Let us go to Toit. It is near the office. We need to go out of the office, cross the road, and go towards the right for about 100 meters.
+
+A: 좋아요! 멀지 않네요. 갑시다. [a: joayo! meolji anneyo. gapsida.]
+→ A: Great! It is not far. Let’s go.
+
+Words from Notes — Sources
+- 버스 / 택시 — @level2/2025-11-07-Class-06.txt (교통수단)
+- (시간)이 걸려요 — @level2/2025-11-07-Class-06.txt (Grammar 1. 이/가 걸리다)
+- …에서 …까지 — @level2/2025-11-07-Class-06.txt (Grammar 2)
+- 갈아타다 — @level2/2025-11-07-Class-06.txt (Vocab/Routes)
+- 내리세요 — @level2/2025-11-07-Class-06.txt (Key patterns)
+- 길을 건너서 / 오른쪽(으)로 — @level2/2025-11-28-Class-08.txt (Directions)
+- 밖으로 나가다 — @level2/2025-12-12-Class-10.txt (안/밖 + 이동 동사)
+- 100미터 / 쯤 — @level2/2025-12-12-Class-10.txt (Vocab)
+- 가깝다(가까워요) — @level2/2025-12-12-Class-10.txt (Vocab; also Class 8 dialogue)
+- -(으)ㄹ까요? (같이 갈까요?) — @level2/2025-09-19-Class-02.txt (Suggestion)
+- 감사합니다 — @level2/2025-11-28-Class-08.txt (Dialogue 1)
+- 점심 — @level2/2025-12-05-Class-09.txt (Vocab)
+- 회사 — @level2/2025-12-05-Class-09.txt (Theme: 회사생활)
