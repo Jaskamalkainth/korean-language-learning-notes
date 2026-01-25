@@ -1,0 +1,294 @@
+23rd - January - 2026
+Class 14
+
+## TLDR - Key Points Covered:
+• Focus: Chapter 7 — 외모 (Appearance)
+• Skills: describe people's appearance and clothing
+• Grammar: -(으)ㄴ (adjective modifier), -고 있다 (wearing/current state)
+• Vocab: 외모 (appearance features), 옷차림 (clothing/dress)
+
+Chapter 7: 외모
+[oemoe]
+→ Appearance
+
+---
+
+## Dialogue 1
+투이: 누가 수진 씨예요?
+[Tui: nuga Sujin ssi-yeyo?]
+→ Tui: Who is Sujin?
+
+민수: 수진 씨요? 저기 키가 큰 여학생이 보여요?
+[Minsu: Sujin ssi-yo? jeogi kiga keun yeohaksaeng-i boyeoyo?]
+→ Minsoo: Sujin? Do you see the tall female student over there?
+
+투이: 누구요?
+[Tui: nuguyo?]
+→ Tui: Who?
+
+민수: 문 앞에 있는 여학생요.
+[Minsu: mun ap-e inneun yeohaksaeng-yo.]
+→ Minsoo: The girl in front of the door.
+
+투이: 저기 빨간색 옷 입고 있는 사람요?
+[Tui: jeogi ppalgansaek ot ipgo inneun saramyo?]
+→ Tui: The person wearing red clothes over there?
+
+민수: 네, 맞아요.
+[Minsu: ne, majayo.]
+→ Minsoo: Yes, that's right.
+
+---
+
+## Dialogue 2
+타완: 여기 김민수 씨가 있어요?
+[Tawan: yeogi Gim Minsu ssi-ga isseoyo?]
+→ Tawan: Is Kim Minsoo here?
+
+수진: 저기 안경을 쓰고 있는 사람이 민수 씨예요.
+[Sujin: jeogi angyeongeul sseugo inneun sarami Minsu ssi-yeyo.]
+→ Sujin: The person wearing glasses over there is Minsoo.
+
+타완: 노란색 넥타이를 매고 있는 사람이요?
+[Tawan: noransaek nektaireul maego inneun saramyo?]
+→ Tawan: That person wearing a yellow tie?
+
+수진: 아니요. 옆에 있는 사람이요. 검은색 옷을 입고 있어요.
+[Sujin: aniyo. yeop-e inneun saramyo. geomeunsaek oseul ipgo isseoyo.]
+→ Sujin: No. The person next to him. He's wearing black clothes.
+
+타완: 아, 네. 감사합니다.
+[Tawan: a, ne. gamsahamnida.]
+→ Tawan: Ah, I see. Thank you.
+
+---
+
+## Vocabulary: 외모 (Appearance)
+- 예쁘다  [yeppeuda]  → to be pretty
+- 멋있다  [meositda]  → to be stylish / cool
+- 잘생기다  [jalsaenggida]  → to be handsome
+- 귀엽다  [gwiyeopda]  → to be cute
+- 키가 크다  [kiga keuda]  → to be tall
+- 키가 작다  [kiga jakda]  → to be short (height)
+- 머리가 길다  [meoriga gilda]  → to have long hair
+- 머리가 짧다  [meoriga jjalpda]  → to have short hair
+- 날씬하다  [nalsinhada]  → to be slender / slim
+- 뚱뚱하다  [ttungttunghada]  → to be fat / overweight
+- 마르다  [mareuda]  → to be skinny / thin
+
+## Vocabulary: 옷차림 (Dress / Clothing)
+- 옷을 입다  [oseul ipda]  → to wear clothes
+- 바지를 입다  [bajireul ipda]  → to wear pants
+- 치마를 입다  [chimareul ipda]  → to wear a skirt
+- 신발을 신다  [sinbareul sinda]  → to wear footwear
+- 구두를 신다  [gudureul sinda]  → to wear shoes (dress shoes)
+- 운동화를 신다  [undonghwareul sinda]  → to wear sneakers
+- 모자를 쓰다  [mojareul sseuda]  → to wear a hat
+- 안경을 쓰다  [angyeongeul sseuda]  → to wear glasses
+- 넥타이를 매다  [nektaireul maeda]  → to wear a tie
+- 목도리를 하다  [mokdorireul hada]  → to wear a scarf
+- 가방을 들다  [gabangeul deulda]  → to carry a bag
+
+## Additional Vocabulary
+- 저기  [jeogi]  → over there
+- 보이다  [boida]  → to be visible / to see
+- 빨간색  [ppalgansaek]  → red
+- 검은색  [geomeunsaek]  → black
+- 노란색  [noransaek]  → yellow
+- 흰색  [huinsaek]  → white
+- 청바지  [cheongbaji]  → blue jeans
+- 여학생  [yeohaksaeng]  → female student
+- 문  [mun]  → door
+- 찾다  [chatda]  → to look for
+- 호텔  [hotel]  → hotel
+
+---
+
+## Grammar 1: -(으)ㄴ
+[-(eu)n]
+→ adjective modifier (describes noun)
+
+'-(으)ㄴ'은 형용사에 붙어서 뒤에 오는 명사를 수식하여 그 상태를 나타낸다.
+[-(eu)n-eun hyeong-yongsa-e buteo-seo dwi-e oneun myeongsareul susik-hayeo geu sangtaereul natanaenda.]
+→ '-(으)ㄴ' attaches to adjective roots to modify and describe the state of the following noun.
+
+### Conjugation Rules:
+- Adjective stem ends with vowel → add -ㄴ
+- Adjective stem ends with consonant → add -은
+
+### Examples:
+크다 → 큰
+[keuda → keun]
+→ to be big → big
+
+작다 → 작은
+[jakda → jageun]
+→ to be small → small
+
+길다 → 긴
+[gilda → gin]
+→ to be long → long
+
+짧다 → 짧은
+[jjalpda → jjalbeun]
+→ to be short → short
+
+---
+
+가: 수진 씨가 누구예요?
+[ga: Sujin ssi-ga nuguye-yo?]
+→ A: Who is Sujin?
+
+나: 수진 씨는 저기 키가 큰 사람이에요.
+[na: Sujin ssi-neun jeogi kiga keun sarami-eyo.]
+→ B: Sujin is that tall person over there.
+
+가: 짧은 머리를 좋아해요?
+[ga: jjalbeun meorireul joahae-yo?]
+→ A: Do you like short hair?
+
+나: 아니요. 긴 머리를 좋아해요.
+[na: aniyo. gin meorireul joahae-yo.]
+→ B: No, I like long hair.
+
+### Special Note:
+재미있다/재미없다처럼 '있다/없다'를 가진 형용사는 '-(으)ㄴ' 대신 '재미있는', '재미없는'을 사용한다.
+[jaemiitda/jaemieop-dacheoreom 'itda/eopda'-reul gajin hyeong-yongsaneun '-(eu)n' daesin 'jaemiinneun', 'jaemieopneun'-eul sayonghanda.]
+→ For adjectives containing 있다/없다 (like 재미있다/재미없다), use 재미있는, 재미없는 instead of -(으)ㄴ.
+
+---
+
+## Grammar 2: -고 있다
+[-go itda]
+→ to be wearing / current state
+
+'-고 있다'는 '입다', '신다'와 같은 동사에 붙어서 옷이나 신발 등을 착용하고 있는 모습을 나타낸다.
+[-go itda-neun 'ipda', 'sinda'-wa gateun dongsa-e buteo-seo ot-ina sinbal deung-eul chagyong-hago inneun moseubeul natanaenda.]
+→ '-고 있다' attaches to verbs like 입다 or 신다 to indicate the subject is currently wearing clothing or shoes.
+
+### Usage with clothing verbs:
+입다 → 입고 있다  [ipda → ipgo itda]  → to wear / be wearing
+신다 → 신고 있다  [sinda → singo itda]  → to wear (shoes) / be wearing
+쓰다 → 쓰고 있다  [sseuda → sseugo itda]  → to wear (hat/glasses) / be wearing
+매다 → 매고 있다  [maeda → maego itda]  → to wear (tie) / be wearing
+들다 → 들고 있다  [deulda → deulgo itda]  → to carry / be carrying
+
+가: 누가 토아 씨예요?
+[ga: nuga Toa ssi-yeyo?]
+→ A: Who is Toa?
+
+나: 토아 씨는 흰색 치마를 입고 있어요.
+[na: Toa ssi-neun huinsaek chimareul ipgo isseoyo.]
+→ B: Toa is wearing a white skirt.
+
+로라 씨는 검은색 가방을 들고 있어요.
+[Rora ssi-neun geomeunsaek gabangeul deulgo isseoyo.]
+→ Laura is carrying a black bag.
+
+마크 씨는 안경을 쓰고 넥타이를 매고 있어요.
+[Makeu ssi-neun angyeongeul sseugo nektaireul maego isseoyo.]
+→ Mark is wearing glasses and a tie.
+
+---
+
+## Practice QnA (with answers)
+
+### Practice 1 — Identify people by appearance
+가: 누가 투이 씨예요?
+[ga: nuga Tui ssi-yeyo?]
+→ A: Who is Tui?
+
+나: 머리가 짧은 여자예요.
+[na: meoriga jjalbeun yeoja-yeyo.]
+→ B: She's the woman with short hair.
+
+가: 누가 치엔 씨예요?
+[ga: nuga Chien ssi-yeyo?]
+→ A: Who is Chien?
+
+나: 키가 큰 남자예요. / 안경을 쓰고 있는 사람이에요.
+[na: kiga keun namja-yeyo. / angyeongeul sseugo inneun sarami-eyo.]
+→ B: He's the tall man. / He's the person wearing glasses.
+
+가: 키가 작은 사람이 민수 씨예요?
+[ga: kiga jageun sarami Minsu ssi-yeyo?]
+→ A: Is the short person Minsoo?
+
+나: 아니요. 키가 큰 사람이 민수 씨예요.
+[na: aniyo. kiga keun sarami Minsu ssi-yeyo.]
+→ B: No. The tall person is Minsoo.
+
+가: 머리가 짧은 사람이 유키 씨예요?
+[ga: meoriga jjalbeun sarami Yuki ssi-yeyo?]
+→ A: Is the person with short hair Yuki?
+
+나: 아니요. 머리가 긴 사람이 유키 씨예요.
+[na: aniyo. meoriga gin sarami Yuki ssi-yeyo.]
+→ B: No. The person with long hair is Yuki.
+
+---
+
+### Practice 2 — Twenty Questions game (example)
+가: 머리가 긴 사람이에요?
+[ga: meoriga gin sarami-eyo?]
+→ A: Is it someone with long hair?
+
+나: 아니요, 머리가 짧은 사람이에요.
+[na: aniyo, meoriga jjalbeun sarami-eyo.]
+→ B: No, it's someone with short hair.
+
+다: 키가 큰 사람이에요?
+[da: kiga keun sarami-eyo?]
+→ C: Is it a tall person?
+
+나: 네, 키가 큰 사람이에요.
+[na: ne, kiga keun sarami-eyo.]
+→ B: Yes, it's a tall person.
+
+라: 그러면 민수 씨예요?
+[ra: geureomyeon Minsu ssi-yeyo?]
+→ D: Then is it Minsoo?
+
+나: 네, 맞아요.
+[na: ne, majayo.]
+→ B: Yes, that's right.
+
+---
+
+## Speaking / Writing Prompts
+
+### Prompt 1: Describe a classmate
+우리 반 친구 중 한 명의 외모에 대해서 써 보세요.
+[uri ban chingu jung han myeong-ui oemoe-e daehae-seo sseo boseyo.]
+→ Write a description of one of your classmates. How does he or she look?
+
+예시 답:
+[yesi dap]
+→ Sample answer:
+
+제 친구는 키가 크고 머리가 짧아요. 안경을 쓰고 있어요. 날씬하고 잘생겼어요.
+[je chingu-neun kiga keugo meoriga jjalbayo. angyeongeul sseugo isseoyo. nalsinhago jalsaenggyeosseoyo.]
+→ My friend is tall and has short hair. He wears glasses. He's slim and handsome.
+
+---
+
+### Prompt 2: Guess who
+친구가 쓴 글을 읽어 보세요. 누구에 대해서 썼어요? 그 사람이 누구인지 맞혀 보세요.
+[chingu-ga sseun geureul ilgeo boseyo. nugu-e daehae-seo sseosseoyo? geu sarami nuguinji machyeo boseyo.]
+→ Read your friend's response. Guess who your friend described.
+
+---
+
+## Self-Check (스스로 평가하기)
+- 외모와 옷차림에 관련된 한국어 어휘를 사용할 수 있어요.
+[oemoe-wa otcharim-e gwanryeon-doen hangug-eo eo-hwireul sayonghal su isseoyo.]
+→ I can use Korean vocabulary related to appearance and clothes.
+
+- '-(으)ㄴ'과 '-고 있다'를 문장에서 사용할 수 있어요.
+['-(eu)n'-gwa '-go itda'-reul munjang-eseo sayonghal su isseoyo.]
+→ I can use '-(으)ㄴ' and '-고 있다' properly in sentences.
+
+- 사람의 외모를 묘사할 수 있어요.
+[saram-ui oemoreul myosa-hal su isseoyo.]
+→ I can describe someone's appearance.
+
