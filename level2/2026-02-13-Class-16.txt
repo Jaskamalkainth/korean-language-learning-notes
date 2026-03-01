@@ -1,6 +1,123 @@
 13th - Feb - 2026
-Class 17
+Class 16
 
 ## TLDR - Key Points Covered:
-Chapter 8 - Part 2
-Chapter 9 - Part 1
+• Focus: Chapter 8 — 가족 (Family) — Part 2
+• Skills: reading tables and short texts, writing family introductions, practice with 직업/취미/외모 [jigeob/chwimi/oemoe]
+• Content: 읽고 쓰기 [ilgo sseugi], 연습 [yeonseup], 새 어휘와 표현 [sae eohwiwa pyohyeon], self-evaluation
+
+
+---
+
+## 읽고 쓰기 (Read and Write)
+[ilgo sseugi]
+
+### 가족 관계 표 (Family table)
+[gajok gwan-gye pyo]
+
+| 이름     | Name          | 관계           | Relation      | 나이  | Age | 직업     | Job            |
+|--------|---------------|---------------|--------------|------|-----|--------|----------------|
+| 김준영  | Kim Junyeong  | 아버지         | father        | 62세 | 62  | 공무원  | civil servant  |
+| 나영희  | Na Yeonghui   | 어머니         | mother        | 60세 | 60  | 선생님  | teacher        |
+| 김민영  | Kim Minyeong  | 형             | older brother | 35세 | 35  | 의사    | doctor         |
+| 김진수  | Kim Jinsu     | 나             | me            | 33세 | 33  | 회사원  | office worker  |
+| 정미진  | Jeong Mijin   | 아내           | wife          | 31세 | 31  | 회사원  | office worker  |
+| 김소라  | Kim Sora      | 딸             | daughter      | 5세  | 5   | —      | —              |
+| 김태형  | Kim Taehyeong | 아들           | son           | 3세  | 3   | —      | —              |
+
+### 질문에 답하세요 (Answer the questions)
+[jilmun-e dapaseyo]
+
+1. 이 사람은 형제가 몇 명 있어요?
+   [i saram-eun hyeongje-ga myeot myeong isseoyo?]
+   → How many siblings does this person have?
+   → (김민영 = 형 one older brother → 형제 1명)
+
+2. '아내', '딸', '아들'의 의미는 뭐예요?
+   ['anae', 'ttal', 'adeul'-ui uimi-neun mwo-yeyo?]
+   → What do '아내', '딸', '아들' mean?
+   → 아내 = wife, 딸 = daughter, 아들 = son
+
+### 읽고 맞는 것 고르세요 (Read and choose the correct answer)
+[ilgo majneun geot goreuseyo]
+
+저는 아버지, 어머니하고 같이 삽니다. 아버지와 어머니는 두 분 다 회사에 다니셔서 바쁘십니다. 그리고 저는 형이 있습니다. 형은 결혼을 해서 우리와 같이 안 삽니다. 형의 가족은 주말에 자주 우리 집에 옵니다. 형은 예쁜 딸이 있습니다. 아주 귀엽고 똑똑합니다.
+[jeo-neun abeoji, eomeoni-hago gachi samnida. abeoji-wa eomeoni-neun du bun da hoesa-e danisyeoseo ppappeusimnida. geurigo jeo-neun hyeong-i itseumnida. hyeong-eun gyeolhon-eul haeseo uri-wa gachi an samnida. hyeong-ui gajog-eun jumal-e jaju uri jib-e omnida. hyeong-eun yeppeun ttal-i itseumnida. aju gwiyeopgo ttokttokhamnida.]
+
+→ I live with my father and mother. Both my father and mother go to work, so they are busy. I have an older brother. He is married and does not live with us. His family often comes to our house on weekends. My brother has a pretty daughter. She is very cute and smart.
+
+① 어머니는 주부세요. — No (어머니는 회사에 다니심)
+[eomeoni-neun jubuseyo. — No (eomeoni-neun hoesa-e danisim)]
+② 저는 형의 가족과 함께 살아요. — No (형은 우리와 같이 안 삽니다)
+[jeo-neun hyeong-ui gajok-gwa hamkke sarayo. — No (hyeong-eun uri-wa gachi an samnida)]
+③ 형은 딸이 있어요. — Yes ✓
+[hyeong-eun ttal-i isseoyo. — Yes ✓]
+
+---
+
+## 연습 (Practice)
+[yeonseup]
+
+가족 소개 예시 (Introduce your family)
+[gajok sogae yesi]
+
+여러분은 가족이 어떻게 돼요? 가족들의 직업은 뭐예요?
+[yeoreobun-eun gajogi eotteoke dwaeyo? gajok-deur-ui jigeob-eun mwo-yeyo?]
+
+예:
+우리 가족은 아버지, 어머니, 누나, 형, 저, 다섯 명입니다.
+[uri gajog-eun abeoji, eomeoni, nuna, hyeong, jeo, daseot myeong-imnida.]
+→ Our family is five: father, mother, older sister, older brother, and me.
+
+아버지의 직업은 회사원입니다.
+[abeoji-ui jigeob-eun hoesawon-imnida.]
+→ My father's job is office worker.
+
+보기:
+[pogi]
+가: 아버지는 무엇을 하세요?
+[ga: abeoji-neun mueos-eul haseyo?]
+나: 아버지는 운동을 하세요.
+[na: abeoji-neun undong-eul haseyo.]
+
+예:
+[ye]
+우리 할아버지는 돌아가셨습니다. 할머니는 아주 건강하십니다. 할머니는 운동을 자주 하십니다. 그리고 산책을 아주 좋아하십니다.
+[uri harabeoji-neun dora-gasyeotseumnida. halmeoni-neun aju geonganghasimnida. halmeoni-neun undong-eul jaju hasimnida. geurigo sanchaeg-eul aju joahasimnika.]
+
+---
+
+## 쓰기 (Writing)
+[sseugi]
+
+저희 가족은 모두 5명입니다. 저, 아내, 아버지, 어머니, 할머니가 함께 살고 있습니다.
+[jeohi gajog-eun modu daseot myeong-imnida. jeo, anae, abeoji, eomeoni, halmeoni-ga hamkke salgo itseumnida.]
+→ There are 5 people in my family. Me, my wife, my father, my mother, and my grandmother all live together.
+
+저는 결혼한 두 명의 누나가 있습니다.
+[jeo-neun gyeolhon-han du myeong-ui nuna-ga itseumnida.]
+→ I have two older sisters who are married.
+
+그리고 고양이 두 마리도 있어요. 이름은 데이빗과 릴리입니다.
+[geurigo goyangi du mari-do isseoyo. ireum-eun Deibit-gwa Rilli-imnida.]
+→ I also have two cats. Their names are David and Lily.
+
+---
+
+## 새 어휘와 표현 (Vocabulary Review)
+[sae eohwiwa pyohyeon]
+- 가족  [gajok]  → family
+- 여동생  [yeodongsaeng]  → younger sister
+- 남동생  [namdongsaeng]  → younger brother
+- 형제  [hyeongje]  → brother(s) / siblings (brothers)
+- 신문  [sinmun]  → newspaper
+- 산책  [sanchaek]  → taking a walk
+- 아내  [anae]  → wife
+- 딸  [ttal]  → daughter
+- 아들  [adeul]  → son
+- 똑똑하다  [ttokttokhada]  → to be smart
+- 분  [bun]  → person (honorific counter)
+- 주부  [jubu]  → housewife
+- 함께  [hamkke]  → with
+
+---

@@ -1,5 +1,170 @@
 23rd - January - 2026
-Class 16
+Class 15
 
 ## TLDR - Key Points Covered:
-Chapter 8 - Part 1
+• Focus: Chapter 8 — 가족 (Family)
+• Skills: introducing family, asking and answering about family
+• Grammar: 의 (possession), -(으)시- (honorific)
+• Vocab: 가족 (Family), 존대 표현 (Honorifics)
+
+Chapter 8: 가족
+[gajok]
+→ Family
+
+---
+
+## Dialogue 1
+마크: 수진 씨의 가족은 몇 명이에요?
+[Makeu: Sujin ssi-ui gajog-eun myeot myeong-i-eyo?]
+→ Mark: How many family members do you have?
+
+수진: 다섯 명이에요. 아버지, 어머니, 언니, 동생이 있어요.
+[Sujin: daseot myeong-i-eyo. abeoji, eomeoni, eonni, dongsaeng-i isseoyo.]
+→ Sujin: Five. I have my father, mother, older sister, and younger sibling.
+
+마크: 남동생이에요, 여동생이에요?
+[Makeu: namdongsaeng-i-eyo, yeodongsaeng-i-eyo?]
+→ Mark: Is it a younger brother or sister?
+
+수진: 여동생이에요. 마크 씨는 가족이 몇 명이에요?
+[Sujin: yeodongsaeng-i-eyo. Makeu ssi-neun gajogi myeot myeong-i-eyo?]
+→ Sujin: Younger sister. How many family members do you have?
+
+마크: 우리 가족은 아버지, 어머니, 저, 세 명이에요.
+[Makeu: uri gajog-eun abeoji, eomeoni, jeo, se myeong-i-eyo.]
+→ Mark: I have my father, my mother, and me.
+
+저는 형제가 없어요.
+[jeo-neun hyeongje-ga eopseoyo.]
+→ I don't have any brothers or sisters.
+
+---
+
+## Dialogue 2
+수진: 저는 할아버지, 할머니하고 같이 살아요.
+[Sujin: jeo-neun harabeoji, halmeoni-hago gachi sarayo.]
+→ Sujin: I live with my grandfather and grandmother.
+
+치엔 씨도 할아버지, 할머니하고 같이 살아요?
+[Chien ssi-do harabeoji, halmeoni-hago gachi sarayo?]
+→ Do you live with your grandparents too?
+
+치엔: 아니요. 할아버지는 고향에 계세요.
+[Chien: aniyo. harabeoji-neun gohyang-e gyeseyo.]
+→ Chien: No. My grandfather lives in our hometown.
+
+그리고 할머니는 돌아가셨어요.
+[geurigo halmeoni-neun dora-gasyeosseoyo.]
+→ And my grandmother passed away.
+
+수진: 할아버지는 건강하세요?
+[Sujin: harabeoji-neun geonganghaseyo?]
+→ Sujin: Is your grandfather healthy?
+
+치엔: 네. 운동을 자주 하셔서 아주 건강하세요.
+[Chien: ne. undong-eul jaju hasyeoseo aju geonganghaseyo.]
+→ Chien: Yes. He is getting healthier as he works out very often.
+
+---
+
+## Vocabulary: 가족 (Family)
+- 할아버지  [harabeoji]  → grandfather
+- 할머니  [halmeoni]  → grandmother
+- 아버지  [abeoji]  → father
+- 어머니  [eomeoni]  → mother
+- 언니/누나  [eonni/nuna]  → older sister (언니: said by female / 누나: said by male)
+- 오빠/형  [oppa/hyeong]  → older brother (오빠: said by female / 형: said by male)
+- 동생  [dongsaeng]  → younger sibling
+
+## Vocabulary: 존대 표현 (Honorifics)
+- 계시다  [gyesida]  → to be (honorific)
+- 드시다  [deusida]  → to eat (honorific)
+- 주무시다  [jumusida]  → to sleep (honorific)
+- 말씀하시다  [malsseumhasida]  → to say (honorific)
+- 돌아가시다  [dora-gasida]  → to have passed away (honorific)
+- 편찮으시다  [pyeonchaneusida]  → to be sick (honorific)
+
+---
+
+## Grammar 1: 의
+[ui]
+→ possessive particle (belongs to / of)
+
+'의'는 명사에 붙어서 앞 명사의 소유임을 나타낸다.
+[ui-neun myeongsa-e buteo-seo ap myeongsa-ui soyu-im-eul natanaenda.]
+→ '의' is attached to a noun to indicate that this noun belongs to the noun before '의'.
+
+### Examples:
+가: 수진 씨의 동생은 학생이에요?
+[ga: Sujin ssi-ui dongsaeng-eun haksaeng-i-eyo?]
+→ A: Is Sujin's younger sibling a student?
+
+나: 아니요. 회사원이에요.
+[na: aniyo. hoesawon-i-eyo.]
+→ B: No. (They're) an office worker.
+
+가: 이 책은 타완 씨의 책이에요?
+[ga: i chaeg-eun Tawan ssi-ui chaeg-i-eyo?]
+→ A: Is this book Tawan's book?
+
+나: 아니요. 투이 씨의 책이에요.
+[na: aniyo. Tui ssi-ui chaeg-i-eyo.]
+→ B: No. It's Tui's book.
+
+### Pronunciation note:
+명사 뒤의 '의'는 '에'로 발음할 수 있다.
+[myeongsa dwi-ui 'ui'-neun 'e'-ro balum-hal su itda.]
+→ The '의' after a noun can be pronounced as '에'.
+
+---
+
+## Grammar 2: -(으)시-
+[-(eu)si-]
+→ honorific suffix (raises the subject)
+
+'-(으)시-'는 동사, 형용사, '명사+이다'의 뒤에 붙어서 그 문장의 주어를 높여 줄 때 사용한다.
+[-(eu)si-neun dongsa, hyeong-yongsa, 'myeongsa+ida'-ui dwi-e buteo-seo geu munjang-ui ju-eo-reul nopyeo jul ttae sayonghanda.]
+→ '-(으)시-' is attached to the root of a verb, adjective, or 'noun + 이다' to indicate honorifics.
+
+### Examples:
+아버지는 경찰이십니다. 요즘 아주 바쁘십니다.
+[abeoji-neun gyeongchal-isimnida. yojeum aju ppappeusimnida.]
+→ (My) father is a police officer. He is very busy these days.
+
+어머니가 전화하셨어요.
+[eomeoni-ga jeonhwa-hasyeosseoyo.]
+→ (My) mother called.
+
+가: 아버지는 나가셨어요?
+[ga: abeoji-neun nagasyeosseoyo?]
+→ A: Did (your) father go out?
+
+나: 아니요. 방에서 신문을 읽으세요.
+[na: aniyo. bang-eseo sinmun-eul ilgeuseyo.]
+→ B: No. He's reading the newspaper in his room.
+
+---
+
+## Practice (from textbook)
+
+### Example: asking about family
+가: 치엔 씨의 형은 직업이 뭐예요?
+[ga: Chien ssi-ui hyeong-eun jigeob-i mwo-yeyo?]
+→ A: What is Chien's older brother's job?
+
+나: 치엔 씨의 형은 회사원이에요.
+[na: Chien ssi-ui hyeong-eun hoesawon-i-eyo.]
+→ B: Chien's older brother is an office worker.
+
+### Example: honorifics with family
+가: 아버지는 무엇을 하세요?
+[ga: abeoji-neun mueos-eul haseyo?]
+→ A: What does (your) father do?
+
+나: 아버지는 운동을 하세요.
+[na: abeoji-neun undong-eul haseyo.]
+→ B: (My) father exercises.
+
+예: 우리 할아버지는 돌아가셨습니다. 할머니는 아주 건강하십니다.
+[ye: uri harabeoji-neun dora-gasyeotseumnida. halmeoni-neun aju geonganghasimnida.]
+→ e.g. My grandfather has passed away. My grandmother is very healthy.
