@@ -2,9 +2,9 @@
 Class 16
 
 ## TLDR - Key Points Covered:
-• Focus: Chapter 8 — 가족 (Family) — Part 2
-• Skills: reading tables and short texts, writing family introductions, practice with 직업/취미/외모 [jigeob/chwimi/oemoe]
-• Content: 읽고 쓰기 [ilgo sseugi], 연습 [yeonseup], 새 어휘와 표현 [sae eohwiwa pyohyeon], self-evaluation
+• Focus: Chapter 8 — 가족 (Family) — Part 2; Chapter 9 - 여행 (Travel) — Dialogues & Vocabulary
+• Skills: reading tables and short texts, writing family introductions, practice with 직업/취미/외모 [jigeob/chwimi/oemoe]; talking about travel experiences/plans, two dialogues, vocab
+• Content: 읽고 쓰기 [ilgo sseugi], 연습 [yeonseup], 새 어휘와 표현 [sae eohwiwa pyohyeon], self-evaluation; 대화 1·2, 어휘 (여행지 특징, 여행지, 새 어휘)
 
 
 ---
@@ -119,5 +119,104 @@ Class 16
 - 분  [bun]  → person (honorific counter)
 - 주부  [jubu]  → housewife
 - 함께  [hamkke]  → with
+
+---
+
+## Chapter 9 - 여행 (Travel) — 대화 & 어휘
+[yeohaeng — daehwa & eohwi]
+
+### 학습 목표 (Learning Objectives)
+[hagseup mokpyo]
+• 여행 경험 이야기하기 | Talking About Travel Experiences
+• 여행 계획 이야기하기 | Talking About Travel Plans
+
+### 대화 1 (Dialogue 1)
+[daehwa 1]
+
+치엔 : 토야 씨는 한국에 가 봤어요?
+[Chien : Toya ssi-neun Hanguk-e ga bwasseoyo?]
+Chien : Toya, have you ever been to Korea?
+
+토야 : 아니요, 아직 못 가 봤어요. 치엔 씨는요?
+[Toya : Aniyo, ajik mot ga bwasseoyo. Chien ssi-neunyo?]
+Toya : No, I haven't yet. What about you, Chien?
+
+치엔 : 작년에 서울에 가 봤어요.
+[Chien : Jangnyeon-e Seoul-e ga bwasseoyo.]
+Chien : I went to Seoul last year.
+
+토야 : 서울은 어때요?
+[Toya : Seoul-eun eottaeyo?]
+Toya : How is Seoul?
+
+치엔 : 교통이 편리하고 사람들이 친절해요.
+[Chien : Gyotong-i pyeollihago saram-deul-i chinjeolhaeyo.]
+Chien : The city has a convenient public transportation system, and is full of kind people.
+
+### 대화 2 (Dialogue 2)
+[daehwa 2]
+
+타완 : 로라 씨, 이번 방학에 뭐 할 거예요?
+[Tawan : Lora ssi, ibeon banghak-e mwo hal geoyeyo?]
+Tawan : Lora, do you have any plans for the vacation?
+
+로라 : 여행을 하고 싶어요.
+[Lora : Yeohaeng-eul hago sipeoyo.]
+Lora : I want to travel.
+
+타완 : 어디에 갈 거예요?
+[Tawan : Eodi-e gal geoyeyo?]
+Tawan : Where are you going?
+
+로라 : 글쎄요, 아직 잘 모르겠어요. 하지만 온천이 있고 근처에 유적지도 있는 곳에 가고 싶어요.
+[Lora : Geulsseyo, ajik jal moreugesseoyo. hajiman oncheon-i itgo geuncheo-e yujeokji-do inneun got-e gago sipeoyo.]
+Lora : Well, I don't know yet. But I want to go somewhere with hot springs and historical sites nearby.
+
+### 어휘 — 여행지 특징 (Features of attractions)
+[eohwi — yeohaengji teukjing]
+
+| 어휘 Vocabulary | 뜻 Meaning |
+|-----------------|------------|
+| 아름답다 [areumdapda] | to be beautiful |
+| 유명하다 [yumyeonghada] | to be famous (for) |
+| 경치가 좋다 [gyeongchi-ga jota] | to have a fine view |
+| 공기가 맑다 [gonggi-ga makda] | to have clean air |
+| 사람들이 친절하다 [saram-deul-i chinjeolhada] | People are kind. |
+| 교통이 편리하다/불편하다 [gyotong-i pyeollihada/bulpyeonhada] | to have convenient/inconvenient transportation |
+
+### 어휘 — 여행지 (Attractions)
+[eohwi — yeohaengji]
+
+| 어휘 Vocabulary | 뜻 Meaning |
+|-----------------|------------|
+| 강 [gang] | river |
+| 섬 [seom] | island |
+| 호수 [hosu] | lake |
+| 온천 [oncheon] | hot springs |
+| 폭포 [pokpo] | waterfall |
+| 유적지 [yujeokji] | historical site |
+| 민속촌 [minsokchon] | folk village |
+| 드라마 촬영지 [deurama chwaryeongji] | drama filming location |
+
+### 새 어휘 — 여행 (Vocabulary Review)
+[sae eohwi — yeohaeng]
+- 아직 [ajik] → yet
+- 특히 [teukhi] → especially
+- 서울 [Seoul] → Seoul
+- 작년 [jangnyeon] → last year
+- 잡채 [japchae] → japchae
+- 제주도 [Jejudo] → Jeju Island
+- 사원 [sawon] → temple
+- 경주 [Gyeongju] → Gyeongju
+- 하지만 [hajiman] → But...
+- 글쎄요 [geulsseyo] → Hmm, well...
+- 놀이공원 [nori-gongwon] → theme park
+- 곳 [got] → place
+- 동해 [Donghae] → Donghae (East Sea)
+- 드라마 [deurama] → drama
+- 속초 [Sokcho] → Sokcho
+- 관심 [gwansim] → interest
+- 제공 [jegong] → to provide / support
+- 즐기다 [jeulgida] → to enjoy
 
 ---

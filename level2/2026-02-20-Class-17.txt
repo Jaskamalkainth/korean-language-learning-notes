@@ -1,7 +1,151 @@
 20th - Feb - 2026
 Class 17
 
-(I missed)
-
 ## TLDR - Key Points Covered:
-Chapter 9 - Part 2
+• Focus: Chapter — 여행 (Travel) — Grammar, Practice, Read & Write
+• Grammar: -아/어 보다 (experience), -고 싶다 (want to)
+• Content: 문법 [munbeop], 연습 [yeonseup], 읽고 쓰기 [ilgo sseugi], Evaluate Yourself
+
+
+---
+
+## 문법 (Grammar)
+[munbeop]
+
+### -아/어 보다
+[-a/eo boda]
+
+'-아/어 보다'는 동사 뒤에 붙어서 그 일에 대한 경험을 나타낸다.
+['-a/eo boda'-neun dongsa dwi-e buteoseo geu il-e daehan gyeongheom-eul natanaenda.]
+'-아/어 보다' is attached to a verb root to indicate having experienced/done that activity before.
+
+| 예문 Example | Meaning |
+|--------------|---------|
+| 제주도에 가 봤어요? [Jejudo-e ga bwasseoyo?] | Have you been to Jeju? |
+| 네, 가 봤어요. 아주 아름다웠어요. [Ne, ga bwasseoyo. Aju areumdawosseoyo.] | Yes, I have. It was very beautiful. |
+| 저는 어제 잡채를 만들어 봤어요. [Jeo-neun eoje japchae-reul mandeureo bwasseoyo.] | I tried making japchae yesterday. |
+| 치엔 씨는 아르바이트를 해 봤어요? / 아니요, 안 해 봤어요. [Chien ssi-neun areubaiteu-reul hae bwasseoyo? / Aniyo, an hae bwasseoyo.] | Have you done a part-time job? / No, I haven't. |
+
+
+### -고 싶다
+[-go sipda]
+
+'-고 싶다'는 동사 뒤에 붙어서 희망을 나타낸다.
+['-go sipda'-neun dongsa dwi-e buteoseo huimang-eul natanaenda.]
+'-고 싶다' is attached to a verb root to indicate the speaker's wish or desire.
+
+| 예문 Example | Meaning |
+|--------------|---------|
+| 타완 씨는 주말에 어디에 가고 싶어요? [Tawan ssi-neun jumal-e eodi-e gago sipeoyo?] | Where do you want to go this weekend? |
+| 저는 놀이공원에 가고 싶어요. [Jeo-neun nori-gongwon-e gago sipeoyo.] | I want to go to a theme park. |
+| 저는 갈비를 먹고 싶어요. [Jeo-neun galbi-reul meokgo sipeoyo.] | I want to eat galbi. |
+| 우리는 한국 드라마를 보고 싶어요. [Uri-neun Hanguk deurama-reul bogo sipeoyo.] | We want to watch a Korean drama. |
+
+
+---
+
+## 연습 (Practice)
+[yeonseup]
+
+### 1. 표를 보고 대화하기 (Table dialogue)
+[pyo-reul bogo daehwahagi]
+
+| 서울 Seoul | 교통이 편리하다 [gyotong-i pyeollihada] |
+| 제주도 Jeju | 경치가 좋다 [gyeongchi-ga jota] |
+| 경주 Gyeongju | 사람들이 친절하다 [saram-deul-i chinjeolhada] |
+| 설악산 Seoraksan | 아름답고 공기가 맑다 [areumdapgo gonggi-ga makda] |
+
+보기 Example:
+[pogi]
+가 : 한국에 가 봤어요?
+[ga : Hanguk-e ga bwasseoyo?]
+나 : 네, 서울에 가 봤어요.
+[na : Ne, Seoul-e ga bwasseoyo.]
+가 : 서울은 어때요?
+[ga : Seoul-eun eottaeyo?]
+나 : 교통이 편리해요.
+[na : Gyotong-i pyeollihaeyo.]
+
+
+### 2. 연습 문장 (Practice sentences)
+[yeonseup munjang]
+
+• 가 : 로라 씨는 어디에 가고 싶어요?
+  [ga : Lora ssi-neun eodi-e gago sipeoyo?]
+  나 : __________ 저는 민속촌에 가고 싶어요.
+  [na : __________ Jeo-neun minsokchon-e gago sipeoyo.]
+
+• 여러분은 어디에 가고 싶어요? 친구와 이야기해 보세요.
+  [Yeoreobun-eun eodi-e gago sipeoyo? chingu-wa iyagihae boseyo.]
+  가 : 치엔 씨는 어디에 가고 싶어요?
+  [ga : Chien ssi-neun eodi-e gago sipeoyo?]
+  나 : 저는 드라마 촬영지에 가고 싶어요. 토이 씨는요?
+  [na : Jeo-neun deurama chwaryeongji-e gago sipeoyo. Toi ssi-neunyo?]
+  가 : 저는 바다에 가고 싶어요.
+  [ga : Jeo-neun bada-e gago sipeoyo.]
+
+
+---
+
+## 읽고 쓰기 (Read and Write)
+[ilgo sseugi]
+
+### 1. 여행 안내문 (Travel information)
+[yeohaeng annaemun]
+
+속초에서 설악산과 동해 바다를 함께 즐겨요!
+[Sokcho-eseo Seoraksan-gwa Donghae bada-reul hamkke jeulgyeoyo!]
+Enjoy Seoraksan and the East Sea in Sokcho!
+
+• 매주 토요일 아침 8시 서울역 출발 [maeju toyoil achim 8si Seoul-yeok chulbal]
+• 1인 65,000원 [1in 65,000won]
+• 기차, 버스, 점심 제공 [gicha, beoseu, jeomsim jegong]
+• 인터넷 예약 : www.sejongtour.com [inteonet yeyak]
+
+질문 (Questions):
+[jilmun]
+1. 기차하고 버스를 타고 속초에 가요. [gicha-hago beoseu-reul tago Sokcho-e gayo.] → 네 ✓  아니요 ____
+   (Answer: 네 — 안내문에 기차, 버스 제공)
+2. 속초에 산과 바다가 있어요. [Sokcho-e san-gwa bada-ga isseoyo.] → 네 ✓  아니요 ____
+   (Answer: 네 — 설악산과 동해 바다)
+
+
+### 2. 읽고 질문에 답하십시오 (Read and answer)
+[ilgo jilmun-e dapasipsio]
+
+저는 한국에 관심이 많습니다. 특히 한국 드라마를 좋아합니다. 하지만 아직 한국에 못 가 봤습니다. 이번에 한국어를 열심히 공부해서 한국에 여행을 갈 겁니다. 제주도에 꼭 가 보고 싶습니다. 한국 드라마에서 제주도를 많이 봤습니다. 드라마에서 본 제주도의 바다, 산, 폭포가 아주 아름다웠습니다. 그래서 제주도에 가서 사진을 많이 찍고 싶습니다.
+[Jeo-neun Hanguk-e gwansim-i manseumnida. Teukhi Hanguk deurama-reul joahamnida. Hajiman ajik Hanguk-e mot ga bwatseumnida. Ibeon-e hangugeo-reul yeolsimhi gongbuhaseo Hanguk-e yeohaeng-eul gal geomnida. Jejudo-e kkok ga bogo sipseumnida. Hanguk deurama-eseo Jejudo-reul mani bwatseumnida. Deurama-eseo bon Jejudo-ui bada, san, pokpo-ga aju areumdawotseumnida. Geuraeseo Jejudo-e gaseo sajin-eul mani jjikgo sipseumnida.]
+
+[I am very interested in Korea. I especially like Korean dramas. But I haven't been to Korea yet. I will study Korean hard and travel to Korea. I really want to go to Jeju. I have seen Jeju a lot in Korean dramas. The sea, mountains and waterfalls of Jeju in the dramas were very beautiful. So I want to go to Jeju and take lots of photos.]
+
+1) 맞는 답에 √표 하세요.
+[matneun dap-e √ pyo haseyo]
+(1) 저는 제주도에 가 봤어요. [Jeo-neun Jejudo-e ga bwasseoyo.] → 네 ____  아니요 ✓
+   (Answer: 아니요 — 글에 "아직 한국에 못 가 봤습니다")
+(2) 저는 제주도에서 찍은 드라마를 봤어요. [Jeo-neun Jejudo-eseo jjigeun deurama-reul bwasseoyo.] → 네 ✓  아니요 ____
+   (Answer: 네 — "한국 드라마에서 제주도를 많이 봤습니다")
+(3) 저는 제주도에 가서 사진을 찍을 거예요. [Jeo-neun Jejudo-e gaseo sajin-eul jjigeul geoyeyo.] → 네 ✓  아니요 ____
+   (Answer: 네 — "제주도에 가서 사진을 많이 찍고 싶습니다", "여행을 갈 겁니다")
+
+2) 제주도에 대한 설명으로 맞는 것을 고르세요.
+[Jejudo-e daehan seolmyeong-euro matneun geot-eul goreuseyo.]
+① 교통이 불편해요. [gyotong-i bulpyeonhaeyo.]
+② 강이 있어요. [gang-i isseoyo.]
+③ 드라마 촬영지예요. [deurama chwaryeongjiyeyo.]
+   (Answer: ③ — 글에서 드라마 촬영지로 제주도를 봤다고 함)
+
+
+---
+
+## 말하기 활동 (Speaking tasks)
+[malhagi hwaldong]
+
+4. 여러분은 여행을 많이 해 봤어요? 어디에 가 봤어요? 또 어디에 가고 싶어요? 친구와 이야기해 보세요.
+   [Yeoreobun-eun yeohaeng-eul mani hae bwasseoyo? eodi-e ga bwasseoyo? tto eodi-e gago sipeoyo? chingu-wa iyagihae boseyo.]
+   Do you have a lot of travel experience? Where have you been? Where do you want to go? Talk with a friend.
+
+5. 여러분이 가 본 여행지를 친구들에게 소개해 보세요.
+   [Yeoreobun-i ga bon yeohaengji-reul chingu-deurege sogaehae boseyo.]
+   Introduce a place you have been to your friends.
+
+---
